@@ -1,0 +1,2853 @@
+,Player,Nationality,Position,Club Team,League,Age,Matches Played,Goals,Assists,Expected Goals
+0,Max Aarons,eng ENG,DF,Bournemouth,eng Premier League,23,20,0,1,0.0
+1,Brenden Aaronson,us USA,"MF,FW",Union Berlin,de Bundesliga,22,30,2,2,2.0
+2,Paxten Aaronson,us USA,MF,Eint Frankfurt,de Bundesliga,19,7,0,1,0.1
+3,Keyliane Abdallah,fr FRA,FW,Marseille,fr Ligue 1,17,1,0,0,0.0
+4,Yunis Abdelhamid,ma MAR,DF,Reims,fr Ligue 1,35,31,4,0,3.4
+5,Salis Abdul Samed,gh GHA,MF,Lens,fr Ligue 1,23,27,0,0,0.8
+6,Nabil Aberdin,fr FRA,DF,Getafe,es La Liga,20,2,0,0,0.0
+7,Laurent Abergel,fr FRA,MF,Lorient,fr Ligue 1,30,33,2,1,1.1
+8,Matthis Abline,fr FRA,FW,Nantes,fr Ligue 1,20,22,5,0,3.8
+9,Abner,br BRA,DF,Betis,es La Liga,23,23,0,1,0.1
+10,Zakaria Aboukhlal,ma MAR,"MF,FW",Toulouse,fr Ligue 1,23,13,3,0,2.8
+11,Abdel Abqar,ma MAR,DF,Alavés,es La Liga,24,27,0,0,0.5
+12,Tammy Abraham,eng ENG,FW,Roma,it Serie A,25,8,1,0,0.6
+13,Francesco Acerbi,it ITA,DF,Inter,it Serie A,35,29,3,1,1.6
+14,Joshua Acheampong,eng ENG,DF,Chelsea,eng Premier League,17,1,0,0,0.0
+15,Marcos Acuña,ar ARG,DF,Sevilla,es La Liga,31,21,1,2,0.3
+16,Akor Adams,ng NGA,FW,Montpellier,fr Ligue 1,23,32,8,1,12.4
+17,Tyler Adams,us USA,MF,Bournemouth,eng Premier League,24,3,0,0,0.0
+18,Junior Adamu,at AUT,"FW,MF",Freiburg,de Bundesliga,22,15,0,0,0.1
+19,Sargis Adamyan,am ARM,"FW,MF",Köln,de Bundesliga,30,20,1,2,4.1
+20,Tosin Adarabioyo,eng ENG,DF,Fulham,eng Premier League,25,20,2,0,0.7
+21,Elijah Adebayo,eng ENG,FW,Luton Town,eng Premier League,25,27,10,0,5.9
+22,Karim Adeyemi,de GER,"FW,MF",Dortmund,de Bundesliga,21,21,3,1,3.5
+23,Simon Adingra,ci CIV,FW,Brighton,eng Premier League,21,31,6,1,4.3
+24,Nathaniel Adjei,gh GHA,DF,Lorient,fr Ligue 1,20,15,0,0,0.4
+25,Amine Adli,ma MAR,"MF,FW",Leverkusen,de Bundesliga,23,23,4,6,3.3
+26,Yacine Adli,fr FRA,MF,Milan,it Serie A,23,24,1,2,0.3
+27,Adryelson,br BRA,"DF,FW",Lyon,fr Ligue 1,25,2,0,0,0.0
+28,Adson,br BRA,"MF,FW",Nantes,fr Ligue 1,22,8,0,0,0.2
+29,Michel Aebischer,ch SUI,MF,Bologna,it Serie A,26,36,0,1,1.1
+30,Emmanuel Agbadou,ci CIV,DF,Reims,fr Ligue 1,26,32,1,1,2.4
+31,Julen Agirrezabala,es ESP,GK,Athletic Club,es La Liga,22,4,0,0,0.0
+32,Lucien Agoume,fr FRA,MF,Inter,it Serie A,21,1,0,0,0.0
+33,Lucien Agoume,fr FRA,MF,Sevilla,es La Liga,21,12,0,0,0.9
+34,Felix Agu,de GER,"DF,MF",Werder Bremen,de Bundesliga,23,24,0,0,0.9
+35,Nayef Aguerd,ma MAR,DF,West Ham,eng Premier League,27,21,1,0,1.5
+36,Ruben Aguilar,fr FRA,DF,Lens,fr Ligue 1,30,25,1,3,1.4
+37,Brandon Aguilera,cr CRC,FW,Nott'ham Forest,eng Premier League,20,1,0,0,0.0
+38,Naouirou Ahamada,fr FRA,"MF,FW",Crystal Palace,eng Premier League,21,20,0,0,0.5
+39,Anel Ahmedhodžić,ba BIH,DF,Sheffield Utd,eng Premier League,24,31,2,0,3.1
+40,Joseph Aidoo,gh GHA,DF,Celta Vigo,es La Liga,27,6,0,0,0.1
+41,Ola Aina,ng NGA,DF,Nott'ham Forest,eng Premier League,26,22,1,1,0.3
+42,Rayan Aït-Nouri,dz ALG,"DF,MF",Wolves,eng Premier League,22,33,2,1,3.3
+43,Tosin Aiyegun,bj BEN,"MF,FW",Lorient,fr Ligue 1,25,19,2,0,1.8
+44,Kristoffer Ajer,no NOR,DF,Brentford,eng Premier League,25,28,2,1,1.3
+45,Ludovic Ajorque,fr FRA,FW,Mainz 05,de Bundesliga,29,26,2,0,5.3
+46,Manuel Akanji,ch SUI,"DF,MF",Manchester City,eng Premier League,28,30,2,0,1.9
+47,Marley Aké,fr FRA,FW,Udinese,it Serie A,22,1,0,0,0.0
+48,Nathan Aké,nl NED,DF,Manchester City,eng Premier League,28,29,2,2,2.5
+49,Ilias Akhomach,ma MAR,"MF,FW",Villarreal,es La Liga,19,31,2,2,3.2
+50,Sergio Akieme,es ESP,DF,Almería,es La Liga,25,19,2,0,1.2
+51,Sergio Akieme,es ESP,DF,Reims,fr Ligue 1,25,13,2,0,1.4
+52,Ebenezer Akinsanmiro,ng NGA,MF,Inter,it Serie A,18,1,0,0,0.0
+53,Maghnes Akliouche,fr FRA,"MF,FW",Monaco,fr Ligue 1,21,28,7,4,5.4
+54,Paul Akouokou,ci CIV,MF,Betis,es La Liga,25,2,0,0,0.0
+55,Paul Akouokou,ci CIV,MF,Lyon,fr Ligue 1,25,8,0,0,0.1
+56,Jean-Daniel Akpa-Akpro,ci CIV,MF,Monza,it Serie A,30,19,0,0,0.5
+57,David Akpan Ankeye,ng NGA,FW,Genoa,it Serie A,21,6,0,0,0.0
+58,Kevin Akpoguma,ng NGA,DF,Hoffenheim,de Bundesliga,28,17,0,0,0.3
+59,David Alaba,at AUT,DF,Real Madrid,es La Liga,31,14,0,1,1.0
+60,Luis Alberto,es ESP,MF,Lazio,it Serie A,30,33,5,7,4.7
+61,Raúl Albiol,es ESP,DF,Villarreal,es La Liga,37,26,0,1,0.4
+62,Thiago Alcántara,es ESP,MF,Liverpool,eng Premier League,32,1,0,0,0.0
+63,Carlos Alcaraz,ar ARG,MF,Juventus,it Serie A,20,10,0,1,0.4
+64,Rubén Alcaraz,es ESP,MF,Cádiz,es La Liga,32,36,3,1,3.3
+65,Omar Alderete,py PAR,DF,Getafe,es La Liga,26,31,0,1,1.2
+66,Iván Alejo,es ESP,MF,Cádiz,es La Liga,28,30,0,2,0.5
+67,Carles Aleñá,es ESP,MF,Getafe,es La Liga,25,29,1,1,1.2
+68,Trent Alexander-Arnold,eng ENG,DF,Liverpool,eng Premier League,24,28,3,4,2.6
+69,Aboubacar Ali,fr FRA,"MF,FW",Strasbourg,fr Ligue 1,17,9,0,1,0.2
+70,Mohamed Ali Cho,fr FRA,"FW,MF",Real Sociedad,es La Liga,19,11,0,0,0.4
+71,Mohamed Ali Cho,fr FRA,FW,Nice,fr Ligue 1,19,17,1,2,1.1
+72,Faride Alidou,de GER,"FW,MF",Köln,de Bundesliga,22,26,4,0,3.0
+73,Nabil Alioui,fr FRA,"MF,FW",Le Havre,fr Ligue 1,24,18,4,1,2.4
+74,Alisson,br BRA,GK,Liverpool,eng Premier League,30,28,0,0,0.0
+75,Tadeo Allende,ar ARG,"MF,FW",Celta Vigo,es La Liga,24,10,1,0,1.2
+76,Jim Allevinah,ga GAB,"MF,DF",Clermont Foot,fr Ligue 1,28,29,2,1,2.6
+77,Domingos André Ribeiro Almeida,pt POR,"FW,MF",Valencia,es La Liga,23,18,2,1,0.6
+78,Miguel Almirón,py PAR,FW,Newcastle Utd,eng Premier League,29,33,3,1,4.5
+79,Pontus Almqvist,se SWE,"FW,MF",Lecce,it Serie A,24,30,2,1,2.3
+80,Marcos Alonso,es ESP,DF,Barcelona,es La Liga,32,5,0,0,0.1
+81,Adrià Altimira,es ESP,"DF,MF",Villarreal,es La Liga,22,11,0,0,0.0
+82,Sergi Altimira,es ESP,MF,Betis,es La Liga,21,14,1,0,0.2
+83,Edson Álvarez,mx MEX,MF,West Ham,eng Premier League,25,31,1,1,1.3
+84,Gastón Álvarez,uy URU,DF,Getafe,es La Liga,23,34,2,0,0.7
+85,Hugo Álvarez,es ESP,"MF,DF",Celta Vigo,es La Liga,20,12,1,1,1.0
+86,Julián Álvarez,ar ARG,"MF,FW",Manchester City,eng Premier League,23,36,11,8,13.0
+87,Yeray Álvarez,es ESP,DF,Athletic Club,es La Liga,28,19,0,0,0.3
+88,Skelly Alvero,fr FRA,MF,Lyon,fr Ligue 1,21,8,1,0,0.4
+89,Skelly Alvero,fr FRA,MF,Werder Bremen,de Bundesliga,21,6,1,0,0.3
+90,Papa Amadou Diallo,sn SEN,FW,Metz,fr Ligue 1,19,16,2,1,2.6
+91,Selim Amallah,ma MAR,"FW,MF",Valencia,es La Liga,26,20,0,1,0.4
+92,Amath,sn SEN,"FW,MF",Mallorca,es La Liga,27,15,0,0,1.6
+93,Lorenzo Amatucci,it ITA,MF,Fiorentina,it Serie A,19,2,0,0,0.0
+94,Jordan Amavi,fr FRA,DF,Brest,fr Ligue 1,29,2,1,0,0.1
+95,Zeki Amdouni,ch SUI,FW,Burnley,eng Premier League,22,34,5,1,5.8
+96,Kelvin Amian,fr FRA,DF,Nantes,fr Ligue 1,25,12,0,1,0.1
+97,Bruno Amione,ar ARG,DF,Hellas Verona,it Serie A,21,10,0,0,0.3
+98,Michael Amir Murillo,pa PAN,DF,Marseille,fr Ligue 1,27,16,3,2,0.8
+99,Nadiem Amiri,de GER,MF,Mainz 05,de Bundesliga,26,15,1,4,2.2
+100,Nadiem Amiri,de GER,MF,Leverkusen,de Bundesliga,26,8,0,0,0.1
+101,Kofi Amoako,de GER,MF,Wolfsburg,de Bundesliga,18,2,0,0,0.0
+102,Sofyan Amrabat,ma MAR,"MF,DF",Manchester Utd,eng Premier League,26,21,0,0,0.1
+103,Joachim Andersen,dk DEN,DF,Crystal Palace,eng Premier League,27,38,2,3,1.7
+104,Elliot Anderson,eng ENG,"MF,FW",Newcastle Utd,eng Premier League,20,21,0,2,1.5
+105,Felipe Anderson,br BRA,"FW,MF",Lazio,it Serie A,30,38,5,6,4.4
+106,Benjamin André,fr FRA,MF,Lille,fr Ligue 1,32,30,4,0,2.6
+107,Komnen Andrić,rs SRB,FW,Clermont Foot,fr Ligue 1,28,7,0,0,0.1
+108,Robert Andrich,de GER,"MF,DF",Leverkusen,de Bundesliga,28,28,4,2,1.7
+109,Miguel Ángel Rubio,es ESP,DF,Granada,es La Liga,25,19,1,0,0.8
+110,Angeliño,es ESP,DF,Roma,it Serie A,26,16,0,1,0.2
+111,Ângelo,br BRA,"FW,MF",Strasbourg,fr Ligue 1,18,21,0,3,0.4
+112,Fabrizio Angileri,ar ARG,"DF,MF",Getafe,es La Liga,29,11,0,0,0.0
+113,Jaidon Anthony,eng ENG,FW,Bournemouth,eng Premier League,23,3,0,0,0.1
+114,Waldemar Anton,de GER,DF,Stuttgart,de Bundesliga,27,33,0,3,1.7
+115,Michail Antonio,jm JAM,FW,West Ham,eng Premier League,33,26,6,2,5.8
+116,Antony,br BRA,FW,Manchester Utd,eng Premier League,23,29,1,1,3.4
+117,Christopher Antwi-Adjei,gh GHA,"FW,MF",Bochum,de Bundesliga,29,25,2,2,2.2
+118,Houssem Aouar,dz ALG,"MF,FW",Roma,it Serie A,25,16,4,0,2.3
+119,Stredair Appuah,fr FRA,"FW,MF",Nantes,fr Ligue 1,19,4,0,0,0.4
+120,Mauro Arambarri,uy URU,MF,Getafe,es La Liga,27,7,0,0,0.5
+121,Jon Aramburu,ve VEN,DF,Real Sociedad,es La Liga,21,11,0,0,0.1
+122,Asaf Arania,il ISR,MF,Darmstadt 98,de Bundesliga,17,1,0,0,0.0
+123,Julian Araujo,mx MEX,DF,Las Palmas,es La Liga,21,25,1,0,0.7
+124,Ronald Araújo,uy URU,DF,Barcelona,es La Liga,24,25,1,2,2.1
+125,Oliver Arblaster,eng ENG,MF,Sheffield Utd,eng Premier League,19,12,0,0,0.0
+126,Cameron Archer,eng ENG,"FW,MF",Sheffield Utd,eng Premier League,22,29,4,1,5.5
+127,Cameron Archer,eng ENG,MF,Aston Villa,eng Premier League,22,1,0,0,0.0
+128,Alphonse Areola,fr FRA,GK,West Ham,eng Premier League,30,31,0,0,0.0
+129,Adu Ares,es ESP,FW,Athletic Club,es La Liga,21,12,0,0,0.1
+130,Jesús Areso,es ESP,DF,Osasuna,es La Liga,24,37,1,6,0.2
+131,Simone Aresti,it ITA,GK,Cagliari,it Serie A,37,1,0,0,0.0
+132,Matias Arezo,uy URU,FW,Granada,es La Liga,20,14,0,0,1.2
+133,Iñigo Arguibide,es ESP,DF,Osasuna,es La Liga,18,1,0,0,0.0
+134,Yoël Armougom,fr FRA,"DF,MF",Clermont Foot,fr Ligue 1,25,5,0,0,0.0
+135,José Arnaiz,es ESP,"FW,MF",Osasuna,es La Liga,28,26,2,1,1.7
+136,Hákon Arnar Haraldsson,is ISL,"FW,MF",Lille,fr Ligue 1,20,26,2,0,0.8
+137,Marko Arnautović,at AUT,FW,Inter,it Serie A,34,27,5,3,5.0
+138,Maximilian Arnold,de GER,MF,Wolfsburg,de Bundesliga,29,30,2,1,1.0
+139,Mohamed El Arouch,fr FRA,FW,Lyon,fr Ligue 1,19,1,0,0,0.0
+140,Sergio Arribas,es ESP,"MF,FW",Almería,es La Liga,21,34,9,4,8.6
+141,Kepa Arrizabalaga,es ESP,GK,Real Madrid,es La Liga,28,14,0,0,0.0
+142,Arthur,br BRA,DF,Leverkusen,de Bundesliga,20,4,0,2,0.1
+143,Takuma Asano,jp JPN,"FW,MF",Bochum,de Bundesliga,28,29,6,1,7.9
+144,Marco Asensio,es ESP,"MF,FW",Paris S-G,fr Ligue 1,27,19,4,5,3.2
+145,Kristjan Asllani,al ALB,MF,Inter,it Serie A,21,23,1,2,0.6
+146,Joel Asoro,se SWE,"FW,MF",Metz,fr Ligue 1,24,20,2,1,0.6
+147,Jonathan Asp Jensen,dk DEN,FW,Bayern Munich,de Bundesliga,17,1,0,0,0.0
+148,Iago Aspas,es ESP,FW,Celta Vigo,es La Liga,35,35,9,10,11.5
+149,Lorenz Assignon,tg TOG,DF,Burnley,eng Premier League,23,15,1,2,0.4
+150,Lorenz Assignon,tg TOG,DF,Rennes,fr Ligue 1,23,14,1,1,0.4
+151,Youcef Atal,dz ALG,DF,Nice,fr Ligue 1,27,6,1,0,0.1
+152,Valentin Atangana Edoa,fr FRA,MF,Reims,fr Ligue 1,17,15,0,0,0.5
+153,Arthur Atta,fr FRA,"MF,FW",Metz,fr Ligue 1,20,21,1,2,0.6
+154,Noah Atubolu,de GER,GK,Freiburg,de Bundesliga,21,34,0,0,0.0
+155,Pierre-Emerick Aubameyang,ga GAB,FW,Marseille,fr Ligue 1,34,34,17,8,20.5
+156,Emil Audero,it ITA,GK,Inter,it Serie A,26,4,0,0,0.0
+157,Tommaso Augello,it ITA,DF,Cagliari,it Serie A,28,32,1,1,0.5
+158,Carlos Augusto,br BRA,DF,Inter,it Serie A,24,37,0,3,1.0
+159,Yann Aurel Bisseck,de GER,DF,Inter,it Serie A,22,16,2,0,0.9
+160,Serge Aurier,ci CIV,"DF,MF",Nott'ham Forest,eng Premier League,30,12,0,2,0.2
+161,Ezequiel Ávila,ar ARG,"FW,MF",Osasuna,es La Liga,29,17,1,3,2.0
+162,Ezequiel Ávila,ar ARG,FW,Betis,es La Liga,29,6,1,0,0.7
+163,Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,eng Premier League,25,20,6,3,4.7
+164,André Ayew,gh GHA,FW,Le Havre,fr Ligue 1,33,19,5,0,3.1
+165,Jordan Ayew,gh GHA,"FW,MF",Crystal Palace,eng Premier League,31,35,4,7,3.9
+166,Neil El Aynaoui,fr FRA,MF,Lens,fr Ligue 1,22,25,1,2,2.4
+167,Sardar Azmoun,ir IRN,"FW,MF",Roma,it Serie A,28,23,3,0,2.9
+168,César Azpilicueta,es ESP,DF,Atlético Madrid,es La Liga,33,25,0,2,0.6
+169,Paulo Azzi,br BRA,"DF,MF",Cagliari,it Serie A,29,25,0,0,1.2
+170,Oussama El Azzouzi,ma MAR,MF,Bologna,it Serie A,22,18,2,2,0.5
+171,Abdellah Baallal,ma MAR,MF,Clermont Foot,fr Ligue 1,18,1,0,0,0.0
+172,Iddrisu Baba,gh GHA,MF,Almería,es La Liga,27,25,0,0,0.7
+173,Srđan Babić,rs SRB,DF,Almería,es La Liga,27,1,0,0,0.0
+174,Shavy Babicka,ga GAB,"FW,MF",Toulouse,fr Ligue 1,23,12,1,0,0.6
+175,Aliou Badara Baldé,gn GUI,"FW,DF",Nice,fr Ligue 1,20,7,0,0,0.1
+176,Loïc Bade,fr FRA,DF,Sevilla,es La Liga,23,28,0,1,0.9
+177,Milan Badelj,hr CRO,MF,Genoa,it Serie A,34,33,1,3,1.4
+178,Matthias Bader,de GER,"DF,MF",Darmstadt 98,de Bundesliga,26,24,1,2,0.7
+179,Benoît Badiashile,fr FRA,DF,Chelsea,eng Premier League,22,18,0,1,0.3
+180,Alex Baena,es ESP,"MF,FW",Villarreal,es La Liga,22,34,2,14,7.9
+181,Jaime Báez,uy URU,"FW,MF",Frosinone,it Serie A,28,11,1,0,0.5
+182,Nicola Bagnolini,it ITA,GK,Bologna,it Serie A,19,1,0,0,0.0
+183,Leon Bailey,jm JAM,"MF,FW",Aston Villa,eng Premier League,25,35,10,9,6.3
+184,Eric Bailly,ci CIV,DF,Villarreal,es La Liga,29,10,0,0,0.2
+185,Stefan Bajcetic,es ESP,MF,Liverpool,eng Premier League,18,1,0,0,0.0
+186,Nedim Bajrami,al ALB,"MF,FW",Sassuolo,it Serie A,24,28,2,2,2.5
+187,Cédric Bakambu,cd COD,FW,Betis,es La Liga,32,4,0,0,0.4
+188,Tiemoué Bakayoko,fr FRA,MF,Lorient,fr Ligue 1,28,20,2,1,1.7
+189,Mitchel Bakker,nl NED,DF,Atalanta,it Serie A,23,14,1,0,0.2
+190,Ridle Baku,de GER,"DF,MF",Wolfsburg,de Bundesliga,25,33,1,0,1.8
+191,Dilane Bakwa,fr FRA,"FW,MF",Strasbourg,fr Ligue 1,20,31,3,6,3.2
+192,Tommaso Baldanzi,it ITA,"MF,FW",Empoli,it Serie A,20,14,2,0,2.1
+193,Tommaso Baldanzi,it ITA,"FW,MF",Roma,it Serie A,20,13,0,0,0.9
+194,Alejandro Balde,es ESP,DF,Barcelona,es La Liga,19,18,0,1,0.1
+195,George Baldock,gr GRE,DF,Sheffield Utd,eng Premier League,30,13,0,1,0.0
+196,Carlos Baleba,cm CMR,MF,Brighton,eng Premier League,19,27,0,0,0.8
+197,Carlos Baleba,cm CMR,MF,Lille,fr Ligue 1,19,2,0,0,0.0
+198,Leonardo Balerdi,ar ARG,DF,Marseille,fr Ligue 1,24,27,2,0,0.9
+199,Iván Balliu,al ALB,DF,Rayo Vallecano,es La Liga,31,33,0,1,0.7
+200,Fodé Ballo-Touré,sn SEN,"DF,MF",Fulham,eng Premier League,26,6,0,0,0.0
+201,Folarin Balogun,us USA,FW,Monaco,fr Ligue 1,22,29,7,5,11.0
+202,Jonathan Bamba,ci CIV,"MF,FW",Celta Vigo,es La Liga,27,27,3,2,3.0
+203,Mohamed Bamba,ci CIV,FW,Lorient,fr Ligue 1,21,16,8,3,6.4
+204,Samuel Bamba,de GER,FW,Dortmund,de Bundesliga,19,2,0,0,0.3
+205,Lameck Banda,zm ZAM,FW,Lecce,it Serie A,22,21,2,4,3.6
+206,Daniel Bandeira,pt POR,MF,Hellas Verona,it Serie A,23,14,0,0,0.1
+207,Mamady Bangré,bf BFA,"FW,MF",Toulouse,fr Ligue 1,22,8,0,1,0.1
+208,Mattia Bani,it ITA,DF,Genoa,it Serie A,29,27,2,0,1.2
+209,Léo Baptistão,br BRA,FW,Almería,es La Liga,30,32,6,0,5.3
+210,Shandon Baptiste,gd GRN,MF,Brentford,eng Premier League,25,10,1,1,0.9
+211,Antonín Barák,cz CZE,"MF,FW",Fiorentina,it Serie A,28,21,2,3,1.5
+212,Valentín Barco,ar ARG,"DF,FW",Brighton,eng Premier League,19,6,0,0,0.2
+213,Bradley Barcola,fr FRA,FW,Lyon,fr Ligue 1,20,3,0,0,0.1
+214,Bradley Barcola,fr FRA,"FW,MF",Paris S-G,fr Ligue 1,20,25,4,7,4.5
+215,Melvin Bard,fr FRA,DF,Nice,fr Ligue 1,22,32,1,2,0.5
+216,Nicolò Barella,it ITA,MF,Inter,it Serie A,26,37,2,3,5.1
+217,Kike Barja,es ESP,"FW,MF",Osasuna,es La Liga,26,16,0,0,0.2
+218,Ross Barkley,eng ENG,MF,Luton Town,eng Premier League,29,32,5,4,4.1
+219,Aymen Barkok,ma MAR,"MF,FW",Mainz 05,de Bundesliga,25,13,1,0,1.7
+220,Harvey Barnes,eng ENG,"FW,MF",Newcastle Utd,eng Premier League,25,21,5,3,3.6
+221,Leandro Barreiro Martins,lu LUX,MF,Mainz 05,de Bundesliga,23,31,4,1,4.5
+222,Enzo Barrenechea,ar ARG,MF,Frosinone,it Serie A,22,36,0,1,0.6
+223,Ander Barrenetxea,es ESP,"FW,MF",Real Sociedad,es La Liga,21,29,4,1,3.5
+224,Pablo Barrios,es ESP,MF,Atlético Madrid,es La Liga,20,24,0,1,0.9
+225,Davide Bartesaghi,it ITA,"DF,MF",Milan,it Serie A,17,6,0,0,0.0
+226,Marc Bartra,es ESP,DF,Betis,es La Liga,32,3,0,0,0.2
+227,Federico Baschirotto,it ITA,DF,Lecce,it Serie A,26,37,0,1,1.7
+228,Steven Baseya,fr FRA,DF,Strasbourg,fr Ligue 1,18,2,0,0,0.0
+229,Chris Basham,eng ENG,"DF,MF",Sheffield Utd,eng Premier League,35,8,0,0,0.1
+230,Toma Bašić,hr CRO,MF,Salernitana,it Serie A,26,15,0,0,0.6
+231,Calvin Bassey,ng NGA,DF,Fulham,eng Premier League,23,29,1,0,0.3
+232,Alessandro Bastoni,it ITA,DF,Inter,it Serie A,24,28,1,3,1.2
+233,Simone Bastoni,it ITA,"MF,DF",Empoli,it Serie A,26,16,1,0,0.4
+234,Augusto Batalla,ar ARG,GK,Granada,es La Liga,27,17,0,0,0.0
+235,Daniel Batz,de GER,GK,Mainz 05,de Bundesliga,32,4,0,0,0.0
+236,Maximilian Bauer,de GER,DF,Augsburg,de Bundesliga,23,14,1,0,1.4
+237,Elias Baum,de GER,"DF,MF",Eint Frankfurt,de Bundesliga,17,4,0,0,0.0
+238,Oliver Baumann,de GER,GK,Hoffenheim,de Bundesliga,33,34,0,1,0.0
+239,Christoph Baumgartner,at AUT,"MF,FW",RB Leipzig,de Bundesliga,23,32,5,1,3.7
+240,Bebé,cv CPV,"MF,FW",Rayo Vallecano,es La Liga,33,19,2,0,1.4
+241,Ihlas Bebou,tg TOG,"FW,DF",Hoffenheim,de Bundesliga,29,32,7,5,4.9
+242,Mohamed Bechikh,fr FRA,"FW,MF",Strasbourg,fr Ligue 1,18,2,0,0,0.0
+243,Adrian Beck,de GER,"MF,FW",Heidenheim,de Bundesliga,26,23,1,1,1.7
+244,Owen Beck,wls WAL,DF,Liverpool,eng Premier League,20,1,0,0,0.0
+245,Sheraldo Becker,sr SUR,"FW,MF",Real Sociedad,es La Liga,28,15,2,2,1.4
+246,Sheraldo Becker,sr SUR,"FW,MF",Union Berlin,de Bundesliga,28,11,0,1,0.8
+247,Chris Bedia,ci CIV,"FW,MF",Union Berlin,de Bundesliga,27,7,1,0,0.2
+248,Donny van de Beek,nl NED,DF,Manchester Utd,eng Premier League,26,1,0,0,0.0
+249,Donny van de Beek,nl NED,"MF,FW",Eint Frankfurt,de Bundesliga,26,8,0,0,0.1
+250,Yanis Begraoui,ma MAR,"FW,MF",Toulouse,fr Ligue 1,22,14,0,0,0.4
+251,Kevin Behrens,de GER,FW,Wolfsburg,de Bundesliga,32,13,1,1,1.6
+252,Kevin Behrens,de GER,FW,Union Berlin,de Bundesliga,32,18,4,0,6.0
+253,Maximilian Beier,de GER,"FW,MF",Hoffenheim,de Bundesliga,20,33,16,1,11.4
+254,Jérémie Bela,ao ANG,"MF,FW",Clermont Foot,fr Ligue 1,30,12,0,0,0.2
+255,Reda Belahyane,ma MAR,MF,Hellas Verona,it Serie A,19,2,0,0,0.0
+256,Reda Belahyane,ma MAR,MF,Nice,fr Ligue 1,19,1,0,0,0.0
+257,Amari'i Bell,jm JAM,DF,Luton Town,eng Premier League,29,21,0,0,0.3
+258,Stefan Bell,de GER,DF,Mainz 05,de Bundesliga,31,10,0,0,0.2
+259,Alaa Bellaarouch,ma MAR,GK,Strasbourg,fr Ligue 1,21,15,0,0,0.0
+260,Raoul Bellanova,it ITA,DF,Torino,it Serie A,23,37,1,7,2.0
+261,Jean-Ricner Bellegarde,fr FRA,"MF,FW",Wolves,eng Premier League,25,22,2,1,1.6
+262,Jean-Ricner Bellegarde,fr FRA,"MF,FW",Strasbourg,fr Ligue 1,25,3,2,2,0.6
+263,Héctor Bellerín,es ESP,DF,Betis,es La Liga,28,23,0,1,0.2
+264,Jude Bellingham,eng ENG,MF,Real Madrid,es La Liga,20,28,19,6,11.1
+265,Jeanuël Belocian,fr FRA,DF,Rennes,fr Ligue 1,18,23,0,1,0.5
+266,Andrea Belotti,it ITA,FW,Fiorentina,it Serie A,29,15,3,0,3.7
+267,Andrea Belotti,it ITA,FW,Roma,it Serie A,29,14,3,2,2.4
+268,Fran Beltrán,es ESP,MF,Celta Vigo,es La Liga,24,33,0,0,0.7
+269,Lucas Beltrán,ar ARG,"FW,MF",Fiorentina,it Serie A,22,32,6,2,3.8
+270,Eliesse Ben Seghir,ma MAR,"MF,FW",Monaco,fr Ligue 1,18,13,2,1,0.8
+271,Anis Ben Slimane,tn TUN,MF,Sheffield Utd,eng Premier League,22,15,0,0,0.8
+272,Wissam Ben Yedder,fr FRA,FW,Monaco,fr Ligue 1,32,32,16,2,12.4
+273,Carlos Benavídez,uy URU,MF,Alavés,es La Liga,25,29,3,1,1.0
+274,Ismaël Bennacer,dz ALG,MF,Milan,it Serie A,25,20,2,2,1.7
+275,Saïd Benrahma,dz ALG,"FW,MF",West Ham,eng Premier League,27,13,0,1,1.8
+276,Saïd Benrahma,dz ALG,"FW,MF",Lyon,fr Ligue 1,27,12,3,3,1.6
+277,Ramy Bensebaini,dz ALG,DF,Dortmund,de Bundesliga,28,17,0,0,1.7
+278,Nabil Bentaleb,dz ALG,MF,Lille,fr Ligue 1,28,26,0,3,0.4
+279,Rodrigo Bentancur,uy URU,MF,Tottenham,eng Premier League,26,23,1,1,1.9
+280,Daniel Bentley,eng ENG,GK,Wolves,eng Premier League,30,5,0,0,0.0
+281,Lucas Beraldo,br BRA,DF,Paris S-G,fr Ligue 1,19,13,1,0,1.0
+282,Domenico Berardi,it ITA,FW,Sassuolo,it Serie A,28,17,9,3,6.5
+283,Yuri Berchiche,es ESP,DF,Athletic Club,es La Liga,33,27,3,1,0.9
+284,Álex Berenguer,es ESP,FW,Athletic Club,es La Liga,28,35,7,3,5.2
+285,Bartosz Bereszyński,pl POL,DF,Empoli,it Serie A,31,24,0,1,0.1
+286,Jóhann Berg Guðmundsson,is ISL,"MF,FW",Burnley,eng Premier League,32,26,1,3,1.9
+287,Sander Berge,no NOR,MF,Burnley,eng Premier League,25,37,1,2,1.9
+288,Etrit Berisha,al ALB,GK,Empoli,it Serie A,34,14,0,0,0.0
+289,Medon Berisha,al ALB,"FW,MF",Lecce,it Serie A,19,6,0,0,0.2
+290,Mergim Berisha,de GER,FW,Hoffenheim,de Bundesliga,25,6,0,0,0.5
+291,Mergim Berisha,de GER,FW,Augsburg,de Bundesliga,25,2,0,0,0.2
+292,Bernardo,br BRA,DF,Bochum,de Bundesliga,28,33,1,0,1.9
+293,Victor Bernth Kristiansen,dk DEN,DF,Bologna,it Serie A,20,32,0,3,0.3
+294,Matúš Bero,sk SVK,"MF,FW",Bochum,de Bundesliga,27,24,1,1,2.9
+295,Luke Berry,eng ENG,"MF,DF",Luton Town,eng Premier League,31,17,2,1,1.0
+296,Dimitry Bertaud,cd COD,GK,Montpellier,fr Ligue 1,25,4,0,0,0.0
+297,Jan-Niklas Beste,de GER,"FW,MF",Heidenheim,de Bundesliga,24,31,8,11,4.3
+298,Beto,gw GNB,FW,Everton,eng Premier League,25,30,3,0,6.8
+299,Beto,gw GNB,FW,Udinese,it Serie A,25,1,0,0,0.0
+300,Davide Bettella,it ITA,MF,Monza,it Serie A,23,1,0,0,0.0
+301,Sam Beukema,nl NED,DF,Bologna,it Serie A,24,30,1,1,1.9
+302,Jordan Beyer,de GER,DF,Burnley,eng Premier League,23,15,0,1,0.5
+303,Pep Biel,es ESP,"MF,FW",Augsburg,de Bundesliga,26,11,0,0,1.0
+304,Jaka Bijol,si SVN,DF,Udinese,it Serie A,24,24,0,0,1.9
+305,El Bilal Touré,ml MLI,FW,Atalanta,it Serie A,21,11,2,0,1.2
+306,Philip Billing,dk DEN,MF,Bournemouth,eng Premier League,27,29,2,2,2.5
+307,Cristiano Biraghi,it ITA,DF,Fiorentina,it Serie A,30,29,2,5,1.6
+308,Davide Biraschi,it ITA,DF,Genoa,it Serie A,29,1,1,0,0.1
+309,Samuele Birindelli,it ITA,DF,Monza,it Serie A,24,35,0,2,1.1
+310,Tom Bischof,de GER,"MF,FW",Hoffenheim,de Bundesliga,18,13,0,2,0.4
+311,Yves Bissouma,ml MLI,MF,Tottenham,eng Premier League,26,28,0,0,1.4
+312,Leonardo Bittencourt,de GER,MF,Werder Bremen,de Bundesliga,29,29,1,2,2.2
+313,Marco Bizot,nl NED,GK,Brest,fr Ligue 1,32,32,0,0,0.0
+314,Antonio Blanco,es ESP,MF,Alavés,es La Liga,23,33,0,1,0.8
+315,Rubén Blanco,es ESP,GK,Marseille,fr Ligue 1,28,2,0,0,0.0
+316,Hendry Blank,de GER,DF,Dortmund,de Bundesliga,18,1,0,0,0.0
+317,Ludovic Blas,fr FRA,"FW,MF",Rennes,fr Ligue 1,25,29,4,1,4.7
+318,Janis Blaswich,de GER,GK,RB Leipzig,de Bundesliga,32,21,0,0,0.0
+319,Alexis Blin,fr FRA,MF,Lecce,it Serie A,26,31,0,2,1.1
+320,Daley Blind,nl NED,DF,Girona,es La Liga,33,34,1,2,1.7
+321,Myron Boadu,nl NED,FW,Monaco,fr Ligue 1,22,9,1,0,0.4
+322,Benicio Boaitey,eng ENG,"FW,DF",Brighton,eng Premier League,19,5,0,0,0.0
+323,Jérôme Boateng,de GER,DF,Salernitana,it Serie A,34,7,0,0,0.0
+324,Oscar Bobb,no NOR,"FW,MF",Manchester City,eng Premier League,20,14,1,1,1.4
+325,Sacha Boey,fr FRA,DF,Bayern Munich,de Bundesliga,22,2,0,0,0.2
+326,Jeremie Boga,ci CIV,FW,Nice,fr Ligue 1,26,28,6,6,4.3
+327,Jayden Bogle,eng ENG,DF,Sheffield Utd,eng Premier League,23,34,3,0,2.3
+328,Emil Bohinen,no NOR,MF,Genoa,it Serie A,24,5,0,0,0.0
+329,Emil Bohinen,no NOR,MF,Salernitana,it Serie A,24,12,0,0,0.1
+330,Adama Bojang,gm GAM,FW,Reims,fr Ligue 1,19,9,0,0,1.3
+331,Daniel Boloca,ro ROU,MF,Sassuolo,it Serie A,24,30,1,0,0.5
+332,Willy Boly,ci CIV,DF,Nott'ham Forest,eng Premier League,32,20,2,1,1.5
+333,Giacomo Bonaventura,it ITA,MF,Fiorentina,it Serie A,33,31,8,3,5.7
+334,Federico Bonazzoli,it ITA,"FW,MF",Hellas Verona,it Serie A,26,24,3,1,2.9
+335,Warren Bondo,fr FRA,MF,Monza,it Serie A,19,25,1,1,0.9
+336,Giovanni Bonfanti,it ITA,DF,Atalanta,it Serie A,20,2,0,0,0.1
+337,Victor Boniface,ng NGA,FW,Leverkusen,de Bundesliga,22,23,14,8,15.4
+338,Kevin Bonifazi,it ITA,DF,Bologna,it Serie A,27,1,0,0,0.0
+339,Kevin Bonifazi,it ITA,DF,Frosinone,it Serie A,27,6,0,0,0.0
+340,Leonardo Bonucci,it ITA,DF,Union Berlin,de Bundesliga,36,7,1,0,0.8
+341,Neto Borges,br BRA,DF,Clermont Foot,fr Ligue 1,26,28,0,1,0.5
+342,Yvandro Borges Sanches,lu LUX,"MF,FW",Gladbach,de Bundesliga,19,3,0,0,0.0
+343,Sebastiaan Bornauw,be BEL,DF,Wolfsburg,de Bundesliga,24,20,0,0,0.8
+344,Rafael Borré,co COL,FW,Werder Bremen,de Bundesliga,27,19,4,0,2.4
+345,Gennaro Borrelli,it ITA,FW,Frosinone,it Serie A,23,1,0,0,0.0
+346,Adri Bosch,es ESP,DF,Granada,es La Liga,22,1,0,0,0.0
+347,Erik Botheim,no NOR,"FW,MF",Salernitana,it Serie A,23,7,0,0,0.1
+348,Sven Botman,nl NED,DF,Newcastle Utd,eng Premier League,23,17,2,2,0.6
+349,Saïmon Bouabré,fr FRA,MF,Monaco,fr Ligue 1,17,1,0,0,0.0
+350,Ayyoub Bouaddi,fr FRA,MF,Lille,fr Ligue 1,15,9,0,0,0.0
+351,Badredine Bouanani,dz ALG,FW,Nice,fr Ligue 1,18,7,0,0,0.2
+352,Badredine Bouanani,dz ALG,MF,Lorient,fr Ligue 1,18,11,1,0,1.4
+353,Mohamed Bouchenna,fr FRA,"MF,FW",Clermont Foot,fr Ligue 1,17,2,0,0,0.1
+354,Hicham Boudaoui,dz ALG,MF,Nice,fr Ligue 1,23,29,2,0,3.3
+355,Yassine Bounou,ma MAR,GK,Sevilla,es La Liga,32,1,0,0,0.0
+356,Mehdi Bourabia,ma MAR,MF,Frosinone,it Serie A,31,10,0,0,0.1
+357,Benjamin Bourigeaud,fr FRA,"MF,FW",Rennes,fr Ligue 1,29,32,9,6,9.9
+358,Bilal Boutobba,fr FRA,"FW,MF",Clermont Foot,fr Ligue 1,24,27,1,1,2.0
+359,Hugo Boutsingkham,fr FRA,"MF,FW",Nantes,fr Ligue 1,20,2,0,0,0.0
+360,Edoardo Bove,it ITA,MF,Roma,it Serie A,21,31,0,2,2.0
+361,Jarrod Bowen,eng ENG,FW,West Ham,eng Premier League,26,34,16,6,11.6
+362,Lucas Boyé,ar ARG,FW,Granada,es La Liga,27,31,6,3,6.2
+363,Domagoj Bradarić,hr CRO,DF,Salernitana,it Serie A,23,34,0,3,0.8
+364,Conor Bradley,nir NIR,DF,Liverpool,eng Premier League,20,11,1,3,0.9
+365,Bilal Brahimi,dz ALG,FW,Nice,fr Ligue 1,23,2,0,0,0.0
+366,Bilal Brahimi,dz ALG,"FW,MF",Brest,fr Ligue 1,23,18,0,0,0.1
+367,Julian Brandt,de GER,"MF,FW",Dortmund,de Bundesliga,27,32,7,11,4.4
+368,Jarrad Branthwaite,eng ENG,DF,Everton,eng Premier League,21,35,3,0,1.7
+369,Darko Brašanac,rs SRB,MF,Osasuna,es La Liga,31,2,0,0,0.0
+370,Lilian Brassier,fr FRA,DF,Brest,fr Ligue 1,23,30,3,0,1.1
+371,Brau,es ESP,DF,Granada,es La Liga,21,1,0,0,0.0
+372,Claudio Bravo,cl CHI,GK,Betis,es La Liga,40,7,0,0,0.0
+373,Fabian Bredlow,de GER,GK,Stuttgart,de Bundesliga,28,4,0,0,0.0
+374,Tim Breithaupt,de GER,MF,Augsburg,de Bundesliga,21,16,0,0,0.1
+375,Josip Brekalo,hr CRO,FW,Fiorentina,it Serie A,25,11,1,0,0.4
+376,Gleison Bremer,br BRA,DF,Juventus,it Serie A,26,36,3,0,1.4
+377,Brenner,br BRA,"MF,FW",Udinese,it Serie A,23,8,0,0,0.4
+378,Ben Brereton,cl CHI,"FW,MF",Sheffield Utd,eng Premier League,24,14,6,1,6.1
+379,Ben Brereton,cl CHI,"FW,MF",Villarreal,es La Liga,24,14,0,0,0.2
+380,Marco Brescianini,it ITA,MF,Frosinone,it Serie A,23,36,4,2,2.3
+381,Maximilian Breunig,de GER,FW,Freiburg,de Bundesliga,22,2,0,0,0.0
+382,Rhian Brewster,eng ENG,"FW,MF",Sheffield Utd,eng Premier League,23,13,0,0,0.4
+383,Bennit Bröger,de GER,FW,Wolfsburg,de Bundesliga,17,1,0,0,0.0
+384,Armando Broja,al ALB,FW,Chelsea,eng Premier League,21,13,1,0,2.4
+385,Armando Broja,al ALB,FW,Fulham,eng Premier League,21,8,0,1,0.0
+386,Dylan Bronn,tn TUN,"DF,MF",Salernitana,it Serie A,28,4,0,0,0.0
+387,Andre Brooks,eng ENG,"MF,DF",Sheffield Utd,eng Premier League,19,20,0,0,0.4
+388,David Brooks,wls WAL,"FW,MF",Bournemouth,eng Premier League,26,13,1,1,2.2
+389,John Brooks,us USA,DF,Hoffenheim,de Bundesliga,30,21,2,0,2.6
+390,Moritz Broschinski,de GER,FW,Bochum,de Bundesliga,22,26,2,3,2.4
+391,Jacob Brown,sct SCO,"MF,FW",Luton Town,eng Premier League,25,19,2,0,2.8
+392,Josh Brownhill,eng ENG,MF,Burnley,eng Premier League,27,33,4,2,1.9
+393,Alexander Brunst,de GER,GK,Darmstadt 98,de Bundesliga,28,3,0,0,0.0
+394,Jacob Bruun Larsen,dk DEN,"MF,FW",Burnley,eng Premier League,24,32,6,0,5.0
+395,Tajon Buchanan,ca CAN,DF,Inter,it Serie A,24,10,1,0,0.2
+396,Ante Budimir,hr CRO,FW,Osasuna,es La Liga,32,33,17,2,14.2
+397,Hugo Bueno,es ESP,"DF,MF",Wolves,eng Premier League,20,22,0,0,0.3
+398,Manu Bueno,es ESP,MF,Sevilla,es La Liga,19,4,0,0,0.0
+399,Santiago Bueno,uy URU,DF,Wolves,eng Premier League,24,12,0,0,0.0
+400,Marius Bülter,de GER,"DF,FW",Hoffenheim,de Bundesliga,30,30,1,4,1.4
+401,Facundo Buonanotte,ar ARG,"FW,MF",Brighton,eng Premier League,18,27,3,1,2.4
+402,Alessandro Buongiorno,it ITA,DF,Torino,it Serie A,24,29,3,0,1.6
+403,Jonathan Burkardt,de GER,"FW,MF",Mainz 05,de Bundesliga,23,21,8,2,6.1
+404,Oliver Burke,sct SCO,FW,Werder Bremen,de Bundesliga,26,1,0,0,0.0
+405,Reece Burke,eng ENG,DF,Luton Town,eng Premier League,26,22,0,4,1.3
+406,Dan Burn,eng ENG,DF,Newcastle Utd,eng Premier League,31,33,2,2,3.1
+407,Rareș-Cătălin Burnete,ro ROU,FW,Lecce,it Serie A,19,1,0,1,0.0
+408,Mason Burstow,eng ENG,FW,Chelsea,eng Premier League,19,2,0,0,0.0
+409,Marnon Busch,de GER,DF,Heidenheim,de Bundesliga,28,16,0,0,0.1
+410,Maxime Busi,be BEL,"FW,DF",Reims,fr Ligue 1,23,5,0,0,0.2
+411,Pablo Busto,es ESP,DF,Betis,es La Liga,17,2,0,0,0.0
+412,Aurélio Buta,pt POR,"DF,MF",Eint Frankfurt,de Bundesliga,26,30,1,1,0.5
+413,Marcin Bułka,pl POL,GK,Nice,fr Ligue 1,23,34,0,0,0.1
+414,Rémy Cabella,fr FRA,"FW,MF",Lille,fr Ligue 1,33,30,2,2,5.2
+415,Jovane Cabral,cv CPV,"MF,FW",Salernitana,it Serie A,25,12,1,0,1.2
+416,Liberato Cacace,nz NZL,DF,Empoli,it Serie A,22,31,0,1,0.4
+417,Anthony Caci,fr FRA,DF,Mainz 05,de Bundesliga,26,31,2,3,1.5
+418,Moisés Caicedo,ec ECU,MF,Chelsea,eng Premier League,21,35,1,3,0.4
+419,Tom Cairney,sct SCO,MF,Fulham,eng Premier League,32,34,1,4,1.1
+420,Jens Cajuste,se SWE,MF,Napoli,it Serie A,23,26,0,2,1.5
+421,Davide Calabria,it ITA,DF,Milan,it Serie A,26,29,1,3,1.3
+422,Riccardo Calafiori,it ITA,DF,Bologna,it Serie A,21,30,2,5,1.4
+423,Mattia Caldara,it ITA,DF,Milan,it Serie A,29,1,0,0,0.2
+424,Luca Caldirola,it ITA,DF,Monza,it Serie A,32,29,1,1,0.5
+425,Duje Ćaleta-Car,hr CRO,DF,Lyon,fr Ligue 1,26,24,0,0,0.5
+426,Hakan Çalhanoğlu,tr TUR,MF,Inter,it Serie A,29,32,13,3,10.1
+427,José Callejón,es ESP,"MF,FW",Granada,es La Liga,36,25,0,1,1.3
+428,Dominic Calvert-Lewin,eng ENG,FW,Everton,eng Premier League,26,32,7,2,12.9
+429,Lamine Camara,sn SEN,MF,Metz,fr Ligue 1,19,31,1,4,2.2
+430,Mahdi Camara,fr FRA,MF,Brest,fr Ligue 1,25,32,7,3,4.9
+431,Mohamed Camara,ml MLI,MF,Monaco,fr Ligue 1,23,20,1,2,1.5
+432,Francesco Camarda,it ITA,FW,Milan,it Serie A,15,2,0,0,0.0
+433,Eduardo Camavinga,fr FRA,"MF,DF",Real Madrid,es La Liga,20,31,0,2,0.9
+434,Nicolò Cambiaghi,it ITA,"FW,MF",Empoli,it Serie A,22,37,1,1,3.9
+435,Andrea Cambiaso,it ITA,"DF,FW",Juventus,it Serie A,23,34,2,3,2.2
+436,Axel Camblan,fr FRA,FW,Brest,fr Ligue 1,19,7,0,0,0.2
+437,Sergio Camello,es ESP,FW,Rayo Vallecano,es La Liga,22,31,3,1,4.5
+438,José Campaña,es ESP,MF,Las Palmas,es La Liga,30,8,0,0,0.0
+439,Emre Can,de GER,"MF,DF",Dortmund,de Bundesliga,29,25,2,2,2.2
+440,Matteo Cancellieri,it ITA,"FW,MF",Empoli,it Serie A,21,36,4,3,4.7
+441,João Cancelo,pt POR,DF,Barcelona,es La Liga,29,32,2,4,1.6
+442,Fali Candé,gw GNB,DF,Metz,fr Ligue 1,25,25,0,1,0.8
+443,Antonio Candreva,it ITA,"MF,FW",Salernitana,it Serie A,36,34,6,6,4.9
+444,Thomas Cannon,ie IRL,FW,Everton,eng Premier League,20,1,0,0,0.0
+445,Sergi Canós,es ESP,"MF,FW",Valencia,es La Liga,26,27,1,2,2.8
+446,Luigi Canotto,it ITA,FW,Frosinone,it Serie A,29,1,0,0,0.0
+447,Gino Caoki,fr FRA,MF,Lorient,fr Ligue 1,19,1,0,0,0.0
+448,Étienne Capoue,fr FRA,MF,Villarreal,es La Liga,35,32,1,1,1.0
+449,Gianluca Caprari,it ITA,"MF,FW",Monza,it Serie A,30,6,0,0,0.7
+450,Elia Caprile,it ITA,GK,Empoli,it Serie A,21,23,0,0,0.0
+451,Francesco Caputo,it ITA,FW,Empoli,it Serie A,35,20,3,0,3.4
+452,Maxence Caqueret,fr FRA,MF,Lyon,fr Ligue 1,23,34,1,3,2.1
+453,Andrea Carboni,it ITA,DF,Monza,it Serie A,22,21,1,0,1.2
+454,Valentin Carboni,ar ARG,"MF,FW",Monza,it Serie A,18,31,2,3,2.3
+455,Isaac Carcelen,es ESP,DF,Cádiz,es La Liga,30,35,0,0,0.6
+456,Cárdenas,es ESP,GK,Rayo Vallecano,es La Liga,26,1,0,0,0.0
+457,Irvin Cardona,fr FRA,"MF,DF",Augsburg,de Bundesliga,25,3,0,0,0.2
+458,Marc Cardona,es ESP,FW,Las Palmas,es La Liga,28,26,4,1,4.2
+459,Sergi Cardona,es ESP,DF,Las Palmas,es La Liga,24,35,1,2,2.7
+460,Johnny Cardoso,us USA,MF,Betis,es La Liga,21,17,1,2,1.1
+461,Igor Carioca,br BRA,"DF,MF",Lorient,fr Ligue 1,26,5,0,0,0.0
+462,Diego Carlos,br BRA,DF,Aston Villa,eng Premier League,30,27,0,0,1.9
+463,Carmona,es ESP,"DF,MF",Getafe,es La Liga,21,30,1,1,0.8
+464,Marco Carnesecchi,it ITA,GK,Atalanta,it Serie A,23,27,0,0,0.0
+465,Yannick Carrasco,be BEL,DF,Atlético Madrid,es La Liga,29,3,0,1,0.1
+466,Álvaro Carreras,es ESP,"MF,FW",Granada,es La Liga,20,13,0,0,0.4
+467,Rasmus Carstensen,dk DEN,"DF,FW",Köln,de Bundesliga,22,23,0,0,0.9
+468,Antonin Cartillier,fr FRA,DF,Monaco,fr Ligue 1,19,1,0,0,0.0
+469,Dani Carvajal,es ESP,DF,Real Madrid,es La Liga,31,28,4,3,1.7
+470,Fabio Carvalho,pt POR,MF,RB Leipzig,de Bundesliga,20,9,0,0,0.2
+471,William Carvalho,pt POR,MF,Betis,es La Liga,31,22,1,3,0.4
+472,Cesare Casadei,it ITA,"FW,MF",Chelsea,eng Premier League,20,11,0,0,0.0
+473,Marc Casado,es ESP,MF,Barcelona,es La Liga,19,2,0,0,0.0
+474,Nicolò Casale,it ITA,DF,Lazio,it Serie A,25,20,0,0,0.9
+475,Casemiro,br BRA,"MF,DF",Manchester Utd,eng Premier League,31,25,1,2,3.5
+476,Kaelan Casey,eng ENG,DF,West Ham,eng Premier League,18,1,0,0,0.0
+477,Matty Cash,pl POL,DF,Aston Villa,eng Premier League,25,29,2,2,4.2
+478,Josué Casimir,fr FRA,"FW,DF",Le Havre,fr Ligue 1,21,30,0,5,1.9
+479,Giuseppe Caso,it ITA,"FW,MF",Frosinone,it Serie A,24,14,0,0,0.3
+480,Cristian Cásseres Jr.,ve VEN,MF,Toulouse,fr Ligue 1,23,32,1,3,1.1
+481,Timothy Castagne,be BEL,DF,Fulham,eng Premier League,27,34,1,3,1.6
+482,Koen Casteels,be BEL,GK,Wolfsburg,de Bundesliga,31,25,0,0,0.0
+483,Valentín Castellanos,ar ARG,FW,Lazio,it Serie A,24,35,4,3,7.3
+484,Jean-Charles Castelletto,cm CMR,DF,Nantes,fr Ligue 1,28,28,2,0,0.6
+485,Samu Castillejo,es ESP,"FW,MF",Sassuolo,it Serie A,28,17,0,0,0.3
+486,Jonny Castro,es ESP,MF,Wolves,eng Premier League,29,1,0,0,0.0
+487,Santiago Castro,ar ARG,FW,Bologna,it Serie A,18,8,1,1,1.0
+488,Gaetano Castrovilli,it ITA,"FW,MF",Fiorentina,it Serie A,26,6,1,2,0.3
+489,Danilo Cataldi,it ITA,MF,Lazio,it Serie A,28,28,1,0,0.4
+490,Catena,es ESP,DF,Osasuna,es La Liga,28,30,1,3,1.3
+491,Maximiliano Caufriez,be BEL,DF,Clermont Foot,fr Ligue 1,26,20,0,1,0.4
+492,Ivan Cavaleiro,pt POR,FW,Lille,fr Ligue 1,29,17,1,1,1.3
+493,Dani Ceballos,es ESP,"MF,FW",Real Madrid,es La Liga,26,20,0,2,0.3
+494,Emil Ceide,no NOR,"FW,MF",Sassuolo,it Serie A,21,11,0,0,0.1
+495,Zeki Çelik,tr TUR,DF,Roma,it Serie A,26,17,0,0,0.2
+496,Álex Centelles,es ESP,DF,Almería,es La Liga,25,14,0,1,0.0
+497,Fabien Centonze,fr FRA,DF,Hellas Verona,it Serie A,27,10,0,1,0.0
+498,Fabien Centonze,fr FRA,DF,Nantes,fr Ligue 1,27,3,0,0,0.0
+499,Václav Černý,cz CZE,"FW,MF",Wolfsburg,de Bundesliga,25,22,4,1,2.3
+500,Michele Cerofolini,it ITA,GK,Frosinone,it Serie A,24,8,0,0,0.0
+501,Alberto Cerri,it ITA,FW,Empoli,it Serie A,27,12,1,0,1.2
+502,Leonardo Cerri,it ITA,DF,Juventus,it Serie A,20,1,0,0,0.0
+503,Franco Cervi,ar ARG,"MF,DF",Celta Vigo,es La Liga,29,17,0,1,0.5
+504,Julian Chabot,de GER,DF,Köln,de Bundesliga,25,32,0,0,1.4
+505,El Chadaille Bitshiabu,fr FRA,"DF,MF",RB Leipzig,de Bundesliga,18,6,0,0,0.0
+506,Fares Chaïbi,dz ALG,"FW,MF",Toulouse,fr Ligue 1,20,2,0,1,0.0
+507,Fares Chaïbi,dz ALG,"MF,FW",Eint Frankfurt,de Bundesliga,20,28,2,4,3.1
+508,Trevoh Chalobah,eng ENG,DF,Chelsea,eng Premier League,24,13,1,0,0.2
+509,Muhammed Cham,at AUT,"MF,FW",Clermont Foot,fr Ligue 1,22,33,8,4,9.4
+510,Calum Chambers,eng ENG,"MF,DF",Aston Villa,eng Premier League,28,5,0,1,0.0
+511,Timothy Chandler,us USA,"MF,DF",Eint Frankfurt,de Bundesliga,33,6,0,1,0.1
+512,Brendan Chardonnet,fr FRA,DF,Brest,fr Ligue 1,28,33,1,1,1.5
+513,Charlys,br BRA,MF,Hellas Verona,it Serie A,19,2,0,0,0.0
+514,Pep Chavarría,es ESP,"DF,MF",Rayo Vallecano,es La Liga,25,22,1,1,1.0
+515,Jhoanner Chávez,ec ECU,DF,Lens,fr Ligue 1,21,8,0,0,0.3
+516,Walid Cheddira,ma MAR,FW,Frosinone,it Serie A,25,36,7,1,9.0
+517,Rayan Cherki,fr FRA,"MF,FW",Lyon,fr Ligue 1,19,33,1,6,5.2
+518,Youssef Chermiti,pt POR,FW,Everton,eng Premier League,19,18,0,0,0.7
+519,Lucas Chevalier,fr FRA,GK,Lille,fr Ligue 1,21,33,0,0,0.0
+520,Fabio Chiarodia,it ITA,DF,Gladbach,de Bundesliga,18,7,0,0,0.0
+521,Federico Chiesa,it ITA,FW,Juventus,it Serie A,25,33,9,2,6.4
+522,Ben Chilwell,eng ENG,DF,Chelsea,eng Premier League,26,13,0,1,1.2
+523,Tawanda Chirewa,zw ZIM,"MF,FW",Wolves,eng Premier League,19,8,0,0,0.2
+524,Pedro Chirivella,es ESP,MF,Nantes,fr Ligue 1,26,32,1,1,1.5
+525,Leon Chiwome,eng ENG,FW,Wolves,eng Premier League,17,3,0,0,0.1
+526,Tahith Chong,nl NED,"MF,FW",Luton Town,eng Premier League,23,33,4,0,2.7
+527,Joris Chotard,fr FRA,MF,Montpellier,fr Ligue 1,21,31,0,3,0.6
+528,Andreas Christensen,dk DEN,"DF,MF",Barcelona,es La Liga,27,30,2,2,1.0
+529,Jacob Christensen,dk DEN,MF,Köln,de Bundesliga,22,7,0,0,0.0
+530,Oliver Christensen,dk DEN,GK,Fiorentina,it Serie A,24,4,0,0,0.0
+531,Ryan Christie,sct SCO,MF,Bournemouth,eng Premier League,28,37,0,5,2.3
+532,Carney Chukwuemeka,eng ENG,"MF,FW",Chelsea,eng Premier League,19,9,1,1,0.2
+533,Samuel Chukwueze,ng NGA,FW,Milan,it Serie A,24,24,1,3,1.7
+534,Chumi,es ESP,DF,Almería,es La Liga,24,31,0,1,1.0
+535,Víctor Chust,es ESP,DF,Cádiz,es La Liga,23,22,0,1,0.3
+536,Pathé Ciss,sn SEN,MF,Rayo Vallecano,es La Liga,29,31,1,0,1.5
+537,Alphadjo Cissè,it ITA,FW,Hellas Verona,it Serie A,16,1,0,0,0.0
+538,Djaoui Cissé,fr FRA,MF,Rennes,fr Ligue 1,19,2,0,0,0.0
+539,Ibrahim Cissoko,nl NED,"FW,MF",Toulouse,fr Ligue 1,20,11,1,1,0.8
+540,Giorgio Cittadini,it ITA,DF,Monza,it Serie A,21,1,0,0,0.0
+541,Giorgio Cittadini,it ITA,DF,Genoa,it Serie A,21,5,0,0,0.0
+542,Patrick Ciurria,it ITA,"DF,MF",Monza,it Serie A,28,22,0,1,1.5
+543,Bobby Clark,eng ENG,MF,Liverpool,eng Premier League,18,5,0,0,0.1
+544,Jordan Clark,eng ENG,MF,Luton Town,eng Premier League,29,23,1,1,1.0
+545,Alexis Claude-Maurice,fr FRA,MF,Nice,fr Ligue 1,25,18,0,0,0.8
+546,Jonathan Clauss,fr FRA,DF,Marseille,fr Ligue 1,30,27,3,4,1.3
+547,Silvi Clúa,es ESP,MF,Girona,es La Liga,18,1,0,0,0.0
+548,Nathaniel Clyne,eng ENG,DF,Crystal Palace,eng Premier League,32,19,0,0,0.2
+549,Marcus Coco,fr FRA,"DF,FW",Nantes,fr Ligue 1,27,28,1,0,0.8
+550,Saúl Coco,gq EQG,DF,Las Palmas,es La Liga,24,30,1,0,1.1
+551,Séamus Coleman,ie IRL,DF,Everton,eng Premier League,34,12,0,0,0.0
+552,Maxime Colin,fr FRA,DF,Metz,fr Ligue 1,31,22,0,0,0.3
+553,Nathan Collins,ie IRL,DF,Brentford,eng Premier League,22,32,1,1,1.7
+554,Nnamdi Collins,de GER,DF,Eint Frankfurt,de Bundesliga,19,2,0,0,0.0
+555,Lorenzo Colombo,it ITA,FW,Monza,it Serie A,21,25,4,1,3.6
+556,Andrea Colpani,it ITA,"MF,FW",Monza,it Serie A,24,38,8,4,4.8
+557,Levi Colwill,eng ENG,DF,Chelsea,eng Premier League,20,23,1,1,1.3
+558,Kingsley Coman,fr FRA,FW,Bayern Munich,de Bundesliga,27,17,3,3,2.8
+559,Eray Cömert,ch SUI,DF,Nantes,fr Ligue 1,25,25,2,0,0.7
+560,Santi Comesaña,es ESP,MF,Villarreal,es La Liga,26,27,2,0,1.9
+561,Pietro Comuzzo,it ITA,"DF,FW",Fiorentina,it Serie A,18,4,0,0,0.0
+562,Alois Confais,fr FRA,"MF,FW",Le Havre,fr Ligue 1,26,2,0,0,0.0
+563,Andrea Consigli,it ITA,GK,Sassuolo,it Serie A,36,35,0,0,0.0
+564,Bambasé Conté,de GER,"MF,FW",Hoffenheim,de Bundesliga,20,7,0,0,0.2
+565,Nikita Contini Baranovsky,it ITA,GK,Napoli,it Serie A,27,1,0,0,0.0
+566,Lewis Cook,eng ENG,MF,Bournemouth,eng Premier League,26,33,0,3,0.4
+567,Copete,es ESP,DF,Mallorca,es La Liga,23,19,1,1,0.5
+568,Diego Coppola,it ITA,DF,Hellas Verona,it Serie A,19,24,2,0,1.2
+569,Francis Coquelin,fr FRA,MF,Villarreal,es La Liga,32,17,0,0,0.1
+570,Tommaso Corazza,it ITA,DF,Bologna,it Serie A,19,9,0,0,0.1
+571,Theo Corbeanu,ca CAN,"MF,FW",Granada,es La Liga,21,9,1,0,0.3
+572,Jeppe Corfitzen,dk DEN,FW,Lecce,it Serie A,18,1,0,0,0.0
+573,Jack Cork,eng ENG,MF,Burnley,eng Premier League,34,4,0,0,0.0
+574,Maxwel Cornet,ci CIV,"MF,FW",West Ham,eng Premier League,26,7,1,0,0.4
+575,Giacomo Corona,it ITA,FW,Empoli,it Serie A,19,1,0,0,0.0
+576,Jesús Corona,mx MEX,"MF,DF",Sevilla,es La Liga,30,2,0,0,0.0
+577,Ángel Correa,ar ARG,"FW,MF",Atlético Madrid,es La Liga,28,32,9,2,7.9
+578,Joaquín Correa,ar ARG,"FW,MF",Marseille,fr Ligue 1,28,12,0,0,0.6
+579,Thierry Correia,pt POR,DF,Valencia,es La Liga,24,31,0,2,0.6
+580,Oscar Cortés,co COL,"FW,MF",Lens,fr Ligue 1,19,4,1,1,0.5
+581,Danny da Costa,de GER,DF,Mainz 05,de Bundesliga,30,19,0,1,0.3
+582,David Costa,pt POR,MF,Lens,fr Ligue 1,22,25,4,2,3.0
+583,Jaume Costa,es ESP,DF,Mallorca,es La Liga,35,30,0,1,0.3
+584,João Costa,br BRA,"MF,FW",Roma,it Serie A,18,3,0,0,0.0
+585,Logan Costa,cv CPV,DF,Toulouse,fr Ligue 1,22,31,1,1,1.4
+586,Samu Costa,pt POR,MF,Mallorca,es La Liga,22,34,1,1,1.1
+587,Benoît Costil,fr FRA,GK,Salernitana,it Serie A,36,13,0,0,0.0
+588,Grégoire Coudert,fr FRA,GK,Brest,fr Ligue 1,24,3,0,0,0.0
+589,Vladimír Coufal,cz CZE,DF,West Ham,eng Premier League,30,36,0,7,0.3
+590,Lassana Coulibaly,ml MLI,MF,Salernitana,it Serie A,27,28,0,1,0.6
+591,Mamadou Coulibaly,sn SEN,DF,Salernitana,it Serie A,24,1,0,0,0.0
+592,Mamadou Coulibaly,fr FRA,MF,Monaco,fr Ligue 1,19,5,0,0,0.2
+593,Tanguy Coulibaly,fr FRA,"FW,MF",Montpellier,fr Ligue 1,22,16,1,0,2.6
+594,Thibaut Courtois,be BEL,GK,Real Madrid,es La Liga,31,4,0,0,0.0
+595,Philippe Coutinho,br BRA,"MF,FW",Aston Villa,eng Premier League,31,2,0,0,0.1
+596,Yan Couto,br BRA,"DF,FW",Girona,es La Liga,21,34,1,8,1.5
+597,Nicolas Cozza,fr FRA,DF,Nantes,fr Ligue 1,24,13,0,0,0.7
+598,Nicolas Cozza,fr FRA,DF,Wolfsburg,de Bundesliga,24,6,0,0,0.0
+599,Alessio Cragno,it ITA,GK,Sassuolo,it Serie A,29,3,0,0,0.0
+600,Crespo,pt POR,MF,Rayo Vallecano,es La Liga,26,15,0,0,0.1
+601,Aaron Cresswell,eng ENG,"DF,FW",West Ham,eng Premier League,33,11,0,0,0.0
+602,Bryan Cristante,it ITA,"MF,DF",Roma,it Serie A,28,37,3,4,4.0
+603,Cristian,es ESP,GK,Valencia,es La Liga,25,1,0,0,0.0
+604,Juan Cruz Armada,es ESP,DF,Osasuna,es La Liga,31,26,0,1,0.0
+605,Juan Cruz,ar ARG,"FW,MF",Hellas Verona,it Serie A,24,4,0,0,0.0
+606,Juan Cruz,es ESP,FW,Betis,es La Liga,23,5,0,0,0.1
+607,Juan Cuadrado,co COL,DF,Inter,it Serie A,35,10,0,2,0.2
+608,Pau Cubarsí,es ESP,DF,Barcelona,es La Liga,16,19,0,0,0.1
+609,Marc Cucurella,es ESP,DF,Chelsea,eng Premier League,25,21,0,2,1.1
+610,Iván Cuéllar,es ESP,GK,Mallorca,es La Liga,39,1,0,0,0.0
+611,Jorge Cuenca,es ESP,DF,Villarreal,es La Liga,23,29,3,1,1.2
+612,Josh Cullen,ie IRL,MF,Burnley,eng Premier League,27,25,2,3,0.6
+613,Matheus Cunha,br BRA,"FW,MF",Wolves,eng Premier League,24,32,12,7,9.5
+614,Marvin Cuni,al ALB,FW,Frosinone,it Serie A,22,22,1,0,1.3
+615,Eric Curbelo,es ESP,"DF,MF",Las Palmas,es La Liga,29,2,0,0,0.0
+616,Sam Curtis,ie IRL,DF,Sheffield Utd,eng Premier League,17,1,0,0,0.0
+617,Tomáš Čvančara,cz CZE,FW,Gladbach,de Bundesliga,22,21,4,1,5.9
+618,Danilo D'Ambrosio,it ITA,DF,Monza,it Serie A,34,24,0,0,0.7
+619,Alberto Dadie,es ESP,MF,Real Sociedad,es La Liga,21,1,0,0,0.0
+620,Trévis Dago,ci CIV,"FW,MF",Lille,fr Ligue 1,18,4,0,1,0.0
+621,Finn Dahmen,de GER,GK,Augsburg,de Bundesliga,25,31,0,0,0.0
+622,Mahmoud Dahoud,de GER,MF,Brighton,eng Premier League,27,9,0,1,0.2
+623,Mahmoud Dahoud,de GER,MF,Stuttgart,de Bundesliga,27,13,1,0,0.6
+624,Ameen Al-Dakhil,be BEL,DF,Burnley,eng Premier League,21,13,1,0,1.3
+625,Thijs Dallinga,nl NED,FW,Toulouse,fr Ligue 1,22,33,14,2,14.1
+626,Diogo Dalot,pt POR,DF,Manchester Utd,eng Premier League,24,36,2,3,1.7
+627,Mikkel Damsgaard,dk DEN,MF,Brentford,eng Premier League,23,23,0,2,0.9
+628,Flavius Daniliuc,at AUT,DF,Salernitana,it Serie A,22,14,0,0,0.2
+629,Danilo,br BRA,MF,Nott'ham Forest,eng Premier League,22,29,2,2,1.8
+630,Danilo,br BRA,DF,Juventus,it Serie A,32,29,1,1,1.3
+631,Arnaut Danjuma,nl NED,"MF,FW",Everton,eng Premier League,26,14,1,0,2.6
+632,Jayden Danns,eng ENG,FW,Liverpool,eng Premier League,17,2,0,0,0.0
+633,Kevin Danso,at AUT,DF,Lens,fr Ligue 1,24,30,1,0,1.8
+634,Dante,br BRA,DF,Nice,fr Ligue 1,39,32,1,1,0.9
+635,Raimane Daou,km COM,"DF,MF",Marseille,fr Ligue 1,18,1,0,0,0.0
+636,Mohammed Daramy,dk DEN,"FW,MF",Reims,fr Ligue 1,21,25,4,5,4.6
+637,Sergi Darder,es ESP,MF,Mallorca,es La Liga,29,36,2,5,2.2
+638,Achraf Dari,ma MAR,"DF,FW",Brest,fr Ligue 1,24,4,0,0,0.0
+639,Matteo Darmian,it ITA,DF,Inter,it Serie A,33,33,2,1,1.2
+640,Lukas Daschner,de GER,"MF,FW",Bochum,de Bundesliga,24,20,1,1,2.3
+641,Josh Dasilva,eng ENG,"DF,FW",Brentford,eng Premier League,24,3,0,0,0.0
+642,David Datro Fofana,ci CIV,FW,Burnley,eng Premier League,20,15,4,1,4.5
+643,David Datro Fofana,ci CIV,"FW,MF",Union Berlin,de Bundesliga,20,12,1,0,2.8
+644,Juan David Cabal,co COL,DF,Hellas Verona,it Serie A,22,22,0,0,0.5
+645,Jonathan David,ca CAN,FW,Lille,fr Ligue 1,23,34,19,4,17.5
+646,Alphonso Davies,ca CAN,DF,Bayern Munich,de Bundesliga,22,29,2,5,1.0
+647,Ben Davies,wls WAL,DF,Tottenham,eng Premier League,30,17,1,0,2.3
+648,Tom Davies,eng ENG,MF,Sheffield Utd,eng Premier League,25,9,0,0,0.4
+649,Keinan Davis,eng ENG,"FW,MF",Udinese,it Serie A,25,8,1,0,0.5
+650,Paweł Dawidowicz,pl POL,DF,Hellas Verona,it Serie A,28,28,0,0,0.5
+651,Craig Dawson,eng ENG,DF,Wolves,eng Premier League,33,25,1,1,1.5
+652,Kevin De Bruyne,be BEL,MF,Manchester City,eng Premier League,32,18,4,10,2.4
+653,Charles De Ketelaere,be BEL,"FW,MF",Atalanta,it Serie A,22,35,10,8,7.1
+654,Rodrigo De Paul,ar ARG,MF,Atlético Madrid,es La Liga,29,34,3,5,1.8
+655,Mattia De Sciglio,it ITA,DF,Juventus,it Serie A,30,1,0,0,0.0
+656,Lorenzo De Silvestri,it ITA,DF,Bologna,it Serie A,35,15,2,0,0.2
+657,Thibault De Smet,be BEL,DF,Reims,fr Ligue 1,25,27,0,0,0.3
+658,Koni De Winter,be BEL,DF,Genoa,it Serie A,21,29,0,1,0.8
+659,Grégoire Defrel,mq MTQ,"FW,MF",Sassuolo,it Serie A,32,20,1,2,1.0
+660,Alessandro Deiola,it ITA,MF,Cagliari,it Serie A,27,27,1,0,2.5
+661,Romain Del Castillo,fr FRA,FW,Brest,fr Ligue 1,27,33,8,8,5.2
+662,Thomas Delaine,fr FRA,"DF,MF",Strasbourg,fr Ligue 1,31,27,1,1,1.7
+663,Sacha Delaye,fr FRA,"MF,FW",Montpellier,fr Ligue 1,21,9,0,0,0.3
+664,Hannes Delcroix,be BEL,DF,Burnley,eng Premier League,24,12,0,0,0.4
+665,Alessandro Dellavalle,it ITA,DF,Torino,it Serie A,19,1,0,0,0.0
+666,Olivier Deman,be BEL,DF,Werder Bremen,de Bundesliga,23,29,2,1,1.1
+667,Karamoko Dembélé,eng ENG,"MF,FW",Brest,fr Ligue 1,20,1,0,0,0.0
+668,Ousmane Dembélé,fr FRA,"MF,FW",Paris S-G,fr Ligue 1,26,26,3,8,4.4
+669,Jessy Deminguet,fr FRA,"MF,FW",Strasbourg,fr Ligue 1,25,18,0,0,0.3
+670,Ermedin Demirović,ba BIH,"FW,MF",Augsburg,de Bundesliga,25,33,15,9,13.5
+671,Diego Demme,de GER,MF,Napoli,it Serie A,31,2,0,0,0.0
+672,Sepp van den Berg,nl NED,DF,Mainz 05,de Bundesliga,21,33,3,0,2.7
+673,Leander Dendoncker,be BEL,MF,Aston Villa,eng Premier League,28,8,1,0,0.7
+674,Leander Dendoncker,be BEL,MF,Napoli,it Serie A,28,3,0,0,0.0
+675,Rémy Descamps,fr FRA,GK,Nantes,fr Ligue 1,27,6,0,0,0.0
+676,Mikkel Desler,dk DEN,DF,Toulouse,fr Ligue 1,28,24,0,1,1.1
+677,Arthur Desmas,fr FRA,GK,Le Havre,fr Ligue 1,29,33,0,0,0.0
+678,Mattia Destro,it ITA,"FW,MF",Empoli,it Serie A,32,15,0,0,1.2
+679,Samuele Di Benedetto,de GER,MF,Stuttgart,de Bundesliga,18,1,0,0,0.0
+680,Federico Di Francesco,it ITA,"FW,MF",Lecce,it Serie A,29,2,1,0,0.1
+681,Raffaele Di Gennaro,it ITA,GK,Inter,it Serie A,29,1,0,0,0.0
+682,Michele Di Gregorio,it ITA,GK,Monza,it Serie A,26,33,0,0,0.0
+683,Giovanni Di Lorenzo,it ITA,DF,Napoli,it Serie A,29,36,1,6,3.1
+684,Alessandro Di Pardo,it ITA,"DF,MF",Cagliari,it Serie A,24,15,0,0,0.1
+685,Boulaye Dia,sn SEN,"FW,MF",Salernitana,it Serie A,26,17,4,0,3.9
+686,Moussa Diaby,fr FRA,"FW,MF",Aston Villa,eng Premier League,24,38,6,8,7.0
+687,Lamine Diack,sn SEN,MF,Nantes,fr Ligue 1,22,1,0,0,0.0
+688,Mouctar Diakhaby,gn GUI,"DF,MF",Valencia,es La Liga,26,14,1,0,0.7
+689,Mamadou Diakhon,fr FRA,"FW,MF",Reims,fr Ligue 1,17,11,0,0,0.0
+690,Bafodé Diakité,fr FRA,DF,Lille,fr Ligue 1,22,21,5,2,2.0
+691,Ibrahim Diakité,gn GUI,DF,Reims,fr Ligue 1,19,5,0,0,0.0
+692,Moussa Diakité,ml MLI,MF,Cádiz,es La Liga,19,1,0,0,0.0
+693,Oumar Diakité,ci CIV,FW,Reims,fr Ligue 1,19,28,5,1,7.0
+694,Amad Diallo,ci CIV,"FW,MF",Manchester Utd,eng Premier League,21,9,1,1,0.5
+695,Amadou Diallo,eng ENG,MF,Newcastle Utd,eng Premier League,20,1,0,0,0.0
+696,Assane Diao,es ESP,FW,Betis,es La Liga,17,18,2,0,2.5
+697,Habib Diarra,sn SEN,"MF,FW",Strasbourg,fr Ligue 1,19,31,3,1,3.4
+698,Moussa Diarra,ml MLI,DF,Toulouse,fr Ligue 1,22,22,1,2,0.5
+699,Rúben Dias,pt POR,DF,Manchester City,eng Premier League,26,30,0,0,1.4
+700,Krépin Diatta,sn SEN,"DF,FW",Monaco,fr Ligue 1,24,26,0,2,0.5
+701,Mory Diaw,sn SEN,GK,Clermont Foot,fr Ligue 1,30,30,0,0,0.0
+702,Mahamadou Diawara,fr FRA,MF,Lyon,fr Ligue 1,18,11,0,0,0.7
+703,Brahim Díaz,ma MAR,"FW,MF",Real Madrid,es La Liga,23,31,8,6,5.7
+704,Luis Díaz,co COL,FW,Liverpool,eng Premier League,26,37,8,5,11.9
+705,Víctor Díaz,es ESP,"DF,MF",Granada,es La Liga,35,4,0,0,0.0
+706,Famara Diedhiou,sn SEN,"FW,MF",Granada,es La Liga,30,8,0,1,0.5
+707,Justin Diehl,de GER,"FW,MF",Köln,de Bundesliga,18,7,0,0,0.2
+708,Bamba Dieng,sn SEN,FW,Lorient,fr Ligue 1,23,16,4,1,3.2
+709,Eric Dier,eng ENG,DF,Tottenham,eng Premier League,29,4,0,0,0.0
+710,Eric Dier,eng ENG,DF,Bayern Munich,de Bundesliga,29,15,0,0,0.7
+711,Guillaume Dietsch,fr FRA,GK,Metz,fr Ligue 1,22,1,0,0,0.0
+712,Florian Dietz,de GER,"FW,MF",Köln,de Bundesliga,24,5,0,0,0.3
+713,Lucas Digne,fr FRA,DF,Aston Villa,eng Premier League,30,33,1,3,1.1
+714,Federico Dimarco,it ITA,DF,Inter,it Serie A,25,30,5,6,2.9
+715,Stole Dimitrievski,mk MKD,GK,Rayo Vallecano,es La Liga,29,37,0,0,0.0
+716,Junior Dina Ebimbe,fr FRA,"MF,DF",Eint Frankfurt,de Bundesliga,22,31,5,3,5.0
+717,Eren Dinkçi,de GER,"FW,MF",Heidenheim,de Bundesliga,21,33,10,5,4.3
+718,Sinaly Diomande,ci CIV,DF,Lyon,fr Ligue 1,22,10,0,0,1.0
+719,Edan Diop,fr FRA,"MF,DF",Monaco,fr Ligue 1,18,10,0,0,0.0
+720,Issa Diop,fr FRA,DF,Fulham,eng Premier League,26,18,0,0,0.3
+721,Sofiane Diop,fr FRA,FW,Nice,fr Ligue 1,23,10,0,0,1.2
+722,Andy Diouf,fr FRA,MF,Lens,fr Ligue 1,20,25,1,0,1.5
+723,Yehvann Diouf,fr FRA,GK,Reims,fr Ligue 1,23,34,0,0,0.0
+724,Axel Disasi,fr FRA,DF,Chelsea,eng Premier League,25,31,2,0,2.4
+725,Tiago Djaló,pt POR,DF,Juventus,it Serie A,23,1,0,0,0.0
+726,Chaim El Djebali,tn TUN,MF,Lyon,fr Ligue 1,19,1,0,0,0.0
+727,Djené,tg TOG,"DF,MF",Getafe,es La Liga,31,33,0,0,0.1
+728,Koffi Djidji,ci CIV,DF,Torino,it Serie A,30,13,0,0,0.1
+729,Berat Djimsiti,al ALB,DF,Atalanta,it Serie A,30,37,0,1,0.8
+730,Marko Dmitrović,rs SRB,GK,Sevilla,es La Liga,31,13,0,0,0.0
+731,Ben Doak,sct SCO,FW,Liverpool,eng Premier League,17,1,0,0,0.0
+732,Ritsu Doan,jp JPN,"DF,MF",Freiburg,de Bundesliga,25,30,7,2,5.0
+733,Lewis Dobbin,eng ENG,MF,Everton,eng Premier League,20,12,1,0,0.3
+734,Dodô,br BRA,DF,Fiorentina,it Serie A,24,9,0,0,0.1
+735,Danilho Doekhi,nl NED,DF,Union Berlin,de Bundesliga,25,24,2,0,1.2
+736,Matt Doherty,ie IRL,"DF,MF",Wolves,eng Premier League,31,30,1,0,0.8
+737,Josh Doig,sct SCO,DF,Hellas Verona,it Serie A,21,12,0,0,0.2
+738,Josh Doig,sct SCO,DF,Sassuolo,it Serie A,21,16,0,2,0.2
+739,Jeremy Doku,be BEL,"FW,MF",Manchester City,eng Premier League,21,29,3,8,2.5
+740,Jeremy Doku,be BEL,FW,Rennes,fr Ligue 1,21,2,1,0,0.6
+741,Jaume Doménech,es ESP,GK,Valencia,es La Liga,32,2,0,0,0.0
+742,Carlos Dominguez,es ESP,DF,Celta Vigo,es La Liga,22,22,0,0,0.3
+743,Mario Dominguez,es ESP,FW,Valencia,es La Liga,19,3,0,0,0.2
+744,Nicolás Domínguez,ar ARG,"MF,FW",Nott'ham Forest,eng Premier League,25,26,2,2,1.3
+745,Nicolás Domínguez,ar ARG,MF,Bologna,it Serie A,25,2,0,0,0.0
+746,Giulio Donati,it ITA,DF,Monza,it Serie A,33,4,0,0,0.0
+747,Jamie Donley,eng ENG,FW,Tottenham,eng Premier League,18,3,0,0,0.0
+748,Gianluigi Donnarumma,it ITA,GK,Paris S-G,fr Ligue 1,24,25,0,0,0.0
+749,Patrick Dorgu,dk DEN,"DF,MF",Lecce,it Serie A,18,32,2,0,2.0
+750,Niklas Dorsch,de GER,MF,Augsburg,de Bundesliga,25,21,0,0,0.7
+751,Alberto Dossena,it ITA,DF,Cagliari,it Serie A,24,35,2,4,2.2
+752,Carlos Dotor,es ESP,MF,Celta Vigo,es La Liga,22,17,0,0,0.2
+753,Abdoulaye Doucouré,ml MLI,"FW,MF",Everton,eng Premier League,30,32,7,1,8.8
+754,Cheick Doucouré,ml MLI,MF,Crystal Palace,eng Premier League,23,11,0,0,0.3
+755,Siriné Doucouré,ml MLI,FW,Lorient,fr Ligue 1,21,11,1,3,0.9
+756,Désiré Doué,fr FRA,"MF,FW",Rennes,fr Ligue 1,18,31,4,4,2.4
+757,Guela Doué,ci CIV,DF,Rennes,fr Ligue 1,20,24,0,2,0.5
+758,Alfie Doughty,eng ENG,DF,Luton Town,eng Premier League,23,37,2,8,1.3
+759,Douglas,br BRA,MF,Nantes,fr Ligue 1,26,25,0,0,1.2
+760,Ismaël Doukouré,fr FRA,"MF,DF",Strasbourg,fr Ligue 1,20,22,0,0,0.3
+761,Kamory Doumbia,ml MLI,MF,Brest,fr Ligue 1,20,25,6,5,4.2
+762,Anastasios Douvikas,gr GRE,FW,Celta Vigo,es La Liga,23,32,7,1,4.6
+763,Artem Dovbyk,ua UKR,FW,Girona,es La Liga,26,36,24,8,24.2
+764,Nikola Dovedan,at AUT,"MF,FW",Heidenheim,de Bundesliga,29,21,3,1,1.9
+765,Damion Downs,us USA,"FW,MF",Köln,de Bundesliga,19,10,2,0,1.0
+766,Tommy Doyle,eng ENG,MF,Wolves,eng Premier League,21,26,0,0,0.4
+767,Radu Drăgușin,ro ROU,DF,Tottenham,eng Premier League,21,9,0,0,0.1
+768,Radu Drăgușin,ro ROU,DF,Genoa,it Serie A,21,19,2,1,1.0
+769,Dion Drena Beljo,hr CRO,"FW,MF",Augsburg,de Bundesliga,21,26,2,0,3.0
+770,Tim Drexler,de GER,DF,Hoffenheim,de Bundesliga,18,8,0,0,0.0
+771,Domingos Duarte,pt POR,DF,Getafe,es La Liga,28,15,0,0,0.3
+772,Rubén Duarte,es ESP,DF,Alavés,es La Liga,27,28,2,1,0.7
+773,Martin Dúbravka,sk SVK,GK,Newcastle Utd,eng Premier League,34,23,0,0,0.0
+774,Marvin Ducksch,de GER,FW,Werder Bremen,de Bundesliga,29,33,12,9,12.8
+775,Ondrej Duda,sk SVK,MF,Hellas Verona,it Serie A,28,32,1,4,2.2
+776,Denzel Dumfries,nl NED,DF,Inter,it Serie A,27,31,4,4,2.3
+777,Paul Dummett,wls WAL,DF,Newcastle Utd,eng Premier League,31,5,0,0,0.0
+778,Alfred Duncan,gh GHA,MF,Fiorentina,it Serie A,30,30,2,5,1.5
+779,Lewis Dunk,eng ENG,DF,Brighton,eng Premier League,31,33,3,1,3.1
+780,Jhon Durán,co COL,"FW,MF",Aston Villa,eng Premier League,19,23,5,0,2.0
+781,Julien Duranville,be BEL,"FW,MF",Dortmund,de Bundesliga,17,2,0,0,0.0
+782,Hugo Duro,es ESP,FW,Valencia,es La Liga,23,37,13,2,11.5
+783,Jean-Kevin Duverne,ht HAI,DF,Nantes,fr Ligue 1,26,19,0,0,0.3
+784,Paulo Dybala,ar ARG,"FW,MF",Roma,it Serie A,29,28,13,9,10.6
+785,Aron Dønnum,no NOR,"FW,MF",Toulouse,fr Ligue 1,25,27,0,1,1.0
+786,George Earthy,eng ENG,FW,West Ham,eng Premier League,18,3,1,0,0.3
+787,Simon Ebonog,cm CMR,MF,Le Havre,fr Ligue 1,18,4,0,0,0.0
+788,Festy Ebosele,ie IRL,DF,Udinese,it Serie A,20,31,0,0,0.8
+789,Enzo Ebosse,cm CMR,DF,Udinese,it Serie A,24,1,0,0,0.0
+790,Tyronne Ebuehi,ng NGA,DF,Empoli,it Serie A,27,15,0,1,0.3
+791,Ederson,br BRA,GK,Manchester City,eng Premier League,29,33,0,0,0.0
+792,Éderson,br BRA,MF,Atalanta,it Serie A,24,36,6,1,3.5
+793,Odsonne Édouard,fr FRA,"FW,MF",Crystal Palace,eng Premier League,25,30,7,0,6.2
+794,John Egan,ie IRL,DF,Sheffield Utd,eng Premier League,30,6,0,0,0.2
+795,Maximilian Eggestein,de GER,MF,Freiburg,de Bundesliga,26,33,1,2,2.4
+796,Lilian Egloff,de GER,"MF,DF",Stuttgart,de Bundesliga,20,5,0,0,0.2
+797,Kingsley Ehizibue,nl NED,DF,Udinese,it Serie A,28,23,0,1,1.3
+798,Hjalmar Ekdal,se SWE,DF,Burnley,eng Premier League,24,8,0,0,0.1
+799,Hugo Ekitike,fr FRA,FW,Paris S-G,fr Ligue 1,21,1,0,0,0.0
+800,Hugo Ekitike,fr FRA,FW,Eint Frankfurt,de Bundesliga,21,14,4,2,2.4
+801,Emmanuel Ekong,se SWE,FW,Empoli,it Serie A,21,1,0,0,0.0
+802,Caleb Ekuban,gh GHA,FW,Genoa,it Serie A,29,29,4,1,2.9
+803,Anthony Elanga,se SWE,"FW,MF",Nott'ham Forest,eng Premier League,21,36,5,9,6.6
+804,Simon Elisor,fr FRA,FW,Metz,fr Ligue 1,24,14,1,0,2.3
+805,Harvey Elliott,eng ENG,"MF,FW",Liverpool,eng Premier League,20,34,3,6,2.7
+806,Elif Elmas,mk MKD,"FW,MF",Napoli,it Serie A,23,11,2,0,0.5
+807,Elif Elmas,mk MKD,"MF,FW",RB Leipzig,de Bundesliga,23,14,0,0,0.8
+808,Mohamed Elneny,eg EGY,MF,Arsenal,eng Premier League,31,3,0,0,0.1
+809,Aritz Elustondo,es ESP,DF,Real Sociedad,es La Liga,29,15,0,1,0.3
+810,Nico Elvedi,ch SUI,DF,Gladbach,de Bundesliga,26,30,2,1,1.6
+811,Adri Embarba,es ESP,"FW,MF",Almería,es La Liga,31,36,3,2,4.3
+812,Breel Embolo,ch SUI,FW,Monaco,fr Ligue 1,26,5,1,0,0.7
+813,Emanuel Emegha,nl NED,FW,Strasbourg,fr Ligue 1,20,28,8,1,10.8
+814,Emerson,br BRA,DF,Tottenham,eng Premier League,24,22,1,0,0.2
+815,Youssef En-Nesyri,ma MAR,FW,Sevilla,es La Liga,26,33,16,2,10.8
+816,Julio Enciso,py PAR,"MF,FW",Brighton,eng Premier League,19,12,0,2,1.4
+817,Wataru Endo,jp JPN,MF,Liverpool,eng Premier League,30,29,1,0,0.5
+818,Arne Engels,be BEL,"MF,DF",Augsburg,de Bundesliga,19,32,3,2,1.8
+819,Christian Eriksen,dk DEN,MF,Manchester Utd,eng Premier League,31,22,1,2,1.0
+820,Martin Erlic,hr CRO,DF,Sassuolo,it Serie A,25,32,1,0,1.0
+821,Gonzalo Escalante,ar ARG,MF,Cádiz,es La Liga,30,25,1,2,1.9
+822,Aarón Escandell,es ESP,GK,Las Palmas,es La Liga,27,2,0,0,0.0
+823,Alfonso Espino,uy URU,DF,Rayo Vallecano,es La Liga,31,31,0,1,1.0
+824,Bernardo Espinosa,co COL,DF,Girona,es La Liga,34,2,0,0,0.0
+825,Maxime Estève,fr FRA,DF,Burnley,eng Premier League,21,16,0,0,0.3
+826,Maxime Estève,fr FRA,DF,Montpellier,fr Ligue 1,21,12,1,1,0.2
+827,Oscar Estupiñan,co COL,FW,Metz,fr Ligue 1,26,6,0,0,0.5
+828,Pervis Estupiñán,ec ECU,DF,Brighton,eng Premier League,25,19,2,3,1.0
+829,Karl Etta,cm CMR,FW,Cádiz,es La Liga,19,1,0,0,0.0
+830,Jonny Evans,nir NIR,DF,Manchester Utd,eng Premier League,35,23,0,1,0.1
+831,Eberechi Eze,eng ENG,"MF,FW",Crystal Palace,eng Premier League,25,27,11,4,9.1
+832,Abde Ezzalzouli,ma MAR,"FW,MF",Barcelona,es La Liga,21,2,0,0,0.2
+833,Abde Ezzalzouli,ma MAR,FW,Betis,es La Liga,21,26,1,0,3.0
+834,Giovanni Fabbian,it ITA,"MF,FW",Bologna,it Serie A,20,27,5,2,4.2
+835,Łukasz Fabiański,pl POL,GK,West Ham,eng Premier League,38,10,0,0,0.0
+836,Nicolò Fagioli,it ITA,MF,Juventus,it Serie A,22,8,0,2,0.4
+837,Romain Faivre,fr FRA,"MF,FW",Bournemouth,eng Premier League,25,5,0,0,0.2
+838,Romain Faivre,fr FRA,"MF,FW",Lorient,fr Ligue 1,25,17,5,1,2.8
+839,Ilhan Fakili,fr FRA,"MF,FW",Clermont Foot,fr Ligue 1,17,3,0,0,0.2
+840,Radamel Falcao,co COL,"FW,DF",Rayo Vallecano,es La Liga,37,22,1,0,2.7
+841,Wladimiro Falcone,it ITA,GK,Lecce,it Serie A,28,38,0,0,0.0
+842,Fali,es ESP,DF,Cádiz,es La Liga,29,30,0,0,0.8
+843,Davide Faraoni,it ITA,DF,Hellas Verona,it Serie A,31,11,0,1,0.4
+844,Davide Faraoni,it ITA,DF,Fiorentina,it Serie A,31,8,0,1,0.1
+845,Ansu Fati,es ESP,"MF,FW",Brighton,eng Premier League,20,19,2,0,3.4
+846,Ansu Fati,es ESP,"MF,FW",Barcelona,es La Liga,20,3,0,0,0.7
+847,Khalil Fayad,fr FRA,"FW,MF",Montpellier,fr Ligue 1,19,23,3,0,1.9
+848,Federico Fazio,ar ARG,DF,Salernitana,it Serie A,36,17,1,0,0.4
+849,Jacopo Fazzini,it ITA,MF,Empoli,it Serie A,20,31,1,1,1.2
+850,Peter Federico,do DOM,"MF,FW",Valencia,es La Liga,21,15,0,0,1.7
+851,Nabil Fekir,fr FRA,"MF,FW",Betis,es La Liga,30,19,1,2,2.2
+852,Felipe,br BRA,DF,Nott'ham Forest,eng Premier League,34,7,0,0,0.1
+853,Luiz Felipe,it ITA,DF,Betis,es La Liga,26,4,0,0,0.1
+854,João Félix,pt POR,FW,Barcelona,es La Liga,23,30,7,3,8.7
+855,Ohis Felix Uduokhai,de GER,DF,Augsburg,de Bundesliga,25,33,2,0,1.4
+856,Kiko Femenía,es ESP,DF,Villarreal,es La Liga,32,23,0,0,0.0
+857,Evan Ferguson,ie IRL,FW,Brighton,eng Premier League,18,27,6,0,4.6
+858,Lewis Ferguson,sct SCO,MF,Bologna,it Serie A,23,31,6,3,5.4
+859,Bruno Fernandes,pt POR,"MF,FW",Manchester Utd,eng Premier League,28,35,10,8,10.0
+860,Edimilson Fernandes,ch SUI,DF,Mainz 05,de Bundesliga,27,21,0,2,0.5
+861,Aitor Fernández,es ESP,GK,Osasuna,es La Liga,32,7,0,0,0.0
+862,Álex Fernández,es ESP,MF,Cádiz,es La Liga,30,26,0,1,0.3
+863,Carlos Fernández,es ESP,FW,Real Sociedad,es La Liga,27,10,2,1,1.5
+864,Enzo Fernández,ar ARG,MF,Chelsea,eng Premier League,22,28,3,2,6.2
+865,Raúl Fernández,es ESP,GK,Granada,es La Liga,35,4,0,0,0.0
+866,Valery Fernández,es ESP,"MF,FW",Girona,es La Liga,23,27,2,0,0.7
+867,Fernando,es ESP,GK,Almería,es La Liga,33,4,0,0,0.0
+868,Fernando,br BRA,MF,Sevilla,es La Liga,36,8,0,0,0.0
+869,Ichem Ferrah,fr FRA,FW,Lille,fr Ligue 1,17,1,0,0,0.0
+870,Andrea Ferraris,it ITA,MF,Monza,it Serie A,20,1,0,0,0.0
+871,André Ferreira,pt POR,GK,Granada,es La Liga,27,15,0,0,0.0
+872,João Ferreira,pt POR,DF,Udinese,it Serie A,22,35,0,1,0.1
+873,Jordan Ferri,fr FRA,MF,Montpellier,fr Ligue 1,31,30,1,1,0.6
+874,Nacho Ferri,es ESP,"FW,MF",Eint Frankfurt,de Bundesliga,18,8,1,0,1.2
+875,Rachad Fettal,ma MAR,FW,Almería,es La Liga,18,1,0,0,0.1
+876,Seydou Fini,it ITA,"DF,FW",Genoa,it Serie A,17,3,0,0,0.1
+877,Max Finkgräfe,de GER,"DF,FW",Köln,de Bundesliga,19,24,1,0,1.0
+878,Vincenzo Fiorillo,it ITA,GK,Salernitana,it Serie A,33,4,0,0,0.0
+879,Kilian Fischer,de GER,"DF,MF",Wolfsburg,de Bundesliga,22,6,0,0,0.1
+880,John Fleck,sct SCO,"MF,DF",Sheffield Utd,eng Premier League,31,4,0,0,0.0
+881,Mark Flekken,nl NED,GK,Brentford,eng Premier League,30,37,0,1,0.0
+882,Alessandro Florenzi,it ITA,DF,Milan,it Serie A,32,31,1,4,1.7
+883,Phil Foden,eng ENG,"FW,MF",Manchester City,eng Premier League,23,35,19,8,10.3
+884,Wes Foderingham,eng ENG,GK,Sheffield Utd,eng Premier League,32,30,0,0,0.0
+885,Malick Fofana,be BEL,FW,Lyon,fr Ligue 1,18,17,3,0,1.8
+886,Youssouf Fofana,fr FRA,MF,Monaco,fr Ligue 1,24,32,4,4,5.0
+887,Jonas Föhrenbach,de GER,DF,Heidenheim,de Bundesliga,27,33,0,0,0.5
+888,Thomas Foket,be BEL,DF,Reims,fr Ligue 1,28,27,0,1,0.2
+889,Michael Folorunsho,it ITA,"MF,FW",Hellas Verona,it Serie A,25,34,5,1,4.0
+890,Tiago Fonseca Morais,pt POR,FW,Lille,fr Ligue 1,19,3,0,0,0.4
+891,Pablo Fornals,es ESP,"MF,FW",West Ham,eng Premier League,27,15,0,0,0.3
+892,Pablo Fornals,es ESP,"FW,MF",Betis,es La Liga,27,15,3,2,1.8
+893,Emil Forsberg,se SWE,"MF,FW",RB Leipzig,de Bundesliga,31,14,2,1,1.4
+894,Omari Forson,eng ENG,FW,Manchester Utd,eng Premier League,19,4,0,1,0.0
+895,Philipp Förster,de GER,"MF,FW",Bochum,de Bundesliga,28,13,0,0,0.5
+896,Héctor Fort,es ESP,DF,Barcelona,es La Liga,16,7,0,2,0.0
+897,Lyle Foster,za RSA,"FW,MF",Burnley,eng Premier League,22,24,5,3,4.5
+898,Dimitri Foulquier,fr FRA,"DF,MF",Valencia,es La Liga,30,33,0,0,0.6
+899,Juan Foyth,ar ARG,DF,Villarreal,es La Liga,25,12,1,1,0.4
+900,Matheus França,br BRA,"MF,FW",Crystal Palace,eng Premier League,19,10,0,1,0.4
+901,Bartol Franjić,hr CRO,MF,Darmstadt 98,de Bundesliga,23,20,0,1,0.3
+902,Przemysław Frankowski,pl POL,DF,Lens,fr Ligue 1,28,30,3,2,3.7
+903,Nathan Fraser,ie IRL,FW,Wolves,eng Premier League,18,7,0,0,0.3
+904,Davide Frattesi,it ITA,MF,Inter,it Serie A,23,32,6,3,7.1
+905,Morten Frendrup,dk DEN,MF,Genoa,it Serie A,22,37,2,5,1.7
+906,Remo Freuler,ch SUI,MF,Bologna,it Serie A,31,32,1,1,1.2
+907,Marco Friedl,at AUT,DF,Werder Bremen,de Bundesliga,25,25,1,0,0.2
+908,Marvin Friedrich,de GER,DF,Gladbach,de Bundesliga,27,24,0,0,0.6
+909,Jeremie Frimpong,nl NED,DF,Leverkusen,de Bundesliga,22,31,9,7,8.2
+910,Jorge de Frutos,es ESP,"FW,MF",Rayo Vallecano,es La Liga,26,36,2,0,2.6
+911,Chris Führich,de GER,"FW,MF",Stuttgart,de Bundesliga,25,34,8,7,6.6
+912,Shiō Fukuda,jp JPN,"FW,MF",Gladbach,de Bundesliga,19,5,0,0,0.2
+913,Angelo Fulgini,fr FRA,MF,Lens,fr Ligue 1,26,29,1,2,3.2
+914,Niclas Füllkrug,de GER,FW,Werder Bremen,de Bundesliga,30,2,0,0,0.5
+915,Niclas Füllkrug,de GER,FW,Dortmund,de Bundesliga,30,29,12,8,12.4
+916,Gerardo Fusco,it ITA,FW,Salernitana,it Serie A,18,1,0,0,0.0
+917,Daniel Fuzato,br BRA,GK,Getafe,es La Liga,26,1,0,0,0.0
+918,Matteo Gabbia,it ITA,DF,Milan,it Serie A,23,18,2,1,1.6
+919,Matteo Gabbia,it ITA,DF,Villarreal,es La Liga,23,7,0,0,0.0
+920,Gianluca Gaetano,it ITA,"FW,MF",Cagliari,it Serie A,23,11,4,1,1.3
+921,Gianluca Gaetano,it ITA,MF,Napoli,it Serie A,23,9,1,0,0.6
+922,Roberto Gagliardini,it ITA,"MF,DF",Monza,it Serie A,29,33,1,2,2.9
+923,Cody Gakpo,nl NED,"FW,MF",Liverpool,eng Premier League,24,35,8,5,9.0
+924,Javi Galán,es ESP,DF,Atlético Madrid,es La Liga,28,5,0,0,0.0
+925,Javi Galán,es ESP,DF,Real Sociedad,es La Liga,28,14,0,1,0.1
+926,Iñigo Ruiz de Galarreta,es ESP,MF,Athletic Club,es La Liga,29,29,1,1,0.3
+927,Pablo Galdames Millán,cl CHI,"MF,DF",Genoa,it Serie A,26,2,0,0,0.0
+928,Conor Gallagher,eng ENG,MF,Chelsea,eng Premier League,23,37,5,7,4.2
+929,Antonino Gallo,it ITA,DF,Lecce,it Serie A,23,35,0,3,0.5
+930,Cristian Gamboa,cr CRC,DF,Bochum,de Bundesliga,33,22,0,1,0.1
+931,Kévin Gameiro,fr FRA,"FW,MF",Strasbourg,fr Ligue 1,36,27,4,2,3.4
+932,Idrissa Gana Gueye,sn SEN,MF,Everton,eng Premier League,33,25,4,0,1.3
+933,Ignatius Ganago,cm CMR,"FW,MF",Nantes,fr Ligue 1,24,6,0,0,0.4
+934,Aleix García,es ESP,MF,Girona,es La Liga,26,37,3,6,1.8
+935,Álvaro García,es ESP,"FW,MF",Rayo Vallecano,es La Liga,30,32,6,1,6.2
+936,Dani García,es ESP,MF,Athletic Club,es La Liga,33,17,1,0,0.8
+937,David García,es ESP,DF,Osasuna,es La Liga,29,27,0,1,1.0
+938,Eric García,es ESP,DF,Barcelona,es La Liga,22,2,0,0,0.0
+939,Eric García,es ESP,DF,Girona,es La Liga,22,30,5,0,2.8
+940,Fran Garcia,es ESP,DF,Real Madrid,es La Liga,23,25,1,5,0.5
+941,Gonzalo García,es ESP,"FW,MF",Real Madrid,es La Liga,19,2,0,0,0.0
+942,Jastin García,es ESP,FW,Girona,es La Liga,19,3,0,0,0.0
+943,Raúl García,es ESP,"FW,MF",Athletic Club,es La Liga,37,20,1,0,0.9
+944,Rubén García,es ESP,"FW,MF",Osasuna,es La Liga,30,30,3,2,2.3
+945,Santiago García,es ESP,FW,Getafe,es La Liga,21,1,0,0,0.0
+946,Ulisses Garcia,ch SUI,DF,Marseille,fr Ligue 1,27,13,0,0,0.5
+947,Unai García,es ESP,DF,Osasuna,es La Liga,31,9,1,0,0.1
+948,Alejandro Garnacho,ar ARG,FW,Manchester Utd,eng Premier League,19,36,7,4,8.4
+949,James Garner,eng ENG,MF,Everton,eng Premier League,22,37,1,2,2.7
+950,Luca Garritano,it ITA,"MF,DF",Frosinone,it Serie A,29,12,0,0,0.7
+951,Yarek Gasiorowski,es ESP,DF,Valencia,es La Liga,18,14,0,0,0.0
+952,Johan Gastien,fr FRA,MF,Clermont Foot,fr Ligue 1,35,28,0,0,0.3
+953,Federico Gatti,it ITA,DF,Juventus,it Serie A,25,32,4,0,5.5
+954,Federico Gattoni,ar ARG,"DF,FW",Sevilla,es La Liga,24,2,0,0,0.0
+955,Gavi,es ESP,"MF,FW",Barcelona,es La Liga,18,12,1,1,0.9
+956,Paulo Gazzaniga,ar ARG,GK,Girona,es La Liga,31,38,0,0,0.0
+957,Yann Gboho,fr FRA,"MF,FW",Toulouse,fr Ligue 1,22,16,3,2,1.2
+958,Dennis Geiger,de GER,MF,Hoffenheim,de Bundesliga,25,3,0,0,0.0
+959,Gelabert,es ESP,"MF,FW",Toulouse,fr Ligue 1,22,16,1,2,0.8
+960,Francesco Gelli,it ITA,"MF,DF",Frosinone,it Serie A,26,27,0,0,0.7
+961,Luca Gemello,it ITA,GK,Torino,it Serie A,23,2,0,0,0.0
+962,Valentin Gendrey,fr FRA,DF,Lecce,it Serie A,23,37,2,3,1.6
+963,Denis Genreau,au AUS,"MF,FW",Toulouse,fr Ligue 1,24,9,0,0,0.4
+964,Yannick Gerhardt,de GER,"MF,DF",Wolfsburg,de Bundesliga,29,25,2,1,1.9
+965,Anwar El Ghazi,nl NED,"MF,DF",Mainz 05,de Bundesliga,28,3,0,1,0.1
+966,Farés Ghedjemis,fr FRA,"FW,MF",Frosinone,it Serie A,20,6,0,0,0.1
+967,Saman Ghoddos,ir IRN,DF,Brentford,eng Premier League,29,19,1,0,0.3
+968,Lautaro Gianetti,ar ARG,DF,Udinese,it Serie A,29,7,1,0,0.4
+969,Morgan Gibbs-White,eng ENG,"MF,FW",Nott'ham Forest,eng Premier League,23,37,5,10,6.9
+970,Samuel Gigot,fr FRA,DF,Marseille,fr Ligue 1,29,21,3,0,2.4
+971,Bryan Gil,es ESP,"FW,MF",Tottenham,eng Premier League,22,11,0,0,0.8
+972,David Gil,es ESP,GK,Cádiz,es La Liga,29,5,0,0,0.0
+973,Mario Gila,es ESP,DF,Lazio,it Serie A,22,21,0,0,0.5
+974,Alfie Gilchrist,eng ENG,DF,Chelsea,eng Premier League,19,11,1,0,0.3
+975,Billy Gilmour,sct SCO,MF,Brighton,eng Premier League,22,30,0,1,1.0
+976,Benedikt Gimber,de GER,DF,Heidenheim,de Bundesliga,26,24,1,1,1.4
+977,Gvidas Gineitis,lt LTU,MF,Torino,it Serie A,19,14,0,0,0.4
+978,Matthias Ginter,de GER,DF,Freiburg,de Bundesliga,29,23,0,2,1.4
+979,Olivier Giroud,fr FRA,FW,Milan,it Serie A,36,35,15,8,14.2
+980,Jamie Gittens,eng ENG,"FW,MF",Dortmund,de Bundesliga,18,25,1,4,2.2
+981,Klaus Gjasula,al ALB,"DF,MF",Darmstadt 98,de Bundesliga,33,22,0,0,0.5
+982,Serge Gnabry,de GER,"FW,MF",Bayern Munich,de Bundesliga,28,10,3,1,2.4
+983,Ben Godfrey,eng ENG,DF,Everton,eng Premier League,25,15,0,0,1.7
+984,Edoardo Goldaniga,it ITA,DF,Cagliari,it Serie A,29,13,0,0,0.5
+985,Pierluigi Gollini,it ITA,GK,Napoli,it Serie A,28,7,0,0,0.0
+986,Aleksandr Golovin,ru RUS,"MF,FW",Monaco,fr Ligue 1,27,25,6,6,3.4
+987,André Gomes,pt POR,"MF,FW",Everton,eng Premier League,30,12,1,0,0.3
+988,Angel Gomes,eng ENG,MF,Lille,fr Ligue 1,22,31,0,8,2.0
+989,João Gomes,br BRA,MF,Wolves,eng Premier League,22,34,2,1,1.7
+990,Toti Gomes,pt POR,DF,Wolves,eng Premier League,24,35,1,3,1.6
+991,Joe Gomez,eng ENG,DF,Liverpool,eng Premier League,26,32,0,1,0.8
+992,Maxi Gómez,uy URU,FW,Cádiz,es La Liga,26,31,0,0,1.6
+993,Moi Gómez,es ESP,"MF,FW",Osasuna,es La Liga,29,28,3,0,1.7
+994,Papu Gómez,ar ARG,"MF,FW",Monza,it Serie A,35,2,0,0,0.0
+995,Sergio Gómez,es ESP,"FW,MF",Manchester City,eng Premier League,22,6,0,1,0.2
+996,Unai Gómez,es ESP,MF,Athletic Club,es La Liga,20,25,2,0,1.5
+997,Iron Gomis,fr FRA,MF,Salernitana,it Serie A,23,5,0,0,0.6
+998,Maxime Gonalons,fr FRA,MF,Clermont Foot,fr Ligue 1,34,21,1,0,0.4
+999,Édgar González,es ESP,"DF,MF",Almería,es La Liga,26,31,2,0,2.3
+1000,Enso Gonzalez,py PAR,"MF,DF",Wolves,eng Premier League,18,1,0,0,0.0
+1001,Fabio González,es ESP,MF,Las Palmas,es La Liga,26,6,0,0,0.0
+1002,Giovanni González,uy URU,DF,Mallorca,es La Liga,28,34,1,1,0.5
+1003,Hugo González,es ESP,"MF,FW",Valencia,es La Liga,20,9,0,1,0.0
+1004,Iñaki González,es ESP,MF,Las Palmas,es La Liga,19,1,0,0,0.0
+1005,Joan Gonzàlez,es ESP,MF,Lecce,it Serie A,21,29,1,1,1.2
+1006,Nicolás González,ar ARG,FW,Fiorentina,it Serie A,25,29,12,2,10.4
+1007,Urko González,es ESP,MF,Real Sociedad,es La Liga,22,5,0,0,0.1
+1008,Anthony Gordon,eng ENG,FW,Newcastle Utd,eng Premier League,22,35,11,10,10.2
+1009,Kaide Gordon,eng ENG,FW,Liverpool,eng Premier League,18,1,0,0,0.0
+1010,Daniel Gore,eng ENG,MF,Manchester Utd,eng Premier League,18,1,0,0,0.0
+1011,Leon Goretzka,de GER,MF,Bayern Munich,de Bundesliga,28,30,6,7,5.0
+1012,Mathieu Gorgelin,fr FRA,GK,Le Havre,fr Ligue 1,32,1,0,0,0.0
+1013,Andoni Gorosabel,es ESP,DF,Alavés,es La Liga,26,36,1,0,0.7
+1014,Robin Gosens,de GER,"DF,MF",Union Berlin,de Bundesliga,29,30,6,3,2.1
+1015,Mario Götze,de GER,MF,Eint Frankfurt,de Bundesliga,31,30,3,2,2.9
+1016,Amine Gouiri,dz ALG,"FW,MF",Rennes,fr Ligue 1,23,31,7,3,7.4
+1017,Jeffrey Gouweleeuw,nl NED,DF,Augsburg,de Bundesliga,32,30,1,0,1.3
+1018,Pablo Gozalbez,es ESP,"MF,FW",Valencia,es La Liga,22,5,0,0,0.0
+1019,Jonathan Gradit,fr FRA,DF,Lens,fr Ligue 1,30,26,1,0,0.3
+1020,Jens Grahl,de GER,GK,Eint Frankfurt,de Bundesliga,34,2,0,1,0.0
+1021,Samuel Grandsir,fr FRA,"MF,FW",Le Havre,fr Ligue 1,26,23,1,1,2.6
+1022,Alberto Grassi,it ITA,MF,Empoli,it Serie A,28,27,0,1,1.1
+1023,Ryan Gravenberch,nl NED,MF,Liverpool,eng Premier League,21,26,1,0,2.0
+1024,Ryan Gravenberch,nl NED,FW,Bayern Munich,de Bundesliga,21,1,0,0,0.0
+1025,Adrian Grbić,at AUT,FW,Lorient,fr Ligue 1,26,1,0,0,0.1
+1026,Ivo Grbić,hr CRO,GK,Sheffield Utd,eng Premier League,27,9,0,0,0.0
+1027,Jack Grealish,eng ENG,"FW,MF",Manchester City,eng Premier League,27,20,3,1,2.1
+1028,Mason Greenwood,eng ENG,"MF,FW",Getafe,es La Liga,21,33,8,6,8.8
+1029,Michael Gregoritsch,at AUT,FW,Freiburg,de Bundesliga,29,32,7,4,9.2
+1030,Dominik Greif,sk SVK,GK,Mallorca,es La Liga,26,1,0,0,0.0
+1031,Antoine Griezmann,fr FRA,"FW,MF",Atlético Madrid,es La Liga,32,33,16,6,12.3
+1032,Vincenzo Grifo,it ITA,"MF,FW",Freiburg,de Bundesliga,30,32,8,8,7.7
+1033,Florian Grillitsch,at AUT,"DF,MF",Hoffenheim,de Bundesliga,27,30,1,6,1.2
+1034,Álex Grimaldo,es ESP,DF,Leverkusen,de Bundesliga,27,33,10,13,5.7
+1035,Christian Groß,de GER,"DF,MF",Werder Bremen,de Bundesliga,34,20,0,1,0.3
+1036,Pascal Groß,de GER,"MF,DF",Brighton,eng Premier League,32,36,4,10,6.5
+1037,Brajan Gruda,de GER,"MF,FW",Mainz 05,de Bundesliga,19,28,4,3,3.5
+1038,Ilia Gruev,bg BUL,MF,Werder Bremen,de Bundesliga,23,1,0,0,0.0
+1039,Vicente Guaita,es ESP,GK,Celta Vigo,es La Liga,36,27,0,0,0.0
+1040,Andrés Guardado,mx MEX,MF,Betis,es La Liga,36,12,0,0,0.1
+1041,Sergi Guardiola,es ESP,"FW,MF",Cádiz,es La Liga,32,22,1,1,1.8
+1042,Nemanja Gudelj,rs SRB,"DF,MF",Sevilla,es La Liga,31,22,1,1,0.8
+1043,Gabriel Gudmundsson,se SWE,"DF,FW",Lille,fr Ligue 1,24,25,1,0,1.1
+1044,Gonçalo Guedes,pt POR,"FW,MF",Villarreal,es La Liga,26,17,3,2,2.3
+1045,Axel Gueguin,fr FRA,"DF,FW",Montpellier,fr Ligue 1,18,3,0,0,0.0
+1046,Marc Guéhi,eng ENG,DF,Crystal Palace,eng Premier League,23,25,0,1,0.6
+1047,Mattéo Guendouzi,fr FRA,MF,Lazio,it Serie A,24,33,2,3,1.6
+1048,Mattéo Guendouzi,fr FRA,MF,Marseille,fr Ligue 1,24,2,0,0,0.5
+1049,Javier Guerra,es ESP,MF,Valencia,es La Liga,20,36,4,1,2.7
+1050,Raphaël Guerreiro,pt POR,"DF,MF",Bayern Munich,de Bundesliga,29,20,3,0,2.4
+1051,Axel Guessand,fr FRA,DF,Udinese,it Serie A,18,1,0,0,0.0
+1052,Evann Guessand,ci CIV,FW,Nice,fr Ligue 1,22,34,6,0,8.4
+1053,Ander Guevara,es ESP,MF,Alavés,es La Liga,26,37,1,0,0.7
+1054,Pape Gueye,sn SEN,"MF,DF",Marseille,fr Ligue 1,24,15,1,0,0.4
+1055,Josuha Guilavogui,fr FRA,DF,Mainz 05,de Bundesliga,32,11,0,1,0.0
+1056,Morgan Guilavogui,gn GUI,"FW,MF",Lens,fr Ligue 1,25,23,2,0,1.6
+1057,Frederic Guilbert,fr FRA,"DF,MF",Strasbourg,fr Ligue 1,28,32,2,0,1.1
+1058,Hugo Guillamón,es ESP,MF,Valencia,es La Liga,23,26,1,0,0.2
+1059,Bruno Guimarães,br BRA,MF,Newcastle Utd,eng Premier League,25,37,7,8,4.8
+1060,Serhou Guirassy,gn GUI,FW,Stuttgart,de Bundesliga,27,28,28,3,20.8
+1061,Marc Guiu,es ESP,"FW,MF",Barcelona,es La Liga,17,3,1,0,0.8
+1062,Péter Gulácsi,hu HUN,GK,RB Leipzig,de Bundesliga,33,13,0,0,0.0
+1063,Manuel Gulde,de GER,DF,Freiburg,de Bundesliga,32,27,1,0,1.1
+1064,Arda Güler,tr TUR,"FW,MF",Real Madrid,es La Liga,18,10,6,0,1.4
+1065,Gerard Gumbau,es ESP,MF,Granada,es La Liga,28,35,0,3,1.8
+1066,Robert Gumny,pl POL,DF,Augsburg,de Bundesliga,25,13,0,0,0.2
+1067,İlkay Gündoğan,de GER,MF,Barcelona,es La Liga,32,36,5,9,7.3
+1068,Christian Günter,de GER,DF,Freiburg,de Bundesliga,30,15,1,2,0.5
+1069,Jon Guridi,es ESP,MF,Alavés,es La Liga,28,36,3,4,4.0
+1070,Gorka Guruzeta,es ESP,FW,Athletic Club,es La Liga,26,32,14,5,11.6
+1071,Malo Gusto,fr FRA,DF,Chelsea,eng Premier League,20,27,0,6,0.9
+1072,Miguel Gutiérrez,es ESP,DF,Girona,es La Liga,22,35,2,7,2.8
+1073,Albert Guðmundsson,is ISL,"FW,MF",Genoa,it Serie A,26,35,14,4,9.9
+1074,Joško Gvardiol,hr CRO,DF,Manchester City,eng Premier League,21,28,4,1,3.1
+1075,Emmanuel Gyasi,gh GHA,"DF,FW",Empoli,it Serie A,29,33,1,2,3.5
+1076,Norbert Gyömbér,sk SVK,DF,Salernitana,it Serie A,31,22,0,0,0.2
+1077,Erling Haaland,no NOR,FW,Manchester City,eng Premier League,23,31,27,5,29.2
+1078,Nicolas Haas,ch SUI,MF,Empoli,it Serie A,27,1,0,0,0.1
+1079,Janik Haberer,de GER,"MF,DF",Union Berlin,de Bundesliga,29,21,1,1,0.9
+1080,Robin Hack,de GER,"FW,MF",Gladbach,de Bundesliga,24,29,10,2,3.9
+1081,Antwoine Hackford,eng ENG,FW,Sheffield Utd,eng Premier League,19,2,0,0,0.0
+1082,Munir El Haddadi,ma MAR,FW,Las Palmas,es La Liga,27,38,3,2,4.3
+1083,Jaouen Hadjam,dz ALG,DF,Nantes,fr Ligue 1,20,8,0,0,0.0
+1084,Ianis Hagi,ro ROU,"MF,FW",Alavés,es La Liga,24,22,0,2,2.8
+1085,Amadou Haidara,ml MLI,MF,RB Leipzig,de Bundesliga,25,21,2,1,1.1
+1086,Massadio Haïdara,ml MLI,DF,Lens,fr Ligue 1,30,18,0,1,0.1
+1087,Oualid El Hajjam,ma MAR,"DF,MF",Le Havre,fr Ligue 1,32,13,0,0,0.4
+1088,Achraf Hakimi,ma MAR,DF,Paris S-G,fr Ligue 1,24,25,4,5,4.2
+1089,Lewis Hall,eng ENG,DF,Newcastle Utd,eng Premier League,18,18,1,0,0.3
+1090,Sébastien Haller,ci CIV,FW,Dortmund,de Bundesliga,29,14,0,1,0.9
+1091,Gustavo Hamer,nl NED,MF,Sheffield Utd,eng Premier League,26,36,4,6,3.0
+1092,Andreas Hanche-Olsen,no NOR,DF,Mainz 05,de Bundesliga,26,15,1,0,0.7
+1093,Isak Hansen-Aarøen,no NOR,MF,Werder Bremen,de Bundesliga,18,3,0,0,0.0
+1094,Ridgeciano Haps,sr SUR,DF,Genoa,it Serie A,30,16,0,1,0.1
+1095,Genki Haraguchi,jp JPN,MF,Stuttgart,de Bundesliga,32,2,0,0,0.0
+1096,Amine Harit,ma MAR,"MF,FW",Marseille,fr Ligue 1,26,28,1,2,3.7
+1097,Luke Harris,wls WAL,MF,Fulham,eng Premier League,18,1,0,0,0.3
+1098,Jack Harrison,eng ENG,"MF,FW",Everton,eng Premier League,26,29,3,3,3.6
+1099,Abdou Harroui,nl NED,"MF,FW",Frosinone,it Serie A,25,18,3,3,3.1
+1100,Makoto Hasebe,jp JPN,"DF,MF",Eint Frankfurt,de Bundesliga,39,8,0,0,0.0
+1101,Daiki Hashioka,jp JPN,DF,Luton Town,eng Premier League,24,10,0,0,0.1
+1102,Hans Hateboer,nl NED,DF,Atalanta,it Serie A,29,23,0,1,0.3
+1103,Pantelis Hatzidiakos,gr GRE,DF,Cagliari,it Serie A,26,13,0,0,0.4
+1104,Kai Havertz,de GER,"MF,FW",Arsenal,eng Premier League,24,37,13,7,12.3
+1105,Thorgan Hazard,be BEL,DF,Dortmund,de Bundesliga,30,1,0,0,0.0
+1106,Jan Paul van Hecke,nl NED,DF,Brighton,eng Premier League,23,28,0,0,1.2
+1107,Hwang Hee-chan,kr KOR,"FW,MF",Wolves,eng Premier League,27,29,12,3,7.7
+1108,Silvan Hefti,ch SUI,"MF,DF",Genoa,it Serie A,25,6,0,0,0.0
+1109,Silvan Hefti,ch SUI,"DF,FW",Montpellier,fr Ligue 1,25,11,0,1,0.2
+1110,Dominique Heintz,de GER,DF,Köln,de Bundesliga,29,12,0,0,0.0
+1111,Dean Henderson,eng ENG,GK,Crystal Palace,eng Premier League,26,18,0,0,0.0
+1112,Liam Henderson,sct SCO,MF,Empoli,it Serie A,27,1,0,0,0.0
+1113,Benjamin Henrichs,de GER,DF,RB Leipzig,de Bundesliga,26,33,1,5,2.5
+1114,Henrique,br BRA,DF,Lyon,fr Ligue 1,29,11,1,0,0.3
+1115,Luis Henrique,br BRA,"FW,DF",Marseille,fr Ligue 1,21,15,1,0,1.3
+1116,Luiz Henrique,br BRA,FW,Betis,es La Liga,22,14,0,3,1.2
+1117,Matheus Henrique,br BRA,MF,Sassuolo,it Serie A,25,31,2,2,2.3
+1118,Rico Henry,eng ENG,DF,Brentford,eng Premier League,26,5,0,1,0.1
+1119,Thomas Henry,fr FRA,FW,Hellas Verona,it Serie A,28,18,3,0,3.3
+1120,Christophe Hérelle,mq MTQ,DF,Metz,fr Ligue 1,30,19,0,0,0.1
+1121,Mario Hermoso,es ESP,DF,Atlético Madrid,es La Liga,28,31,0,1,1.4
+1122,Javi Hernández,es ESP,DF,Cádiz,es La Liga,25,30,1,2,1.4
+1123,Aridane Hernández,es ESP,DF,Rayo Vallecano,es La Liga,34,19,0,0,0.3
+1124,Lucas Hernández,fr FRA,DF,Paris S-G,fr Ligue 1,27,27,1,1,0.5
+1125,Luis Hernández,es ESP,DF,Cádiz,es La Liga,34,9,1,0,1.0
+1126,Theo Hernández,fr FRA,DF,Milan,it Serie A,25,32,5,4,4.9
+1127,Jorge Herrando,es ESP,DF,Osasuna,es La Liga,22,19,0,1,0.4
+1128,Ander Herrera,es ESP,MF,Athletic Club,es La Liga,33,23,0,3,0.7
+1129,Cristian Herrera,es ESP,"FW,MF",Las Palmas,es La Liga,32,8,1,0,0.9
+1130,Sergio Herrera,es ESP,GK,Osasuna,es La Liga,30,32,0,0,0.0
+1131,Yangel Herrera,ve VEN,MF,Girona,es La Liga,25,29,5,0,4.9
+1132,Patrick Herrmann,de GER,"FW,DF",Gladbach,de Bundesliga,32,8,0,0,0.2
+1133,Juan Herzog,es ESP,DF,Las Palmas,es La Liga,20,4,2,0,0.7
+1134,Son Heung-min,kr KOR,FW,Tottenham,eng Premier League,31,35,17,10,12.0
+1135,Aaron Hickey,sct SCO,DF,Brentford,eng Premier League,21,9,0,0,0.2
+1136,Isak Hien,se SWE,DF,Hellas Verona,it Serie A,24,10,0,0,0.4
+1137,Isak Hien,se SWE,DF,Atalanta,it Serie A,24,16,0,1,0.2
+1138,James Hill,eng ENG,DF,Bournemouth,eng Premier League,21,5,0,0,0.0
+1139,Piero Hincapié,ec ECU,DF,Leverkusen,de Bundesliga,21,26,1,2,1.9
+1140,Jack Hinshelwood,eng ENG,DF,Brighton,eng Premier League,18,12,3,0,1.9
+1141,Adam Hložek,cz CZE,"MF,FW",Leverkusen,de Bundesliga,21,23,2,3,3.1
+1142,Nicolas Höfler,de GER,MF,Freiburg,de Bundesliga,33,28,1,1,0.7
+1143,Jonas Hofmann,de GER,MF,Leverkusen,de Bundesliga,31,32,5,7,5.9
+1144,Philipp Hofmann,de GER,FW,Bochum,de Bundesliga,30,29,4,2,4.8
+1145,Lucas Höler,de GER,"FW,MF",Freiburg,de Bundesliga,29,33,7,2,8.6
+1146,Mason Holgate,eng ENG,DF,Sheffield Utd,eng Premier League,26,10,0,0,0.6
+1147,Fabian Holland,de GER,"MF,DF",Darmstadt 98,de Bundesliga,33,23,0,2,0.6
+1148,Benedict Hollerbach,de GER,"FW,MF",Union Berlin,de Bundesliga,22,28,5,0,3.4
+1149,Emil Holm,se SWE,DF,Atalanta,it Serie A,23,22,1,1,2.7
+1150,Gerrit Holtmann,ph PHI,"MF,FW",Darmstadt 98,de Bundesliga,28,10,0,0,0.6
+1151,Martin Hongla,cm CMR,MF,Hellas Verona,it Serie A,25,15,0,0,0.1
+1152,Martin Hongla,cm CMR,"MF,DF",Granada,es La Liga,25,13,0,0,0.2
+1153,Franck Honorat,fr FRA,"DF,FW",Gladbach,de Bundesliga,26,32,3,9,1.6
+1154,Mathias Honsak,at AUT,"FW,MF",Darmstadt 98,de Bundesliga,26,23,1,1,1.8
+1155,Sydney van Hooijdonk,nl NED,FW,Bologna,it Serie A,23,9,0,0,0.6
+1156,Fraser Hornby,sct SCO,"FW,MF",Darmstadt 98,de Bundesliga,23,7,0,0,0.7
+1157,Lukáš Hrádecký,fi FIN,GK,Leverkusen,de Bundesliga,33,33,0,0,0.0
+1158,Xabier Huarte Armendáriz,es ESP,MF,Osasuna,es La Liga,22,1,0,0,0.0
+1159,Timo Hübers,de GER,DF,Köln,de Bundesliga,27,31,0,0,1.8
+1160,Callum Hudson-Odoi,eng ENG,"FW,MF",Nott'ham Forest,eng Premier League,22,29,8,1,2.7
+1161,Will Hughes,eng ENG,MF,Crystal Palace,eng Premier League,28,30,0,1,0.3
+1162,Dean Huijsen,es ESP,DF,Roma,it Serie A,18,13,2,0,0.4
+1163,Dean Huijsen,es ESP,DF,Juventus,it Serie A,18,1,0,0,0.0
+1164,Mats Hummels,de GER,DF,Dortmund,de Bundesliga,34,25,3,0,3.2
+1165,Denis Huseinbasic,ba BIH,MF,Köln,de Bundesliga,22,26,0,3,0.3
+1166,Elseid Hysaj,al ALB,DF,Lazio,it Serie A,29,22,0,0,0.2
+1167,Pierre Højbjerg,dk DEN,MF,Tottenham,eng Premier League,27,36,0,0,0.7
+1168,Rasmus Højlund,dk DEN,FW,Manchester Utd,eng Premier League,20,30,10,2,7.6
+1169,Iago,br BRA,DF,Augsburg,de Bundesliga,26,23,1,1,1.4
+1170,Pablo Ibáñez,es ESP,MF,Osasuna,es La Liga,24,33,1,2,2.3
+1171,Arijon Ibrahimović,de GER,"FW,DF",Frosinone,it Serie A,17,16,1,1,0.8
+1172,Iglesias,es ESP,"DF,FW",Getafe,es La Liga,25,23,0,2,0.6
+1173,Borja Iglesias,es ESP,FW,Betis,es La Liga,30,11,0,1,0.6
+1174,Borja Iglesias,es ESP,FW,Leverkusen,de Bundesliga,30,7,0,0,1.4
+1175,Igor,br BRA,DF,Brighton,eng Premier League,25,24,0,0,0.3
+1176,Jonathan Ikone,fr FRA,FW,Fiorentina,it Serie A,25,28,3,1,4.6
+1177,Chukwubuikem Ikwuemesi,ng NGA,FW,Salernitana,it Serie A,21,25,1,1,2.4
+1178,Andrej Ilic,rs SRB,FW,Lille,fr Ligue 1,23,2,0,0,0.0
+1179,Ivan Ilić,rs SRB,MF,Torino,it Serie A,22,31,3,2,2.1
+1180,Samuel Iling-Junior,eng ENG,"DF,MF",Juventus,it Serie A,19,24,1,2,0.7
+1181,Imanol,es ESP,DF,Athletic Club,es La Liga,23,9,0,0,0.0
+1182,Joel Imasuen,us USA,FW,Werder Bremen,de Bundesliga,18,1,0,0,0.0
+1183,Ciro Immobile,it ITA,FW,Lazio,it Serie A,33,31,7,1,9.7
+1184,Gino Infantino,ar ARG,MF,Fiorentina,it Serie A,20,6,0,0,0.0
+1185,Danny Ings,eng ENG,FW,West Ham,eng Premier League,31,20,1,0,1.3
+1186,Bonke Innocent,ng NGA,MF,Lorient,fr Ligue 1,27,4,0,0,0.0
+1187,Tim Iroegbunam,eng ENG,MF,Aston Villa,eng Premier League,20,9,0,0,0.0
+1188,Alexander Isak,se SWE,FW,Newcastle Utd,eng Premier League,23,30,21,2,20.3
+1189,Gustav Isaksen,dk DEN,FW,Lazio,it Serie A,22,28,3,1,1.6
+1190,Isco,es ESP,MF,Betis,es La Liga,31,29,8,5,8.3
+1191,Thomas Isherwood,se SWE,DF,Darmstadt 98,de Bundesliga,25,12,0,0,0.0
+1192,Ismaily,br BRA,DF,Lille,fr Ligue 1,33,30,1,1,0.3
+1193,Ardian Ismajli,al ALB,DF,Empoli,it Serie A,26,26,0,0,0.3
+1194,Yanis Issoufou,fr FRA,MF,Montpellier,fr Ligue 1,16,1,0,0,0.0
+1195,Ko Itakura,jp JPN,"DF,MF",Gladbach,de Bundesliga,26,20,3,0,1.3
+1196,Hiroki Ito,jp JPN,DF,Stuttgart,de Bundesliga,24,26,0,2,0.9
+1197,Junya Ito,jp JPN,"FW,MF",Reims,fr Ligue 1,30,31,3,7,4.5
+1198,Diego Iturralde,es ESP,DF,Sevilla,es La Liga,20,1,0,0,0.0
+1199,Alex Iwobi,ng NGA,MF,Everton,eng Premier League,27,2,0,0,0.3
+1200,Alex Iwobi,ng NGA,"FW,MF",Fulham,eng Premier League,27,30,5,2,5.3
+1201,Armando Izzo,it ITA,DF,Monza,it Serie A,31,23,0,0,0.7
+1202,Nicolas Jackson,sn SEN,FW,Chelsea,eng Premier League,22,35,14,5,18.6
+1203,Jérémy Jacquet,fr FRA,MF,Rennes,fr Ligue 1,18,1,0,0,0.0
+1204,Jérémy Jacquet,fr FRA,DF,Clermont Foot,fr Ligue 1,18,6,0,1,0.2
+1205,Lee Jae-sung,kr KOR,"MF,FW",Mainz 05,de Bundesliga,30,29,6,3,4.9
+1206,Paul Jaeckel,de GER,DF,Union Berlin,de Bundesliga,25,6,0,0,0.0
+1207,Filip Jagiełło,pl POL,MF,Genoa,it Serie A,25,2,0,0,0.0
+1208,Kristijan Jakić,hr CRO,MF,Augsburg,de Bundesliga,26,14,2,1,0.8
+1209,Kristijan Jakić,hr CRO,"MF,FW",Eint Frankfurt,de Bundesliga,26,4,0,0,0.0
+1210,Ismail Jakobs,sn SEN,DF,Monaco,fr Ligue 1,23,22,1,2,1.3
+1211,Ablie Jallow,gm GAM,"MF,FW",Metz,fr Ligue 1,24,17,3,2,2.0
+1212,Reece James,eng ENG,DF,Chelsea,eng Premier League,23,10,0,2,0.3
+1213,Vitaly Janelt,de GER,"MF,DF",Brentford,eng Premier League,25,38,1,3,1.8
+1214,Jakub Jankto,cz CZE,"MF,FW",Cagliari,it Serie A,27,18,1,2,1.5
+1215,Tony Jantschke,de GER,"DF,MF",Gladbach,de Bundesliga,33,4,0,0,0.0
+1216,Adnan Januzaj,be BEL,"FW,MF",Sevilla,es La Liga,28,8,0,0,0.6
+1217,Nuha Jatta,gm GAM,FW,RB Leipzig,de Bundesliga,17,1,0,0,0.0
+1218,Mikel Jauregizar,es ESP,MF,Athletic Club,es La Liga,19,7,0,0,0.0
+1219,Luis Javier Suárez,co COL,FW,Almería,es La Liga,25,15,6,0,6.5
+1220,Danley Jean-Jacques,ht HAI,MF,Metz,fr Ligue 1,23,33,0,0,2.9
+1221,Salim El Jebari,ma MAR,MF,Atlético Madrid,es La Liga,19,1,0,0,0.0
+1222,Daniel Jebbison,eng ENG,FW,Sheffield Utd,eng Premier League,19,1,0,0,0.0
+1223,Jeffinho,br BRA,"FW,MF",Lyon,fr Ligue 1,23,10,1,1,1.0
+1224,Fredrik Jensen,fi FIN,"MF,FW",Augsburg,de Bundesliga,25,22,2,4,0.9
+1225,Mathias Jensen,dk DEN,MF,Brentford,eng Premier League,27,32,3,3,0.7
+1226,Moritz Jenz,de GER,DF,Wolfsburg,de Bundesliga,24,22,0,1,0.3
+1227,Gabriel Jesus,br BRA,FW,Arsenal,eng Premier League,26,27,4,5,6.3
+1228,Juan Jesus,br BRA,DF,Napoli,it Serie A,32,24,1,0,1.3
+1229,Alejandro Jiménez,es ESP,DF,Milan,it Serie A,18,3,0,0,0.0
+1230,Raúl Jiménez,mx MEX,FW,Fulham,eng Premier League,32,24,7,0,5.2
+1231,João Pedro,br BRA,"FW,MF",Brighton,eng Premier League,21,31,9,3,11.9
+1232,Joelinton,br BRA,"MF,FW",Newcastle Utd,eng Premier League,26,20,2,1,3.1
+1233,Ryan John Giles,eng ENG,"DF,MF",Luton Town,eng Premier League,23,11,0,0,0.1
+1234,Ben Johnson,eng ENG,"DF,FW",West Ham,eng Premier League,23,14,0,0,0.2
+1235,Brennan Johnson,wls WAL,FW,Tottenham,eng Premier League,22,32,5,10,10.3
+1236,Brennan Johnson,wls WAL,"FW,MF",Nott'ham Forest,eng Premier League,22,3,0,0,0.3
+1237,Joseph Johnson,eng ENG,DF,Luton Town,eng Premier League,17,2,0,0,0.0
+1238,Sam Johnstone,eng ENG,GK,Crystal Palace,eng Premier League,30,20,0,0,0.0
+1239,Curtis Jones,eng ENG,MF,Liverpool,eng Premier League,22,23,1,1,2.6
+1240,Frenkie de Jong,nl NED,MF,Barcelona,es La Liga,26,20,2,0,0.7
+1241,Joan Jordán,es ESP,MF,Sevilla,es La Liga,29,8,0,0,0.2
+1242,Jordi,es ESP,"MF,DF",Getafe,es La Liga,22,13,0,0,1.3
+1243,Jeremy Jorge,es ESP,FW,Getafe,es La Liga,20,1,0,0,0.0
+1244,Kaio Jorge,br BRA,FW,Frosinone,it Serie A,21,20,3,0,5.4
+1245,Jorginho,it ITA,MF,Arsenal,eng Premier League,31,24,0,2,0.1
+1246,Willian José,br BRA,FW,Betis,es La Liga,31,33,10,5,5.7
+1247,Joselu,es ESP,FW,Real Madrid,es La Liga,33,34,10,2,11.6
+1248,Diogo Jota,pt POR,FW,Liverpool,eng Premier League,26,21,10,3,5.3
+1249,Antoine Joujou,fr FRA,"FW,MF",Le Havre,fr Ligue 1,20,23,0,2,1.1
+1250,Luka Jović,rs SRB,FW,Milan,it Serie A,25,23,6,1,4.9
+1251,Kamil Jóźwiak,pl POL,MF,Granada,es La Liga,25,11,0,1,0.1
+1252,Juanmi,es ESP,FW,Cádiz,es La Liga,30,16,3,1,2.5
+1253,Juanpe,es ESP,DF,Girona,es La Liga,32,17,0,0,0.2
+1254,Mads Juel Andersen,dk DEN,DF,Luton Town,eng Premier League,25,8,1,0,0.3
+1255,Christopher Jullien,fr FRA,DF,Montpellier,fr Ligue 1,30,20,1,0,1.1
+1256,Anthony Jung,de GER,DF,Werder Bremen,de Bundesliga,31,31,1,0,0.6
+1257,Eli Junior Kroupi,fr FRA,"FW,MF",Lorient,fr Ligue 1,17,30,5,3,3.5
+1258,Hamed Junior Traorè,ci CIV,MF,Bournemouth,eng Premier League,23,3,0,0,0.2
+1259,Hamed Junior Traorè,ci CIV,MF,Napoli,it Serie A,23,9,0,0,0.9
+1260,Vinicius Júnior,br BRA,FW,Real Madrid,es La Liga,23,26,15,5,13.1
+1261,Josip Juranović,hr CRO,DF,Union Berlin,de Bundesliga,27,21,0,2,1.4
+1262,David Jurásek,cz CZE,DF,Hoffenheim,de Bundesliga,22,13,0,1,0.2
+1263,Julian Justvan,de GER,"FW,MF",Hoffenheim,de Bundesliga,25,4,0,0,0.0
+1264,Julian Justvan,de GER,"MF,FW",Darmstadt 98,de Bundesliga,25,14,2,2,0.9
+1265,Filip Jørgensen,dk DEN,GK,Villarreal,es La Liga,21,36,0,0,0.0
+1266,Mathias Jørgensen,dk DEN,DF,Brentford,eng Premier League,33,14,1,0,0.7
+1267,Mohamed Kaba,fr FRA,MF,Lecce,it Serie A,21,23,0,0,1.2
+1268,Sory Kaba,gn GUI,FW,Las Palmas,es La Liga,28,17,1,1,1.5
+1269,Ozan Kabak,tr TUR,DF,Hoffenheim,de Bundesliga,23,28,4,0,2.2
+1270,Christian Kabasele,be BEL,DF,Udinese,it Serie A,32,13,1,1,1.2
+1271,Issa Kaboré,bf BFA,DF,Luton Town,eng Premier League,22,24,0,2,0.2
+1272,Abdoul Kader Bamba,fr FRA,"FW,MF",Nantes,fr Ligue 1,29,23,2,1,2.1
+1273,Yaya Kader Fofana,ml MLI,"MF,DF",Reims,fr Ligue 1,19,4,0,0,0.1
+1274,Pavel Kadeřábek,cz CZE,"DF,FW",Hoffenheim,de Bundesliga,31,29,3,4,2.5
+1275,Tino Kadewere,zw ZIM,"FW,MF",Lyon,fr Ligue 1,27,11,0,0,0.7
+1276,Tino Kadewere,zw ZIM,"FW,MF",Nantes,fr Ligue 1,27,14,1,0,1.9
+1277,Kaiky,br BRA,DF,Almería,es La Liga,19,8,1,0,0.2
+1278,Florian Kainz,at AUT,"MF,FW",Köln,de Bundesliga,30,33,5,4,5.0
+1279,Sasa Kalajdzic,at AUT,FW,Wolves,eng Premier League,26,11,2,0,1.1
+1280,Sasa Kalajdzic,at AUT,FW,Eint Frankfurt,de Bundesliga,26,5,0,1,0.2
+1281,Arnaud Kalimuendo,fr FRA,FW,Rennes,fr Ligue 1,21,30,10,1,9.0
+1282,Yayah Kallon,sl SLE,FW,Hellas Verona,it Serie A,22,1,0,0,0.0
+1283,Gedeon Kalulu,cd COD,DF,Lorient,fr Ligue 1,25,19,0,1,0.3
+1284,Pierre Kalulu,fr FRA,DF,Milan,it Serie A,23,9,0,0,0.1
+1285,Daichi Kamada,jp JPN,MF,Lazio,it Serie A,26,29,2,2,1.8
+1286,Waren Kamanzi,no NOR,"DF,FW",Toulouse,fr Ligue 1,22,24,0,3,0.8
+1287,Boubacar Kamara,fr FRA,MF,Aston Villa,eng Premier League,23,20,0,1,0.1
+1288,Hassane Kamara,ci CIV,DF,Udinese,it Serie A,29,35,1,1,1.9
+1289,Willy Kambwala,fr FRA,DF,Manchester Utd,eng Premier League,18,8,0,0,0.0
+1290,Jakub Kamiński,pl POL,"FW,MF",Wolfsburg,de Bundesliga,21,17,0,2,0.5
+1291,Thomas Kaminski,be BEL,GK,Luton Town,eng Premier League,30,38,0,0,0.0
+1292,Kevin Kampl,si SVN,MF,RB Leipzig,de Bundesliga,32,26,1,0,0.2
+1293,Harry Kane,eng ENG,FW,Bayern Munich,de Bundesliga,30,32,36,8,30.6
+1294,Lee Kang-in,kr KOR,"FW,MF",Paris S-G,fr Ligue 1,22,23,3,4,1.5
+1295,Yann Karamoh,fr FRA,"MF,FW",Torino,it Serie A,25,10,0,0,0.1
+1296,Yann Karamoh,fr FRA,"FW,MF",Montpellier,fr Ligue 1,25,12,1,0,0.8
+1297,Atakan Karazor,,MF,Stuttgart,de Bundesliga,26,33,0,4,1.0
+1298,Ayman Kari,fr FRA,MF,Lorient,fr Ligue 1,18,14,1,1,0.6
+1299,Emir Karic,at AUT,DF,Darmstadt 98,de Bundesliga,26,27,0,0,0.4
+1300,Loris Karius,de GER,GK,Newcastle Utd,eng Premier League,30,1,0,0,0.0
+1301,Jesper Karlsson,se SWE,FW,Bologna,it Serie A,25,7,0,0,0.4
+1302,Jon Karrikaburu,es ESP,"MF,FW",Alavés,es La Liga,20,2,0,0,0.0
+1303,Rick Karsdorp,nl NED,DF,Roma,it Serie A,28,18,0,2,0.4
+1304,Grigoris Kastanos,cy CYP,"MF,DF",Salernitana,it Serie A,25,26,3,3,2.9
+1305,Silas Katompa,cd COD,"FW,MF",Stuttgart,de Bundesliga,24,27,5,2,5.7
+1306,Panos Katseris,gr GRE,DF,Lorient,fr Ligue 1,22,15,1,1,2.1
+1307,Mikkel Kaufmann,dk DEN,FW,Union Berlin,de Bundesliga,22,18,1,0,1.3
+1308,Michael Kayode,it ITA,DF,Fiorentina,it Serie A,19,26,1,1,0.5
+1309,Moise Kean,it ITA,FW,Juventus,it Serie A,23,19,0,0,2.1
+1310,Michael Keane,eng ENG,DF,Everton,eng Premier League,30,9,1,0,0.7
+1311,Ibrahima Kebe,ml MLI,MF,Girona,es La Liga,22,2,0,0,0.0
+1312,Kévin Keben Biakolo,cm CMR,DF,Toulouse,fr Ligue 1,19,8,0,0,0.0
+1313,Yassine Kechta,ma MAR,MF,Le Havre,fr Ligue 1,21,32,2,1,1.6
+1314,Thilo Kehrer,de GER,"DF,MF",West Ham,eng Premier League,26,4,0,0,0.0
+1315,Thilo Kehrer,de GER,DF,Monaco,fr Ligue 1,26,15,1,1,0.7
+1316,Habib Keita,ml MLI,MF,Clermont Foot,fr Ligue 1,21,27,1,0,0.7
+1317,Naby Keïta,gn GUI,"MF,DF",Werder Bremen,de Bundesliga,28,5,0,0,0.1
+1318,Yannik Keitel,de GER,"DF,MF",Freiburg,de Bundesliga,23,15,1,0,0.7
+1319,Caoimhín Kelleher,ie IRL,GK,Liverpool,eng Premier League,24,10,0,0,0.0
+1320,Thomas Keller,de GER,"MF,FW",Heidenheim,de Bundesliga,23,2,0,0,0.0
+1321,Lloyd Kelly,eng ENG,DF,Bournemouth,eng Premier League,24,23,0,1,0.3
+1322,Omari Kellyman,eng ENG,FW,Aston Villa,eng Premier League,17,2,0,0,0.1
+1323,Aljoscha Kemlein,de GER,MF,Union Berlin,de Bundesliga,18,2,0,0,0.0
+1324,Tobias Kempe,de GER,MF,Darmstadt 98,de Bundesliga,34,24,3,2,3.6
+1325,Milos Kerkez,hu HUN,DF,Bournemouth,eng Premier League,19,28,0,1,1.2
+1326,Kaine Kesler-Hayden,eng ENG,"MF,DF",Aston Villa,eng Premier League,20,3,0,0,0.0
+1327,Reda Khadra,de GER,"FW,MF",Reims,fr Ligue 1,22,29,1,3,1.8
+1328,Wahbi Khazri,tn TUN,FW,Montpellier,fr Ligue 1,32,25,1,0,3.3
+1329,Rani Khedira,de GER,MF,Union Berlin,de Bundesliga,29,20,0,0,0.4
+1330,Abdukodir Khusanov,uz UZB,DF,Lens,fr Ligue 1,19,11,0,0,0.2
+1331,Kiké,es ESP,"FW,MF",Alavés,es La Liga,33,33,3,2,7.7
+1332,Luca Kilian,de GER,DF,Köln,de Bundesliga,23,13,0,0,0.0
+1333,Max Kilman,eng ENG,DF,Wolves,eng Premier League,26,38,2,0,1.8
+1334,Joshua Kimmich,de GER,"MF,DF",Bayern Munich,de Bundesliga,28,28,1,6,1.1
+1335,Jakub Kiwior,pl POL,DF,Arsenal,eng Premier League,23,20,1,3,0.8
+1336,Simon Kjær,dk DEN,DF,Milan,it Serie A,34,20,0,1,0.5
+1337,Davy Klaassen,nl NED,MF,Inter,it Serie A,30,13,0,0,0.1
+1338,Christoph Klarer,at AUT,DF,Darmstadt 98,de Bundesliga,23,30,2,2,1.2
+1339,Tim Kleindienst,de GER,FW,Heidenheim,de Bundesliga,27,33,12,3,13.9
+1340,Lukas Klostermann,de GER,DF,RB Leipzig,de Bundesliga,27,25,1,0,0.7
+1341,Justin Kluivert,nl NED,"MF,FW",Bournemouth,eng Premier League,24,32,7,1,6.2
+1342,Ansgar Knauff,de GER,"MF,DF",Eint Frankfurt,de Bundesliga,21,31,7,2,5.7
+1343,Robin Knoche,de GER,DF,Union Berlin,de Bundesliga,31,24,1,0,1.2
+1344,Gregor Kobel,ch SUI,GK,Dortmund,de Bundesliga,25,27,0,0,0.0
+1345,Robin Koch,de GER,DF,Eint Frankfurt,de Bundesliga,27,31,2,0,3.1
+1346,Philipp Köhn,ch SUI,GK,Monaco,fr Ligue 1,25,22,0,0,0.0
+1347,Dominik Kohr,de GER,"DF,MF",Mainz 05,de Bundesliga,29,31,1,0,1.6
+1348,Koke,es ESP,MF,Atlético Madrid,es La Liga,31,35,0,4,0.4
+1349,Sead Kolašinac,ba BIH,DF,Atalanta,it Serie A,30,30,1,0,1.3
+1350,Luca Koleosho,it ITA,"MF,FW",Burnley,eng Premier League,18,15,1,1,2.0
+1351,Randal Kolo Muani,fr FRA,"FW,MF",Paris S-G,fr Ligue 1,24,26,6,5,6.1
+1352,Randal Kolo Muani,fr FRA,FW,Eint Frankfurt,de Bundesliga,24,2,1,0,1.3
+1353,Mert Kömür,de GER,"MF,DF",Augsburg,de Bundesliga,18,4,1,0,0.2
+1354,Cheick Konaté,ml MLI,DF,Clermont Foot,fr Ligue 1,19,19,1,1,0.5
+1355,Ibrahima Konaté,fr FRA,DF,Liverpool,eng Premier League,24,22,0,0,0.7
+1356,Geoffrey Kondogbia,cf CTA,MF,Marseille,fr Ligue 1,30,26,0,0,0.4
+1357,Abdoul Koné,fr FRA,DF,Reims,fr Ligue 1,18,3,0,0,0.0
+1358,Amadou Koné,ml MLI,MF,Reims,fr Ligue 1,18,16,0,0,0.3
+1359,Ibrahima Koné,ml MLI,FW,Almería,es La Liga,24,9,0,0,0.4
+1360,Ibrahima Koné,ml MLI,FW,Lorient,fr Ligue 1,24,1,0,0,0.0
+1361,Manu Koné,fr FRA,MF,Gladbach,de Bundesliga,22,22,1,0,1.2
+1362,Ezri Konsa,eng ENG,DF,Aston Villa,eng Premier League,25,35,1,0,2.5
+1363,Teun Koopmeiners,nl NED,MF,Atalanta,it Serie A,25,34,12,5,6.5
+1364,Odilon Kossounou,ci CIV,DF,Leverkusen,de Bundesliga,22,22,1,0,0.6
+1365,Filip Kostić,rs SRB,DF,Juventus,it Serie A,30,29,0,4,0.7
+1366,N'Guessan Kouadio,ci CIV,"MF,FW",Metz,fr Ligue 1,20,6,0,0,0.1
+1367,Christian Kouamé,ci CIV,FW,Fiorentina,it Serie A,25,23,2,1,1.9
+1368,Rominigue Kouamé,ml MLI,MF,Cádiz,es La Liga,26,16,0,0,0.3
+1369,Koffi Kouao,ci CIV,DF,Metz,fr Ligue 1,25,13,0,2,0.2
+1370,Tomáš Koubek,cz CZE,GK,Augsburg,de Bundesliga,30,3,0,0,0.0
+1371,Therence Koudou,fr FRA,DF,Reims,fr Ligue 1,18,9,0,0,0.1
+1372,Jules Koundé,fr FRA,DF,Barcelona,es La Liga,24,35,1,2,2.0
+1373,Boubakar Kouyaté,ml MLI,DF,Montpellier,fr Ligue 1,26,23,0,2,0.8
+1374,Cheikhou Kouyaté,sn SEN,MF,Nott'ham Forest,eng Premier League,33,12,0,0,0.3
+1375,Mateo Kovačić,hr CRO,MF,Manchester City,eng Premier League,29,30,1,0,1.3
+1376,Viktor Kovalenko,ua UKR,MF,Empoli,it Serie A,27,17,1,1,0.9
+1377,Matej Kovar,cz CZE,GK,Leverkusen,de Bundesliga,23,1,0,0,0.0
+1378,Dawid Kownacki,pl POL,FW,Werder Bremen,de Bundesliga,26,22,0,0,1.3
+1379,Emil Krafth,se SWE,DF,Newcastle Utd,eng Premier League,28,17,0,0,0.2
+1380,Alex Král,cz CZE,MF,Union Berlin,de Bundesliga,25,24,0,0,1.7
+1381,Andrej Kramarić,hr CRO,"MF,FW",Hoffenheim,de Bundesliga,32,30,15,6,11.1
+1382,Christoph Kramer,de GER,MF,Gladbach,de Bundesliga,32,14,0,0,0.1
+1383,Frans Krätzig,de GER,DF,Bayern Munich,de Bundesliga,20,4,0,0,0.3
+1384,Tom Krauß,de GER,MF,Mainz 05,de Bundesliga,22,29,1,2,0.8
+1385,Rasmus Kristensen,dk DEN,DF,Roma,it Serie A,26,29,1,1,0.5
+1386,Thomas Kristensen,dk DEN,DF,Udinese,it Serie A,21,26,0,1,1.1
+1387,Toni Kroos,de GER,MF,Real Madrid,es La Liga,33,33,1,8,1.6
+1388,Nikola Krstović,me MNE,FW,Lecce,it Serie A,23,35,7,1,11.6
+1389,Rade Krunić,ba BIH,MF,Milan,it Serie A,29,10,0,0,0.1
+1390,Lukas Kübler,de GER,DF,Freiburg,de Bundesliga,30,26,1,0,0.6
+1391,Takefusa Kubo,jp JPN,"FW,MF",Real Sociedad,es La Liga,22,30,7,4,3.5
+1392,Mahmut Kücüksahin,,MF,Augsburg,de Bundesliga,19,1,0,0,0.0
+1393,Mohammed Kudus,gh GHA,"FW,MF",West Ham,eng Premier League,22,33,8,6,5.1
+1394,Christian Kühlwetter,de GER,MF,Heidenheim,de Bundesliga,27,1,0,1,0.0
+1395,Dejan Kulusevski,se SWE,"FW,MF",Tottenham,eng Premier League,23,36,8,3,4.7
+1396,Sael Kumbedi,fr FRA,DF,Lyon,fr Ligue 1,18,17,0,1,0.2
+1397,Marash Kumbulla,al ALB,DF,Sassuolo,it Serie A,23,7,0,0,0.0
+1398,Justin Kumi,it ITA,FW,Sassuolo,it Serie A,19,1,0,0,0.0
+1399,Layvin Kurzawa,fr FRA,DF,Paris S-G,fr Ligue 1,30,1,0,0,0.0
+1400,Berkan Kutlu,tr TUR,MF,Genoa,it Serie A,25,6,0,0,0.2
+1401,Daler Kuzyaev,ru RUS,MF,Le Havre,fr Ligue 1,30,30,2,2,1.8
+1402,Khvicha Kvaratskhelia,ge GEO,FW,Napoli,it Serie A,22,34,11,6,11.1
+1403,Giorgi Kvernadze,ge GEO,"FW,DF",Frosinone,it Serie A,20,5,0,0,0.0
+1404,Moritz-Broni Kwarteng,gh GHA,FW,Bochum,de Bundesliga,25,11,0,1,1.0
+1405,Grejohn Kyei,fr FRA,FW,Clermont Foot,fr Ligue 1,27,26,2,1,4.9
+1406,Giorgos Kyriakopoulos,gr GRE,DF,Monza,it Serie A,27,28,0,3,1.2
+1407,Luca de la Torre,us USA,MF,Celta Vigo,es La Liga,25,31,1,4,2.5
+1408,Gaëtan Laborde,fr FRA,"FW,MF",Nice,fr Ligue 1,29,34,5,2,7.7
+1409,Alexandre Lacazette,fr FRA,FW,Lyon,fr Ligue 1,32,29,19,2,11.4
+1410,Maxence Lacroix,fr FRA,DF,Wolfsburg,de Bundesliga,23,28,4,1,0.8
+1411,Alban Lafont,fr FRA,GK,Nantes,fr Ligue 1,24,28,0,0,0.0
+1412,Yoel Lago,es ESP,DF,Celta Vigo,es La Liga,19,1,0,0,0.0
+1413,Aïssa Laïdouni,tn TUN,MF,Union Berlin,de Bundesliga,26,23,0,3,0.7
+1414,Konrad Laimer,at AUT,"DF,MF",Bayern Munich,de Bundesliga,26,29,0,3,1.0
+1415,Stefan Lainer,at AUT,"DF,MF",Gladbach,de Bundesliga,30,15,0,1,0.2
+1416,Kenny Lala,mg MAD,DF,Brest,fr Ligue 1,31,33,2,3,0.5
+1417,Adam Lallana,eng ENG,"MF,FW",Brighton,eng Premier League,35,25,0,1,0.8
+1418,Mathis Lambourde,fr FRA,FW,Rennes,fr Ligue 1,17,1,0,0,0.0
+1419,Érik Lamela,ar ARG,"FW,MF",Sevilla,es La Liga,31,13,2,0,1.0
+1420,Mohamed Lamine Bayo,gn GUI,FW,Le Havre,fr Ligue 1,25,22,5,1,7.2
+1421,Didier Lamkel Zé,cm CMR,"FW,MF",Metz,fr Ligue 1,26,9,1,0,1.6
+1422,Tariq Lamptey,gh GHA,"DF,FW",Brighton,eng Premier League,22,19,0,3,0.4
+1423,Bruno Langa,mz MOZ,DF,Almería,es La Liga,25,11,1,0,0.2
+1424,Gianluca Lapadula,pe PER,FW,Cagliari,it Serie A,33,23,3,1,4.8
+1425,Aymeric Laporte,es ESP,DF,Manchester City,eng Premier League,29,1,0,0,0.0
+1426,Julien Laporte,fr FRA,DF,Lorient,fr Ligue 1,29,23,0,0,0.8
+1427,Cyle Larin,ca CAN,FW,Mallorca,es La Liga,28,35,3,2,9.0
+1428,Yasser Larouci,dz ALG,DF,Sheffield Utd,eng Premier League,22,11,0,0,0.2
+1429,Hugo Larsson,se SWE,MF,Eint Frankfurt,de Bundesliga,19,29,2,1,1.3
+1430,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,eng Premier League,29,16,1,0,0.7
+1431,Juanmi Latasa,es ESP,FW,Getafe,es La Liga,22,32,2,0,3.6
+1432,Toni Lato,es ESP,DF,Mallorca,es La Liga,25,28,0,1,0.2
+1433,Armand Lauriente,fr FRA,FW,Sassuolo,it Serie A,24,37,5,4,5.7
+1434,Roméo Lavia,be BEL,MF,Chelsea,eng Premier League,19,1,0,0,0.0
+1435,Lázaro,br BRA,"FW,MF",Almería,es La Liga,21,14,0,0,0.9
+1436,Valentino Lazaro,at AUT,"DF,MF",Torino,it Serie A,27,35,0,4,1.7
+1437,Darko Lazović,rs SRB,"FW,MF",Hellas Verona,it Serie A,32,32,3,2,2.8
+1438,Manuel Lazzari,it ITA,DF,Lazio,it Serie A,29,24,0,2,1.0
+1439,Théo Le Bris,fr FRA,"DF,MF",Lorient,fr Ligue 1,20,26,0,2,1.2
+1440,Julien Le Cardinal,fr FRA,DF,Brest,fr Ligue 1,25,12,0,0,0.3
+1441,Julien Le Cardinal,fr FRA,DF,Lens,fr Ligue 1,25,2,0,0,0.0
+1442,Jérémy Le Douaron,fr FRA,FW,Brest,fr Ligue 1,25,33,4,0,6.2
+1443,Enzo Le Fée,fr FRA,MF,Rennes,fr Ligue 1,23,25,0,1,0.5
+1444,Vincent Le Goff,fr FRA,"DF,MF",Lorient,fr Ligue 1,33,9,1,1,0.1
+1445,Robin Le Normand,es ESP,DF,Real Sociedad,es La Liga,26,29,2,0,1.0
+1446,Nicola Leali,it ITA,GK,Genoa,it Serie A,30,3,0,0,0.0
+1447,Rafael Leão,pt POR,FW,Milan,it Serie A,24,34,9,9,10.0
+1448,Adrien Lebeau,fr FRA,"MF,FW",Brest,fr Ligue 1,24,7,0,1,0.1
+1449,Jean-Louis Leca,fr FRA,GK,Lens,fr Ligue 1,37,1,0,0,0.0
+1450,Benjamin Lecomte,fr FRA,GK,Montpellier,fr Ligue 1,32,30,0,1,0.0
+1451,Jeremías Ledesma,ar ARG,GK,Cádiz,es La Liga,30,34,0,0,0.0
+1452,Pierre Lees-Melou,fr FRA,MF,Brest,fr Ligue 1,30,29,4,0,2.4
+1453,Diogo Leite,pt POR,DF,Union Berlin,de Bundesliga,24,32,0,0,0.8
+1454,Maxim Leitsch,de GER,DF,Mainz 05,de Bundesliga,25,7,0,0,0.0
+1455,Florian Lejeune,fr FRA,DF,Rayo Vallecano,es La Liga,32,37,3,1,3.3
+1456,Stefan Lekovic,rs SRB,DF,Villarreal,es La Liga,19,1,0,0,0.0
+1457,Iñigo Lekue,es ESP,DF,Athletic Club,es La Liga,30,27,0,2,0.2
+1458,Thomas Lemar,fr FRA,MF,Atlético Madrid,es La Liga,27,3,0,0,0.2
+1459,Mario Lemina,ga GAB,MF,Wolves,eng Premier League,29,35,4,1,4.6
+1460,Álvaro Lemos,es ESP,DF,Las Palmas,es La Liga,30,4,0,0,0.0
+1461,Ruben Lendinez,es ESP,DF,Valencia,es La Liga,20,1,0,0,0.0
+1462,Clément Lenglet,fr FRA,DF,Aston Villa,eng Premier League,28,14,0,1,0.9
+1463,Bernd Leno,de GER,GK,Fulham,eng Premier League,31,38,0,0,0.0
+1464,Christopher Lenz,de GER,"DF,MF",RB Leipzig,de Bundesliga,28,5,0,0,0.0
+1465,Christopher Lenz,de GER,DF,Eint Frankfurt,de Bundesliga,28,1,0,0,0.0
+1466,Johann Lepenant,fr FRA,MF,Lyon,fr Ligue 1,20,6,0,0,0.1
+1467,Jefferson Lerma,co COL,"MF,DF",Crystal Palace,eng Premier League,28,28,1,1,2.7
+1468,Léo Leroy,fr FRA,MF,Montpellier,fr Ligue 1,23,21,0,1,0.8
+1469,Robert Lewandowski,pl POL,FW,Barcelona,es La Liga,34,35,19,8,18.1
+1470,Jamie Leweling,de GER,"FW,MF",Stuttgart,de Bundesliga,22,34,4,4,6.1
+1471,Rico Lewis,eng ENG,"DF,MF",Manchester City,eng Premier League,18,16,2,0,0.6
+1472,Keane Lewis-Potter,eng ENG,"FW,DF",Brentford,eng Premier League,22,30,3,1,6.3
+1473,Philipp Lienhart,at AUT,DF,Freiburg,de Bundesliga,27,15,1,0,1.1
+1474,Matthijs de Ligt,nl NED,DF,Bayern Munich,de Bundesliga,23,22,2,0,1.7
+1475,Victor Lindelöf,se SWE,DF,Manchester Utd,eng Premier League,29,19,1,1,0.8
+1476,Jesper Lindstrøm,dk DEN,"FW,MF",Napoli,it Serie A,23,22,0,0,0.7
+1477,Jesper Lindstrøm,dk DEN,FW,Eint Frankfurt,de Bundesliga,23,1,0,0,0.2
+1478,Karol Linetty,pl POL,MF,Torino,it Serie A,28,28,0,0,0.5
+1479,Samuel Lino,br BRA,"DF,MF",Atlético Madrid,es La Liga,23,34,4,5,5.6
+1480,Luca Lipani,it ITA,MF,Sassuolo,it Serie A,18,8,0,0,0.1
+1481,Pol Lirola,es ESP,DF,Frosinone,it Serie A,25,25,2,1,1.3
+1482,Marcin Listkowski,pl POL,FW,Lecce,it Serie A,25,1,0,0,0.0
+1483,Valentino Livramento,eng ENG,DF,Newcastle Utd,eng Premier League,20,26,1,0,0.4
+1484,Dejan Ljubicic,at AUT,"MF,FW",Köln,de Bundesliga,25,26,0,2,1.9
+1485,Javier Llabrés,es ESP,"MF,FW",Mallorca,es La Liga,20,16,1,0,0.7
+1486,Diego Llorente,es ESP,DF,Roma,it Serie A,29,29,1,1,0.3
+1487,Marcos Llorente,es ESP,"MF,DF",Atlético Madrid,es La Liga,28,37,6,4,4.1
+1488,Gautier Lloris,fr FRA,DF,Le Havre,fr Ligue 1,28,31,2,0,2.1
+1489,Abou Lô,sn SEN,"MF,DF",Metz,fr Ligue 1,23,6,0,0,0.1
+1490,Giovani Lo Celso,ar ARG,MF,Tottenham,eng Premier League,27,22,2,2,0.6
+1491,Stanislav Lobotka,sk SVK,MF,Napoli,it Serie A,28,38,0,1,0.6
+1492,Manuel Locatelli,it ITA,MF,Juventus,it Serie A,25,36,1,4,1.3
+1493,Bradley Locko,fr FRA,DF,Brest,fr Ligue 1,21,33,0,3,0.3
+1494,Tom Lockyer,wls WAL,DF,Luton Town,eng Premier League,28,14,1,1,1.1
+1495,Renan Lodi,br BRA,DF,Marseille,fr Ligue 1,25,14,0,0,0.3
+1496,Ruben Loftus-Cheek,eng ENG,MF,Milan,it Serie A,27,29,6,1,3.7
+1497,Andy Logbo,fr FRA,FW,Le Havre,fr Ligue 1,19,10,0,0,0.3
+1498,Enzo Loiodice,fr FRA,MF,Las Palmas,es La Liga,22,34,0,1,0.5
+1499,Sean Longstaff,eng ENG,MF,Newcastle Utd,eng Premier League,25,35,6,2,6.6
+1500,Ademola Lookman,ng NGA,"FW,MF",Atalanta,it Serie A,25,31,11,7,9.1
+1501,Noah Loosli,ch SUI,DF,Bochum,de Bundesliga,26,10,0,0,0.0
+1502,Anthony Lopes,pt POR,GK,Lyon,fr Ligue 1,32,31,0,0,0.0
+1503,David López,es ESP,DF,Girona,es La Liga,33,25,3,0,2.1
+1504,Diego López,es ESP,"MF,FW",Valencia,es La Liga,21,36,3,6,3.7
+1505,Fermin López,es ESP,"MF,FW",Barcelona,es La Liga,20,31,8,0,7.5
+1506,Javi López,es ESP,DF,Alavés,es La Liga,21,32,1,3,0.9
+1507,Maxime Lopez,fr FRA,MF,Fiorentina,it Serie A,25,19,0,0,0.2
+1508,Maxime Lopez,fr FRA,MF,Sassuolo,it Serie A,25,2,0,0,0.0
+1509,Pau López,es ESP,GK,Marseille,fr Ligue 1,28,33,0,0,0.0
+1510,Unai López,es ESP,MF,Rayo Vallecano,es La Liga,27,35,1,2,1.1
+1511,Dion Lopy,sn SEN,MF,Almería,es La Liga,21,30,0,0,1.3
+1512,Anthony Losilla,fr FRA,MF,Bochum,de Bundesliga,37,31,1,2,2.3
+1513,Jordan Lotomba,ch SUI,DF,Nice,fr Ligue 1,24,28,1,0,0.9
+1514,Tom Louchet,fr FRA,"MF,DF",Nice,fr Ligue 1,20,13,1,1,1.0
+1515,Imran Louza,ma MAR,MF,Lorient,fr Ligue 1,24,14,1,3,1.1
+1516,Matteo Lovato,it ITA,DF,Torino,it Serie A,23,13,0,0,0.0
+1517,Matteo Lovato,it ITA,DF,Salernitana,it Serie A,23,13,0,0,0.0
+1518,Dejan Lovren,hr CRO,DF,Lyon,fr Ligue 1,34,10,0,0,0.4
+1519,Sandi Lovrić,si SVN,MF,Udinese,it Serie A,25,29,1,3,3.5
+1520,Max Lowe,eng ENG,"DF,MF",Sheffield Utd,eng Premier League,26,10,0,0,0.6
+1521,Anthony Lozano,hn HON,"MF,FW",Getafe,es La Liga,30,6,0,0,0.2
+1522,Anthony Lozano,hn HON,FW,Almería,es La Liga,30,13,3,0,3.3
+1523,Lucas,br BRA,DF,Cádiz,es La Liga,22,28,1,0,0.8
+1524,Lorenzo Lucca,it ITA,FW,Udinese,it Serie A,22,37,8,4,7.8
+1525,Jhon Lucumí,co COL,DF,Bologna,it Serie A,25,29,0,0,0.8
+1526,José Luis Gayà,es ESP,DF,Valencia,es La Liga,28,24,1,2,0.5
+1527,José Luis Morales,es ESP,"FW,MF",Villarreal,es La Liga,36,29,7,0,5.6
+1528,José Luis Palomino,ar ARG,DF,Atalanta,it Serie A,33,4,0,0,0.0
+1529,Douglas Luiz,br BRA,MF,Aston Villa,eng Premier League,25,35,9,5,6.9
+1530,Romelu Lukaku,be BEL,FW,Roma,it Serie A,30,32,13,3,9.8
+1531,Castello Lukeba,fr FRA,DF,RB Leipzig,de Bundesliga,20,32,1,0,0.8
+1532,Dodi Lukebakio,be BEL,"FW,MF",Sevilla,es La Liga,25,23,5,1,5.6
+1533,Saša Lukić,rs SRB,MF,Fulham,eng Premier League,26,24,1,0,1.6
+1534,Karlo Lulić,hr CRO,MF,Frosinone,it Serie A,27,1,0,0,0.0
+1535,Andriy Lunin,ua UKR,GK,Real Madrid,es La Liga,24,21,0,0,0.0
+1536,Sebastiano Luperto,it ITA,DF,Empoli,it Serie A,26,38,1,1,1.7
+1537,Mateus Lusuardi,br BRA,DF,Frosinone,it Serie A,19,4,0,0,0.1
+1538,Andreas Luthe,de GER,GK,Bochum,de Bundesliga,36,1,0,0,0.0
+1539,Zito Luvumbo,ao ANG,"FW,MF",Cagliari,it Serie A,21,30,4,5,4.0
+1540,Charalambos Lykogiannis,gr GRE,DF,Bologna,it Serie A,29,22,2,1,1.3
+1541,Senne Lynen,be BEL,MF,Werder Bremen,de Bundesliga,24,32,0,3,0.4
+1542,Joshua M'Bahia,ci CIV,MF,Clermont Foot,fr Ligue 1,18,1,0,0,0.0
+1543,Othmane Maamma,ma MAR,FW,Montpellier,fr Ligue 1,17,2,1,0,0.3
+1544,Ian Maatsen,nl NED,"FW,MF",Chelsea,eng Premier League,21,12,0,0,0.8
+1545,Ian Maatsen,nl NED,DF,Dortmund,de Bundesliga,21,16,2,2,0.9
+1546,Alexis Mac Allister,ar ARG,MF,Liverpool,eng Premier League,24,33,5,5,3.7
+1547,Deiver Machado,co COL,DF,Lens,fr Ligue 1,29,19,4,0,1.7
+1548,Darwin Machís,ve VEN,MF,Cádiz,es La Liga,30,21,4,0,1.4
+1549,James Maddison,eng ENG,MF,Tottenham,eng Premier League,26,28,4,9,6.4
+1550,Noni Madueke,eng ENG,FW,Chelsea,eng Premier League,21,23,5,2,2.5
+1551,Pablo Maffeo,es ESP,DF,Mallorca,es La Liga,26,22,1,2,0.8
+1552,Gabriel Magalhães,br BRA,DF,Arsenal,eng Premier League,25,36,4,0,4.3
+1553,Soungoutou Magassa,fr FRA,"DF,MF",Monaco,fr Ligue 1,19,21,0,0,0.6
+1554,Giulio Maggiore,it ITA,MF,Salernitana,it Serie A,25,27,4,2,2.3
+1555,Matej Maglica,hr CRO,DF,Darmstadt 98,de Bundesliga,24,26,1,0,0.6
+1556,Giangiacomo Magnani,it ITA,DF,Hellas Verona,it Serie A,27,33,0,0,0.5
+1557,Hugo Magnetti,fr FRA,MF,Brest,fr Ligue 1,25,33,2,0,2.4
+1558,Yohann Magnin,fr FRA,MF,Clermont Foot,fr Ligue 1,26,31,1,0,1.6
+1559,Frank Magri,cm CMR,"FW,MF",Toulouse,fr Ligue 1,23,29,5,2,3.1
+1560,Harry Maguire,eng ENG,DF,Manchester Utd,eng Premier League,30,22,2,2,2.0
+1561,Jon Magunacelaya,es ESP,"FW,MF",Real Sociedad,es La Liga,23,5,0,0,0.3
+1562,Adel Mahamoud,km COM,FW,Nantes,fr Ligue 1,20,1,0,0,0.0
+1563,Arne Maier,de GER,MF,Augsburg,de Bundesliga,24,22,2,4,1.5
+1564,Habib Maïga,ci CIV,"MF,FW",Metz,fr Ligue 1,27,7,0,0,0.1
+1565,Mike Maignan,fr FRA,GK,Milan,it Serie A,28,29,0,1,0.0
+1566,Linton Maina,de GER,"FW,MF",Köln,de Bundesliga,24,31,1,3,1.9
+1567,Patrick Mainka,de GER,DF,Heidenheim,de Bundesliga,28,34,2,0,3.2
+1568,Kobbie Mainoo,eng ENG,MF,Manchester Utd,eng Premier League,18,24,3,1,0.9
+1569,Ainsley Maitland-Niles,eng ENG,"DF,MF",Lyon,fr Ligue 1,25,23,1,4,3.0
+1570,Radosław Majecki,pl POL,GK,Monaco,fr Ligue 1,23,12,0,0,0.0
+1571,Lovro Majer,hr CRO,MF,Rennes,fr Ligue 1,25,1,0,0,0.0
+1572,Lovro Majer,hr CRO,"MF,FW",Wolfsburg,de Bundesliga,25,32,5,5,5.4
+1573,Jean-Victor Makengo,fr FRA,"MF,FW",Lorient,fr Ligue 1,25,11,0,0,0.3
+1574,Jordy Makengo,fr FRA,DF,Freiburg,de Bundesliga,21,20,0,0,0.2
+1575,Antoine Makoumbou,cg CGO,MF,Cagliari,it Serie A,25,32,1,0,0.7
+1576,Nemanja Maksimović,rs SRB,MF,Getafe,es La Liga,28,37,4,0,5.5
+1577,Julián Malatini,ar ARG,DF,Werder Bremen,de Bundesliga,22,11,1,0,1.0
+1578,Daniel Maldini,it ITA,"MF,FW",Monza,it Serie A,21,11,4,1,1.3
+1579,Daniel Maldini,it ITA,"FW,MF",Empoli,it Serie A,21,7,0,0,0.3
+1580,Youssef Maleh,ma MAR,MF,Empoli,it Serie A,24,34,0,1,1.6
+1581,Donyell Malen,nl NED,"FW,MF",Dortmund,de Bundesliga,24,27,13,1,9.5
+1582,Ruslan Malinovskyi,ua UKR,MF,Genoa,it Serie A,30,28,4,1,1.1
+1583,Lennard Maloney,us USA,MF,Heidenheim,de Bundesliga,23,29,1,1,0.8
+1584,Aaron Malouda,fr FRA,FW,Lille,fr Ligue 1,17,1,0,0,0.0
+1585,Giorgi Mamardashvili,ge GEO,GK,Valencia,es La Liga,22,37,0,0,0.0
+1586,David Mamutovic,de GER,"FW,DF",Mainz 05,de Bundesliga,22,2,0,0,0.0
+1587,Wilson Manafá,pt POR,"DF,MF",Granada,es La Liga,29,4,0,0,0.0
+1588,Hianga Mananga Mbock,fr FRA,"MF,FW",Brest,fr Ligue 1,23,2,0,0,0.1
+1589,Gianluca Mancini,it ITA,DF,Roma,it Serie A,27,36,4,1,1.9
+1590,Marco Mancosu,it ITA,"MF,FW",Cagliari,it Serie A,34,6,0,0,1.2
+1591,Steve Mandanda,fr FRA,GK,Rennes,fr Ligue 1,38,34,0,0,0.0
+1592,Christos Mandas,gr GRE,GK,Lazio,it Serie A,21,9,0,0,0.0
+1593,Reinildo Mandava,mz MOZ,DF,Atlético Madrid,es La Liga,29,16,2,1,0.9
+1594,Aïssa Mandi,dz ALG,DF,Villarreal,es La Liga,31,16,1,0,0.6
+1595,Rolando Mandragora,it ITA,MF,Fiorentina,it Serie A,26,33,3,3,3.5
+1596,Orel Mangala,be BEL,MF,Nott'ham Forest,eng Premier League,25,20,1,0,0.8
+1597,Orel Mangala,be BEL,MF,Lyon,fr Ligue 1,25,8,2,0,1.0
+1598,Vito Mannone,it ITA,GK,Lille,fr Ligue 1,35,2,0,0,0.0
+1599,Kostas Manolas,gr GRE,DF,Salernitana,it Serie A,32,8,0,0,0.1
+1600,Javier Manquillo,es ESP,"DF,MF",Celta Vigo,es La Liga,29,12,0,1,0.1
+1601,Braydon Manu,gh GHA,MF,Darmstadt 98,de Bundesliga,26,4,0,0,0.4
+1602,Benson Manuel,ao ANG,"MF,FW",Burnley,eng Premier League,26,8,0,0,0.1
+1603,Faitout Maouassa,fr FRA,"DF,MF",Granada,es La Liga,25,6,0,1,0.2
+1604,Faitout Maouassa,fr FRA,"MF,DF",Lens,fr Ligue 1,25,3,0,0,0.1
+1605,Marcão,br BRA,DF,Sevilla,es La Liga,27,7,0,0,0.0
+1606,Solly March,eng ENG,"FW,DF",Brighton,eng Premier League,29,7,3,1,2.0
+1607,Riccardo Marchizza,it ITA,DF,Frosinone,it Serie A,25,13,0,4,0.4
+1608,Gian Marco Ferrari,it ITA,DF,Sassuolo,it Serie A,31,31,1,0,1.6
+1609,Óscar de Marcos,es ESP,DF,Athletic Club,es La Liga,34,28,1,5,0.6
+1610,Alberto Marí,es ESP,FW,Valencia,es La Liga,22,16,1,1,1.8
+1611,José Mari,es ESP,"MF,FW",Cádiz,es La Liga,35,3,0,0,0.0
+1612,Pablo Marí,es ESP,DF,Monza,it Serie A,29,34,0,0,0.4
+1613,José María Giménez,uy URU,DF,Atlético Madrid,es La Liga,28,22,0,0,0.4
+1614,Mariano,do DOM,"FW,MF",Sevilla,es La Liga,29,9,0,0,1.2
+1615,Mirko Marić,hr CRO,FW,Monza,it Serie A,28,10,1,0,0.9
+1616,Rafa Marín,es ESP,DF,Alavés,es La Liga,21,33,0,0,0.7
+1617,Răzvan Marin,ro ROU,MF,Empoli,it Serie A,27,30,0,3,1.1
+1618,Diego Mariño,es ESP,GK,Almería,es La Liga,33,1,0,0,0.0
+1619,Guillermo Maripán,cl CHI,DF,Monaco,fr Ligue 1,29,23,1,0,0.4
+1620,Mika Màrmol,es ESP,DF,Las Palmas,es La Liga,21,36,0,1,0.2
+1621,Omar Marmoush,eg EGY,"FW,MF",Eint Frankfurt,de Bundesliga,24,29,12,6,11.6
+1622,Marquinhos,br BRA,"FW,MF",Nantes,fr Ligue 1,20,7,0,0,0.3
+1623,Marquinhos,br BRA,DF,Paris S-G,fr Ligue 1,29,21,0,1,0.4
+1624,Unai Marrero,es ESP,GK,Real Sociedad,es La Liga,21,2,0,0,0.0
+1625,Agustín Martegani,ar ARG,MF,Salernitana,it Serie A,23,18,1,0,0.6
+1626,Eric Martel,de GER,MF,Köln,de Bundesliga,21,30,1,1,2.2
+1627,Roger Martí,es ESP,FW,Cádiz,es La Liga,32,23,2,3,2.8
+1628,Anthony Martial,fr FRA,FW,Manchester Utd,eng Premier League,27,13,1,0,1.2
+1629,Aarón Martín,es ESP,DF,Genoa,it Serie A,26,22,0,1,0.2
+1630,Iván Martín,es ESP,MF,Girona,es La Liga,24,36,5,4,2.9
+1631,Jon Martin,es ESP,DF,Real Sociedad,es La Liga,17,1,0,0,0.0
+1632,Jonas Martin,fr FRA,MF,Brest,fr Ligue 1,33,31,0,1,1.2
+1633,Mario Martín,es ESP,MF,Real Madrid,es La Liga,19,2,0,0,0.0
+1634,Gabriel Martinelli,br BRA,FW,Arsenal,eng Premier League,22,35,6,4,6.8
+1635,Tommaso Martinelli,it ITA,GK,Fiorentina,it Serie A,17,1,0,0,0.0
+1636,Arnau Martinez,es ESP,DF,Girona,es La Liga,20,21,0,2,0.2
+1637,Emiliano Martínez,ar ARG,GK,Aston Villa,eng Premier League,30,34,0,0,0.0
+1638,Iñigo Martínez,es ESP,DF,Barcelona,es La Liga,32,20,0,0,0.4
+1639,Josep Martinez,es ESP,GK,Genoa,it Serie A,25,36,0,0,0.0
+1640,Lautaro Martínez,ar ARG,FW,Inter,it Serie A,25,33,24,3,17.6
+1641,Lisandro Martínez,ar ARG,DF,Manchester Utd,eng Premier League,25,11,0,1,0.0
+1642,Marc Martínez,es ESP,GK,Granada,es La Liga,33,3,0,0,0.0
+1643,Lucas Martínez Quarta,ar ARG,DF,Fiorentina,it Serie A,27,29,5,1,2.7
+1644,Adam Marušić,me MNE,DF,Lazio,it Serie A,30,37,1,0,0.4
+1645,Marvin,es ESP,"FW,DF",Las Palmas,es La Liga,23,31,0,2,0.9
+1646,Omar Mascarell,gq EQG,MF,Mallorca,es La Liga,30,29,0,0,0.4
+1647,Adam Masina,ma MAR,DF,Udinese,it Serie A,29,4,0,0,0.1
+1648,Adam Masina,ma MAR,DF,Torino,it Serie A,29,16,0,0,0.2
+1649,Erhan Mašović,rs SRB,"DF,MF",Bochum,de Bundesliga,24,29,0,0,1.1
+1650,Han-Noah Massengo,fr FRA,"MF,DF",Burnley,eng Premier League,22,3,0,0,0.0
+1651,Roberto Massimo,de GER,"FW,DF",Stuttgart,de Bundesliga,22,5,0,0,0.0
+1652,Clinton Mata,ao ANG,DF,Lyon,fr Ligue 1,30,28,0,3,0.6
+1653,Jaime Mata,es ESP,"FW,MF",Getafe,es La Liga,34,35,5,1,5.6
+1654,Pape Matar Sarr,sn SEN,MF,Tottenham,eng Premier League,20,34,3,3,3.4
+1655,Eliot Matazo,be BEL,MF,Monaco,fr Ligue 1,21,6,0,1,0.1
+1656,Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,eng Premier League,26,35,16,5,10.9
+1657,Nemanja Matić,rs SRB,MF,Rennes,fr Ligue 1,34,13,0,0,0.3
+1658,Nemanja Matić,rs SRB,MF,Lyon,fr Ligue 1,34,15,0,0,0.3
+1659,Joël Matip,cm CMR,DF,Liverpool,eng Premier League,31,10,0,0,0.5
+1660,Alex Matos,eng ENG,MF,Chelsea,eng Premier League,18,1,0,0,0.0
+1661,Chrislain Matsima,fr FRA,DF,Clermont Foot,fr Ligue 1,21,14,1,0,0.2
+1662,Chrislain Matsima,fr FRA,DF,Monaco,fr Ligue 1,21,6,0,1,0.1
+1663,Jean Mattéo Bahoya,fr FRA,"MF,FW",Eint Frankfurt,de Bundesliga,18,8,0,0,0.0
+1664,Remi Matthews,eng ENG,GK,Crystal Palace,eng Premier League,29,1,0,0,0.0
+1665,Alan Matturro,uy URU,DF,Genoa,it Serie A,18,6,0,0,0.1
+1666,Azor Matusiwa,nl NED,MF,Reims,fr Ligue 1,25,16,1,0,0.7
+1667,Azor Matusiwa,nl NED,MF,Rennes,fr Ligue 1,25,12,0,1,0.3
+1668,Neal Maupay,fr FRA,FW,Brentford,eng Premier League,26,29,6,3,5.7
+1669,Neal Maupay,fr FRA,FW,Everton,eng Premier League,26,2,0,0,1.4
+1670,Aïman Maurer,ma MAR,"MF,FW",Clermont Foot,fr Ligue 1,18,5,0,0,0.1
+1671,Konstantinos Mavropanos,gr GRE,DF,West Ham,eng Premier League,25,19,1,0,1.2
+1672,Christian Mawissa,fr FRA,DF,Toulouse,fr Ligue 1,18,17,2,0,1.0
+1673,Philipp Max,de GER,DF,Eint Frankfurt,de Bundesliga,29,23,1,2,0.2
+1674,Eric Maxim Choupo-Moting,cm CMR,"MF,FW",Bayern Munich,de Bundesliga,34,27,2,2,4.5
+1675,Luís Maximiano,pt POR,GK,Almería,es La Liga,24,33,0,0,0.0
+1676,Noam Mayoka-Tika,be BEL,MF,Marseille,fr Ligue 1,19,1,0,0,0.0
+1677,Borja Mayoral,es ESP,FW,Getafe,es La Liga,26,27,15,1,11.9
+1678,Senny Mayulu,fr FRA,"FW,MF",Paris S-G,fr Ligue 1,17,8,0,1,0.1
+1679,Youssef Maziz,fr FRA,"FW,MF",Metz,fr Ligue 1,25,2,1,0,0.1
+1680,Noussair Mazraoui,ma MAR,DF,Bayern Munich,de Bundesliga,25,19,0,3,0.9
+1681,Luca Mazzitelli,it ITA,MF,Frosinone,it Serie A,27,29,5,0,2.3
+1682,Pasquale Mazzocchi,it ITA,DF,Salernitana,it Serie A,28,18,0,1,0.3
+1683,Pasquale Mazzocchi,it ITA,DF,Napoli,it Serie A,28,10,0,1,0.2
+1684,Kevin Mbabu,ch SUI,DF,Augsburg,de Bundesliga,28,25,0,2,0.1
+1685,Noah Mbamba,be BEL,MF,Leverkusen,de Bundesliga,18,3,0,1,0.0
+1686,Ethan Mbappé,fr FRA,"MF,DF",Paris S-G,fr Ligue 1,16,3,0,0,0.1
+1687,Kylian Mbappé,fr FRA,FW,Paris S-G,fr Ligue 1,24,29,27,7,21.0
+1688,Malick Mbaye,sn SEN,"MF,FW",Metz,fr Ligue 1,19,5,0,0,0.4
+1689,Mamadou Mbaye,sn SEN,DF,Cádiz,es La Liga,25,4,0,0,0.3
+1690,Chancel Mbemba,cd COD,DF,Marseille,fr Ligue 1,28,25,2,2,1.8
+1691,Nolan Mbemba,cg CGO,MF,Le Havre,fr Ligue 1,28,6,1,0,0.0
+1692,Bryan Mbeumo,cm CMR,FW,Brentford,eng Premier League,23,25,9,6,9.8
+1693,Christ Mbondi,fr FRA,FW,Reims,fr Ligue 1,18,1,0,0,0.0
+1694,Jordi Mboula,es ESP,"FW,MF",Hellas Verona,it Serie A,24,11,0,1,0.2
+1695,Nathanael Mbuku,cd COD,FW,Augsburg,de Bundesliga,21,1,0,0,0.0
+1696,James Mcatee,eng ENG,"MF,FW",Sheffield Utd,eng Premier League,20,30,3,3,3.1
+1697,James Mcatee,eng ENG,MF,Manchester City,eng Premier League,20,1,0,0,0.0
+1698,Oliver McBurnie,sct SCO,FW,Sheffield Utd,eng Premier League,27,21,6,3,6.9
+1699,James McConnell,eng ENG,MF,Liverpool,eng Premier League,18,3,0,0,0.0
+1700,John McGinn,sct SCO,"MF,FW",Aston Villa,eng Premier League,28,35,6,4,5.0
+1701,Scott McKenna,sct SCO,DF,Nott'ham Forest,eng Premier League,26,5,0,0,0.2
+1702,Weston McKennie,us USA,"MF,DF",Juventus,it Serie A,24,34,0,7,3.0
+1703,Dwight McNeil,eng ENG,"MF,FW",Everton,eng Premier League,23,35,3,6,3.4
+1704,Scott McTominay,sct SCO,"MF,FW",Manchester Utd,eng Premier League,26,32,7,1,5.7
+1705,Facundo Medina,ar ARG,DF,Lens,fr Ligue 1,24,31,1,3,1.1
+1706,Ben Mee,eng ENG,DF,Brentford,eng Premier League,33,16,2,0,1.5
+1707,Marvin Mehlem,de GER,MF,Darmstadt 98,de Bundesliga,25,20,3,2,3.8
+1708,Bamo Meïté,ci CIV,DF,Marseille,fr Ligue 1,21,16,0,0,0.1
+1709,Bamo Meïté,ci CIV,DF,Lorient,fr Ligue 1,21,2,0,0,0.0
+1710,Hannibal Mejbri,tn TUN,"MF,FW",Manchester Utd,eng Premier League,20,5,1,0,0.0
+1711,Hannibal Mejbri,tn TUN,MF,Sevilla,es La Liga,20,6,0,0,0.0
+1712,Óscar Melendo,es ESP,"MF,FW",Granada,es La Liga,25,26,0,0,0.4
+1713,Gonzalo Melero,es ESP,"MF,FW",Almería,es La Liga,29,28,1,1,2.0
+1714,Birger Meling,no NOR,DF,Rennes,fr Ligue 1,28,1,0,0,0.2
+1715,Arthur Melo,br BRA,MF,Fiorentina,it Serie A,26,33,2,3,1.0
+1716,Memphis,nl NED,FW,Atlético Madrid,es La Liga,29,23,5,1,5.8
+1717,Houboulang Mendes,gw GNB,DF,Almería,es La Liga,25,7,0,0,0.0
+1718,Nuno Mendes,pt POR,DF,Paris S-G,fr Ligue 1,21,6,1,1,0.3
+1719,Tomás Mendes,es ESP,MF,Alavés,es La Liga,18,1,0,0,0.0
+1720,Brais Méndez,es ESP,"MF,FW",Real Sociedad,es La Liga,26,32,5,6,4.2
+1721,Bruno Méndez,uy URU,DF,Granada,es La Liga,23,17,2,0,0.6
+1722,Diego Méndez,es ESP,MF,Rayo Vallecano,es La Liga,19,1,0,0,0.0
+1723,Leonardo Mendicino,it ITA,MF,Atalanta,it Serie A,17,1,0,0,0.0
+1724,Antoine Mendy,fr FRA,DF,Nice,fr Ligue 1,19,10,0,0,0.1
+1725,Benjamin Mendy,fr FRA,DF,Lorient,fr Ligue 1,29,15,2,1,1.1
+1726,Ferland Mendy,fr FRA,DF,Real Madrid,es La Liga,28,23,0,0,0.2
+1727,Formose Mendy,sn SEN,DF,Lorient,fr Ligue 1,22,18,0,0,0.3
+1728,Nampalys Mendy,sn SEN,MF,Lens,fr Ligue 1,31,16,0,1,0.2
+1729,Teden Mengi,eng ENG,DF,Luton Town,eng Premier League,21,30,1,0,0.6
+1730,Chris Mepham,wls WAL,DF,Bournemouth,eng Premier League,25,10,0,1,0.1
+1731,Jorge Meré,es ESP,DF,Cádiz,es La Liga,26,10,0,0,0.2
+1732,Alex Meret,it ITA,GK,Napoli,it Serie A,26,31,0,0,0.0
+1733,Mikel Merino,es ESP,MF,Real Sociedad,es La Liga,27,32,5,3,3.3
+1734,Quentin Merlin,fr FRA,DF,Marseille,fr Ligue 1,21,10,0,1,0.1
+1735,Quentin Merlin,fr FRA,DF,Nantes,fr Ligue 1,21,16,0,1,0.7
+1736,Junior Messias,br BRA,"MF,DF",Genoa,it Serie A,32,18,1,0,1.6
+1737,Thomas Meunier,be BEL,DF,Dortmund,de Bundesliga,31,8,0,0,0.5
+1738,Bastien Meupiyou,fr FRA,DF,Nantes,fr Ligue 1,17,1,0,0,0.0
+1739,Alexander Meyer,de GER,GK,Dortmund,de Bundesliga,32,8,0,0,0.0
+1740,Omenuke Mfulu,cd COD,"MF,FW",Las Palmas,es La Liga,29,5,0,0,0.0
+1741,Lucas Michal,fr FRA,FW,Monaco,fr Ligue 1,18,1,0,0,0.0
+1742,Sven Michel,de GER,"FW,MF",Augsburg,de Bundesliga,33,22,2,1,2.4
+1743,Miguel,es ESP,"FW,MF",Alavés,es La Liga,23,3,0,0,0.1
+1744,Georges Mikautadze,ge GEO,FW,Metz,fr Ligue 1,22,20,13,4,9.5
+1745,Nikola Milenković,rs SRB,DF,Fiorentina,it Serie A,25,34,0,0,0.4
+1746,Lewis Miley,eng ENG,MF,Newcastle Utd,eng Premier League,17,17,1,3,1.2
+1747,Arkadiusz Milik,pl POL,FW,Juventus,it Serie A,29,32,4,1,5.1
+1748,Vanja Milinković-Savić,rs SRB,GK,Torino,it Serie A,26,36,0,0,0.0
+1749,Éder Militão,br BRA,DF,Real Madrid,es La Liga,25,10,0,0,0.1
+1750,Luis Milla,es ESP,MF,Getafe,es La Liga,28,27,0,1,0.6
+1751,Enzo Millot,fr FRA,"MF,FW",Stuttgart,de Bundesliga,21,31,5,4,5.3
+1752,James Milner,eng ENG,"DF,MF",Brighton,eng Premier League,37,15,0,2,0.3
+1753,Jovan Milošević,rs SRB,"FW,MF",Stuttgart,de Bundesliga,18,5,0,0,0.0
+1754,Marko Milovanović,rs SRB,"FW,MF",Almería,es La Liga,19,11,1,0,1.5
+1755,Kim Min-jae,kr KOR,DF,Bayern Munich,de Bundesliga,26,25,1,1,0.8
+1756,Yerry Mina,co COL,"DF,MF",Fiorentina,it Serie A,28,4,0,0,0.1
+1757,Yerry Mina,co COL,DF,Cagliari,it Serie A,28,14,2,0,1.3
+1758,Takumi Minamino,jp JPN,MF,Monaco,fr Ligue 1,28,30,9,6,5.9
+1759,Lucas Mincarelli,fr FRA,"DF,MF",Montpellier,fr Ligue 1,19,13,1,1,0.4
+1760,Tyrone Mings,eng ENG,DF,Aston Villa,eng Premier League,30,1,0,0,0.0
+1761,Óscar Mingueza,es ESP,"DF,MF",Celta Vigo,es La Liga,24,38,2,2,2.6
+1762,Ignasi Miquel,es ESP,DF,Granada,es La Liga,30,34,1,1,1.4
+1763,Rafa Mir,es ESP,"FW,MF",Sevilla,es La Liga,26,15,2,0,1.4
+1764,Ignacio Miramon,ar ARG,MF,Lille,fr Ligue 1,20,2,0,0,0.1
+1765,Aleksei Miranchuk,ru RUS,"MF,FW",Atalanta,it Serie A,27,27,3,5,5.4
+1766,Juan Miranda,es ESP,DF,Betis,es La Liga,23,25,1,1,1.6
+1767,Kevin Miranda,it ITA,DF,Sassuolo,it Serie A,20,1,0,0,0.0
+1768,Antonio Mirante,it ITA,GK,Milan,it Serie A,40,2,0,0,0.0
+1769,Fabio Miretti,it ITA,MF,Juventus,it Serie A,19,25,1,1,1.2
+1770,Filippo Missori,it ITA,DF,Sassuolo,it Serie A,19,8,0,0,0.3
+1771,Tyrick Mitchell,eng ENG,"DF,MF",Crystal Palace,eng Premier League,23,37,2,3,1.6
+1772,Kaoru Mitoma,jp JPN,FW,Brighton,eng Premier League,26,19,3,4,3.5
+1773,Aleksandar Mitrović,rs SRB,FW,Fulham,eng Premier League,28,1,0,0,0.2
+1774,Stefan Mitrović,rs SRB,"FW,MF",Hellas Verona,it Serie A,20,10,0,0,0.4
+1775,Stefan Mitrović,rs SRB,DF,Getafe,es La Liga,33,11,1,0,0.1
+1776,Maximilian Mittelstädt,de GER,DF,Stuttgart,de Bundesliga,26,31,2,4,0.9
+1777,Henrikh Mkhitaryan,am ARM,MF,Inter,it Serie A,34,36,2,8,3.6
+1778,Marko Mladenović,rs SRB,MF,Eint Frankfurt,de Bundesliga,18,1,0,0,0.0
+1779,Jakub Moder,pl POL,"MF,DF",Brighton,eng Premier League,24,17,0,0,0.6
+1780,Luka Modrić,hr CRO,MF,Real Madrid,es La Liga,37,32,2,6,1.3
+1781,Max Moerstedt,de GER,"DF,FW",Hoffenheim,de Bundesliga,,1,0,0,0.0
+1782,Terem Moffi,ng NGA,FW,Nice,fr Ligue 1,24,30,11,2,10.7
+1783,Mostafa Mohamed,eg EGY,FW,Nantes,fr Ligue 1,25,29,8,2,7.8
+1784,Dion Moise Sahi,ci CIV,"MF,FW",Strasbourg,fr Ligue 1,21,18,3,1,4.1
+1785,Johan Mojica,co COL,DF,Osasuna,es La Liga,30,30,0,3,1.0
+1786,Alberto Moleiro,es ESP,"FW,MF",Las Palmas,es La Liga,19,28,3,3,2.0
+1787,Nahuel Molina,ar ARG,DF,Atlético Madrid,es La Liga,25,30,2,3,1.3
+1788,Florent Mollet,fr FRA,"MF,FW",Nantes,fr Ligue 1,31,29,4,4,5.9
+1789,Jon Moncayola,es ESP,MF,Osasuna,es La Liga,25,33,1,3,0.6
+1790,Enzo Mongo,fr FRA,DF,Nantes,fr Ligue 1,18,1,0,0,0.0
+1791,Ilario Monterisi,it ITA,DF,Frosinone,it Serie A,21,24,2,2,1.1
+1792,César Montes,mx MEX,DF,Almería,es La Liga,26,21,0,0,0.7
+1793,Gonzalo Montiel,ar ARG,DF,Nott'ham Forest,eng Premier League,26,14,0,2,0.1
+1794,Lorenzo Montipò,it ITA,GK,Hellas Verona,it Serie A,27,37,0,1,0.0
+1795,Kieffer Moore,wls WAL,"FW,MF",Bournemouth,eng Premier League,30,8,1,0,1.5
+1796,Mikey Moore,eng ENG,MF,Tottenham,eng Premier League,15,2,0,0,0.0
+1797,Álvaro Morata,es ESP,FW,Atlético Madrid,es La Liga,30,32,15,3,13.8
+1798,Diego Moreira,pt POR,"FW,MF",Lyon,fr Ligue 1,18,7,0,0,0.7
+1799,Alberto Moreno,es ESP,DF,Villarreal,es La Liga,31,27,2,2,0.7
+1800,Álex Moreno,es ESP,DF,Aston Villa,eng Premier League,30,21,2,0,1.1
+1801,Gerard Moreno,es ESP,FW,Villarreal,es La Liga,31,30,10,6,9.7
+1802,Jorge Moreno,es ESP,DF,Osasuna,es La Liga,22,1,0,0,0.0
+1803,Mateu Morey,es ESP,DF,Dortmund,de Bundesliga,23,3,0,0,0.0
+1804,Ilaix Moriba,gn GUI,"MF,FW",Getafe,es La Liga,20,14,0,2,0.3
+1805,Manu Morlanes,es ESP,MF,Mallorca,es La Liga,24,35,0,2,1.0
+1806,Nikola Moro,hr CRO,MF,Bologna,it Serie A,25,23,1,0,0.7
+1807,Carlton Morris,eng ENG,"FW,MF",Luton Town,eng Premier League,27,38,11,4,11.4
+1808,Cristhian Mosquera,es ESP,DF,Valencia,es La Liga,19,36,0,0,0.7
+1809,Yerson Mosquera,co COL,DF,Villarreal,es La Liga,22,16,2,1,1.6
+1810,Dany Mota,pt POR,"FW,MF",Monza,it Serie A,25,34,4,3,3.6
+1811,Lebo Mothiba,za RSA,FW,Strasbourg,fr Ligue 1,27,15,3,0,4.6
+1812,Youssoufa Moukoko,de GER,FW,Dortmund,de Bundesliga,18,20,5,0,3.9
+1813,Steve Mounié,bj BEN,FW,Brest,fr Ligue 1,28,32,6,2,8.9
+1814,Mason Mount,eng ENG,"MF,FW",Manchester Utd,eng Premier League,24,14,1,0,0.4
+1815,Samuel Moutoussamy,cd COD,MF,Nantes,fr Ligue 1,26,26,1,0,1.8
+1816,Loris Mouyokolo,fr FRA,DF,Lorient,fr Ligue 1,22,1,0,0,0.0
+1817,Divin Mubama,eng ENG,FW,West Ham,eng Premier League,18,5,0,0,0.1
+1818,Mykhailo Mudryk,ua UKR,FW,Chelsea,eng Premier League,22,31,5,2,4.4
+1819,François Mughe,cm CMR,"MF,DF",Marseille,fr Ligue 1,19,5,0,0,0.1
+1820,Nordi Mukiele,fr FRA,DF,Paris S-G,fr Ligue 1,25,16,0,0,1.3
+1821,Samuele Mulattieri,it ITA,"FW,MF",Sassuolo,it Serie A,22,27,0,0,1.6
+1822,Andreas Müller,de GER,MF,Darmstadt 98,de Bundesliga,23,11,0,0,0.1
+1823,Jannik Müller,de GER,"DF,MF",Darmstadt 98,de Bundesliga,29,16,0,0,0.2
+1824,Kevin Müller,de GER,GK,Heidenheim,de Bundesliga,32,34,0,0,0.0
+1825,Marcus Müller,de GER,MF,Mainz 05,de Bundesliga,20,1,0,0,0.1
+1826,Thomas Müller,de GER,"MF,FW",Bayern Munich,de Bundesliga,33,31,5,9,5.7
+1827,Abdul Mumin,gh GHA,DF,Rayo Vallecano,es La Liga,25,20,1,0,0.4
+1828,Marshall Munetsi,zw ZIM,MF,Reims,fr Ligue 1,27,27,4,3,6.2
+1829,Iker Muniain,es ESP,"MF,FW",Athletic Club,es La Liga,30,20,2,0,1.7
+1830,Rodrigo Muniz,br BRA,FW,Fulham,eng Premier League,22,26,9,1,8.7
+1831,Aihen Muñoz,es ESP,DF,Real Sociedad,es La Liga,25,21,0,2,0.3
+1832,Daniel Muñoz,co COL,"DF,MF",Crystal Palace,eng Premier League,27,16,0,4,1.2
+1833,Iker Muñoz,es ESP,MF,Osasuna,es La Liga,20,28,4,0,1.1
+1834,Javier Muñoz,es ESP,MF,Las Palmas,es La Liga,28,37,2,3,2.5
+1835,Finley Munroe,eng ENG,MF,Aston Villa,eng Premier League,18,1,0,0,0.0
+1836,Arijanet Muric,xk KVX,GK,Burnley,eng Premier League,24,10,0,0,0.0
+1837,Luis Muriel,co COL,"FW,MF",Atalanta,it Serie A,32,18,2,1,1.5
+1838,Murillo,br BRA,DF,Nott'ham Forest,eng Premier League,21,32,0,2,1.8
+1839,Vedat Muriqi,xk KVX,FW,Mallorca,es La Liga,29,29,7,2,10.4
+1840,Alex Murphy,ie IRL,"DF,FW",Newcastle Utd,eng Premier League,19,2,0,0,0.0
+1841,Jacob Murphy,eng ENG,"FW,DF",Newcastle Utd,eng Premier League,28,21,3,7,2.1
+1842,Yunus Musah,us USA,"MF,FW",Milan,it Serie A,20,30,0,2,0.6
+1843,Jamal Musiala,de GER,"MF,FW",Bayern Munich,de Bundesliga,20,24,10,5,7.9
+1844,Florent Muslija,xk KVX,"MF,FW",Freiburg,de Bundesliga,25,10,0,0,0.1
+1845,Juan Musso,ar ARG,GK,Atalanta,it Serie A,29,11,0,0,0.0
+1846,Kingstone Mutandwa,zm ZAM,"FW,MF",Cagliari,it Serie A,20,5,1,0,0.1
+1847,Yvon Mvogo,ch SUI,GK,Lorient,fr Ligue 1,29,34,0,0,0.0
+1848,Joel Mvuka,no NOR,"DF,FW",Lorient,fr Ligue 1,20,7,0,0,0.0
+1849,Junior Mwanga,fr FRA,"MF,FW",Strasbourg,fr Ligue 1,20,22,1,1,1.4
+1850,Phillipp Mwene,at AUT,DF,Mainz 05,de Bundesliga,29,23,1,2,1.4
+1851,Vitaliy Mykolenko,ua UKR,DF,Everton,eng Premier League,24,28,2,0,1.5
+1852,Joakim Mæhle,dk DEN,"DF,MF",Wolfsburg,de Bundesliga,26,30,2,3,1.4
+1853,Obite N'Dicka,ci CIV,DF,Roma,it Serie A,23,25,0,3,1.0
+1854,Kévin N'Doram,fr FRA,MF,Metz,fr Ligue 1,27,23,0,2,0.3
+1855,Nathan N'Goumou,fr FRA,"FW,MF",Gladbach,de Bundesliga,23,32,5,2,3.8
+1856,Stanley N'Soki,fr FRA,DF,Hoffenheim,de Bundesliga,24,11,0,0,0.0
+1857,Nacho,es ESP,DF,Real Madrid,es La Liga,33,29,0,1,0.5
+1858,Bilal Nadir,fr FRA,"MF,FW",Marseille,fr Ligue 1,19,5,0,0,0.1
+1859,Mahamadou Nagida,cm CMR,DF,Rennes,fr Ligue 1,18,3,0,0,0.1
+1860,Marvelous Nakamba,zw ZIM,MF,Luton Town,eng Premier League,29,13,0,0,0.2
+1861,Keito Nakamura,jp JPN,"FW,MF",Reims,fr Ligue 1,23,25,4,1,3.2
+1862,Nahitan Nández,uy URU,"MF,DF",Cagliari,it Serie A,27,33,2,3,3.7
+1863,Matija Nastasić,rs SRB,DF,Mallorca,es La Liga,30,26,2,0,1.0
+1864,Natan,br BRA,DF,Napoli,it Serie A,22,14,0,0,0.4
+1865,Lapo Nava,it ITA,GK,Milan,it Serie A,19,1,0,0,0.0
+1866,Roberto Navarro,es ESP,"MF,FW",Cádiz,es La Liga,21,28,1,1,2.1
+1867,Jesús Navas,es ESP,DF,Sevilla,es La Liga,37,29,0,2,0.1
+1868,Keylor Navas,cr CRC,GK,Paris S-G,fr Ligue 1,36,4,0,0,0.0
+1869,Michel Ndary Adopo,fr FRA,MF,Atalanta,it Serie A,23,10,0,1,0.1
+1870,Youssouf Ndayishimiye,bi BDI,"MF,DF",Nice,fr Ligue 1,24,23,0,0,1.2
+1871,Bassirou Ndiaye,sn SEN,FW,Lorient,fr Ligue 1,21,5,0,0,0.0
+1872,Iliman Ndiaye,sn SEN,"FW,MF",Marseille,fr Ligue 1,23,30,3,3,4.5
+1873,Massamba Ndiaye,sn SEN,GK,Clermont Foot,fr Ligue 1,21,4,0,0,0.0
+1874,Rassoul Ndiaye,sn SEN,"MF,FW",Le Havre,fr Ligue 1,21,19,0,0,0.2
+1875,Michael Ndiweni,eng ENG,FW,Newcastle Utd,eng Premier League,19,1,0,0,0.0
+1876,Cher Ndour,it ITA,MF,Paris S-G,fr Ligue 1,19,3,0,0,0.0
+1877,Dan Ndoye,ch SUI,"FW,MF",Bologna,it Serie A,22,32,1,1,4.9
+1878,Joseph Nduquidi,fr FRA,"MF,DF",Metz,fr Ligue 1,18,13,0,0,0.2
+1879,Loïc Nego,hu HUN,"DF,MF",Le Havre,fr Ligue 1,32,28,0,3,1.3
+1880,Álvaro Negredo,es ESP,"FW,MF",Cádiz,es La Liga,37,7,0,0,0.1
+1881,Reiss Nelson,eng ENG,FW,Arsenal,eng Premier League,23,15,0,0,0.2
+1882,Zack Nelson,eng ENG,"MF,DF",Luton Town,eng Premier League,18,2,0,0,0.0
+1883,Neto,br BRA,GK,Bournemouth,eng Premier League,34,32,0,0,0.0
+1884,Pedro Neto,pt POR,"FW,MF",Wolves,eng Premier League,23,20,2,9,3.5
+1885,Luca Netz,de GER,DF,Gladbach,de Bundesliga,20,30,0,4,1.0
+1886,Manuel Neuer,de GER,GK,Bayern Munich,de Bundesliga,37,23,0,0,0.0
+1887,Florian Neuhaus,de GER,MF,Gladbach,de Bundesliga,26,25,4,2,4.3
+1888,Carlos Neva,es ESP,DF,Granada,es La Liga,27,36,0,2,0.1
+1889,Jessic Ngankam,de GER,"FW,MF",Mainz 05,de Bundesliga,23,7,0,0,0.6
+1890,Jessic Ngankam,de GER,FW,Eint Frankfurt,de Bundesliga,23,15,0,0,1.5
+1891,Cyril Ngonge,be BEL,"FW,MF",Hellas Verona,it Serie A,23,19,6,2,4.2
+1892,Cyril Ngonge,be BEL,FW,Napoli,it Serie A,23,13,1,0,1.0
+1893,Steve Ngoura,fr FRA,"FW,MF",Le Havre,fr Ligue 1,18,12,0,1,0.5
+1894,Moussa Niakhate,sn SEN,DF,Nott'ham Forest,eng Premier League,27,21,1,0,1.1
+1895,M'Baye Niang,sn SEN,FW,Empoli,it Serie A,28,14,6,1,5.4
+1896,Tanguy Nianzou,fr FRA,DF,Sevilla,es La Liga,21,8,0,0,0.0
+1897,Shamar Nicholson,jm JAM,FW,Clermont Foot,fr Ligue 1,26,26,4,3,5.9
+1898,Rasmus Nicolaisen,dk DEN,DF,Toulouse,fr Ligue 1,26,33,2,0,1.1
+1899,Moritz Nicolas,de GER,GK,Gladbach,de Bundesliga,25,27,0,0,0.0
+1900,Hans Nicolussi Caviglia,it ITA,MF,Juventus,it Serie A,23,8,0,1,0.1
+1901,Saúl Ñíguez,es ESP,MF,Atlético Madrid,es La Liga,28,34,1,4,1.5
+1902,Justin Njinmah,de GER,FW,Werder Bremen,de Bundesliga,22,24,6,2,4.9
+1903,Eddie Nketiah,eng ENG,FW,Arsenal,eng Premier League,24,27,5,2,4.5
+1904,Niels Nkounkou,fr FRA,"DF,MF",Eint Frankfurt,de Bundesliga,22,29,3,2,1.3
+1905,Christopher Nkunku,fr FRA,"FW,MF",Chelsea,eng Premier League,25,11,3,0,2.3
+1906,Felix Nmecha,de GER,MF,Dortmund,de Bundesliga,22,20,1,2,1.7
+1907,Lukas Nmecha,de GER,FW,Wolfsburg,de Bundesliga,24,3,1,0,0.1
+1908,Peru Nolaskoain,es ESP,"DF,MF",Athletic Club,es La Liga,24,2,0,0,0.0
+1909,Joseph Nonge,be BEL,MF,Juventus,it Serie A,18,2,0,0,0.0
+1910,Jonathan Norbye,no NOR,MF,RB Leipzig,de Bundesliga,16,1,0,0,0.0
+1911,Arnaud Nordin,fr FRA,"FW,MF",Montpellier,fr Ligue 1,25,20,5,3,3.6
+1912,Rhys Norrington-Davies,wls WAL,DF,Sheffield Utd,eng Premier League,24,5,0,0,0.0
+1913,Oliver Norwood,nir NIR,MF,Sheffield Utd,eng Premier League,32,27,1,0,1.1
+1914,Tijjani Noslin,nl NED,"FW,MF",Hellas Verona,it Serie A,24,17,5,4,3.6
+1915,Randy Nteka,ao ANG,"FW,MF",Rayo Vallecano,es La Liga,25,16,1,1,2.3
+1916,Ernest Nuamah,gh GHA,"FW,MF",Lyon,fr Ligue 1,19,29,3,2,4.0
+1917,Alexander Nübel,de GER,GK,Stuttgart,de Bundesliga,26,30,0,0,0.0
+1918,Kasim Nuhu,gh GHA,DF,Hoffenheim,de Bundesliga,28,1,0,0,0.0
+1919,Matheus Nunes,pt POR,MF,Wolves,eng Premier League,24,2,0,0,0.1
+1920,Matheus Nunes,pt POR,MF,Manchester City,eng Premier League,24,17,0,2,0.8
+1921,Darwin Núñez,uy URU,FW,Liverpool,eng Premier League,24,36,11,8,16.3
+1922,Unai Núñez,es ESP,DF,Celta Vigo,es La Liga,26,34,1,0,1.4
+1923,Fabian Nürnberger,bg BUL,"DF,MF",Darmstadt 98,de Bundesliga,24,21,1,1,0.9
+1924,Ethan Nwaneri,eng ENG,FW,Arsenal,eng Premier League,16,1,0,0,0.0
+1925,Simeon Nwankwo,ng NGA,FW,Salernitana,it Serie A,31,15,3,0,2.7
+1926,Gerzino Nyamsi,fr FRA,DF,Strasbourg,fr Ligue 1,26,13,0,0,0.3
+1927,Ørjan Nyland,no NOR,GK,Sevilla,es La Liga,32,24,0,0,0.0
+1928,Rabby Nzingoula,cg CGO,"MF,FW",Strasbourg,fr Ligue 1,17,6,0,1,0.1
+1929,M'Bala Nzola,ao ANG,FW,Fiorentina,it Serie A,26,33,3,3,4.5
+1930,Christian Nørgaard,dk DEN,MF,Brentford,eng Premier League,29,31,2,1,3.5
+1931,Jake O'Brien,ie IRL,DF,Lyon,fr Ligue 1,22,27,4,2,3.6
+1932,Mark O'Mahony,ie IRL,FW,Brighton,eng Premier League,18,3,0,0,0.1
+1933,Dara O'Shea,ie IRL,DF,Burnley,eng Premier League,24,33,3,4,0.7
+1934,Michael Obafemi,ie IRL,"FW,MF",Burnley,eng Premier League,23,2,0,0,0.1
+1935,Adam Obert,sk SVK,DF,Cagliari,it Serie A,20,17,0,0,0.1
+1936,Pedro Obiang,gq EQG,MF,Sassuolo,it Serie A,31,8,0,0,0.0
+1937,Jan Oblak,si SVN,GK,Atlético Madrid,es La Liga,30,38,0,0,0.0
+1938,Brian Ocampo,uy URU,"MF,FW",Cádiz,es La Liga,24,13,1,0,0.3
+1939,Lucas Ocampos,ar ARG,"FW,MF",Sevilla,es La Liga,29,35,4,3,5.4
+1940,Guillermo Ochoa,mx MEX,GK,Salernitana,it Serie A,38,21,0,0,0.0
+1941,Jens Odgaard,dk DEN,"FW,MF",Bologna,it Serie A,24,10,2,0,1.5
+1942,Wilson Odobert,fr FRA,"MF,FW",Burnley,eng Premier League,18,29,3,2,2.8
+1943,Álvaro Odriozola,es ESP,DF,Real Sociedad,es La Liga,27,9,0,0,0.0
+1944,Tim Oermann,de GER,DF,Bochum,de Bundesliga,19,16,0,0,0.1
+1945,Odeluga Offiah,eng ENG,DF,Brighton,eng Premier League,20,4,0,0,0.0
+1946,Chiedozie Ogbene,ie IRL,"MF,DF",Luton Town,eng Premier League,26,30,4,1,4.2
+1947,Angelo Ogbonna,it ITA,DF,West Ham,eng Premier League,35,11,0,0,0.0
+1948,Florent Ogier,fr FRA,DF,Clermont Foot,fr Ligue 1,34,14,1,1,0.6
+1949,Noah Okafor,ch SUI,"FW,MF",Milan,it Serie A,23,28,6,2,3.8
+1950,David Okereke,ng NGA,"FW,MF",Torino,it Serie A,25,9,0,0,0.2
+1951,Caleb Okoli,it ITA,DF,Frosinone,it Serie A,22,34,0,1,0.6
+1952,Maduka Okoye,ng NGA,GK,Udinese,it Serie A,23,21,0,0,0.0
+1953,Masaya Okugawa,jp JPN,"FW,DF",Augsburg,de Bundesliga,27,2,0,0,0.0
+1954,Joseph Okumu,ke KEN,DF,Reims,fr Ligue 1,26,21,1,0,1.5
+1955,Aingeru Olabarrieta,es ESP,FW,Athletic Club,es La Liga,17,1,0,0,0.0
+1956,Michael Olakigbe,eng ENG,"DF,FW",Brentford,eng Premier League,19,8,0,0,0.1
+1957,Olasagasti,es ESP,MF,Real Sociedad,es La Liga,22,14,0,0,0.9
+1958,Finn Ole Becker,de GER,MF,Hoffenheim,de Bundesliga,23,22,0,0,0.2
+1959,Mathias Olesen,lu LUX,"MF,FW",Köln,de Bundesliga,22,6,0,0,0.0
+1960,Michael Olise,fr FRA,"FW,MF",Crystal Palace,eng Premier League,21,19,10,6,5.5
+1961,Mathías Olivera,uy URU,DF,Napoli,it Serie A,25,23,1,1,0.5
+1962,Dani Olmo,es ESP,MF,RB Leipzig,de Bundesliga,25,21,4,5,3.3
+1963,Robin Olsen,se SWE,GK,Aston Villa,eng Premier League,33,5,0,0,0.0
+1964,Warmed Omari,km COM,DF,Rennes,fr Ligue 1,23,25,1,0,0.7
+1965,Becir Omeragic,ch SUI,"DF,MF",Montpellier,fr Ligue 1,21,28,0,0,0.5
+1966,Jonas Omlin,ch SUI,GK,Gladbach,de Bundesliga,29,7,0,1,0.0
+1967,Andrew Omobamidele,ie IRL,DF,Nott'ham Forest,eng Premier League,21,11,0,0,0.1
+1968,Samu Omorodion,es ESP,FW,Alavés,es La Liga,19,34,8,1,10.8
+1969,Samu Omorodion,es ESP,FW,Granada,es La Liga,19,1,1,0,0.7
+1970,Amadou Onana,be BEL,MF,Everton,eng Premier League,21,30,2,0,2.0
+1971,André Onana,cm CMR,GK,Manchester Utd,eng Premier League,27,38,0,0,0.0
+1972,Jean Onana,cm CMR,MF,Marseille,fr Ligue 1,23,13,1,0,0.8
+1973,Ryan One,sct SCO,FW,Sheffield Utd,eng Premier League,17,1,0,0,0.0
+1974,Karim Onisiwo,at AUT,"FW,MF",Mainz 05,de Bundesliga,31,24,1,3,2.3
+1975,Tyler Onyango,eng ENG,MF,Everton,eng Premier League,20,1,0,0,0.0
+1976,Fred Onyedinma,eng ENG,"DF,MF",Luton Town,eng Premier League,26,8,0,0,0.2
+1977,Frank Onyeka,ng NGA,MF,Brentford,eng Premier League,25,26,1,2,2.2
+1978,Loïs Openda,be BEL,FW,RB Leipzig,de Bundesliga,23,34,24,7,22.1
+1979,Royce Openda Owaga,ga GAB,FW,Lorient,fr Ligue 1,21,1,0,0,0.0
+1980,Christopher Operi,ci CIV,DF,Le Havre,fr Ligue 1,26,28,3,4,1.2
+1981,Leon Opitz,de GER,"FW,DF",Werder Bremen,de Bundesliga,18,3,0,0,0.0
+1982,Gift Orban,ng NGA,FW,Lyon,fr Ligue 1,21,13,1,0,1.1
+1983,Willi Orban,hu HUN,DF,RB Leipzig,de Bundesliga,30,19,0,0,0.4
+1984,Ivan Ordets,ua UKR,DF,Bochum,de Bundesliga,31,24,1,0,1.3
+1985,Divock Origi,be BEL,FW,Nott'ham Forest,eng Premier League,28,20,0,1,1.4
+1986,Gaetano Oristanio,it ITA,"FW,MF",Cagliari,it Serie A,20,25,2,1,1.8
+1987,Aimar Oroz,es ESP,MF,Osasuna,es La Liga,21,33,2,1,3.5
+1988,Riccardo Orsolini,it ITA,"FW,MF",Bologna,it Serie A,26,33,10,2,7.4
+1989,Stefan Ortega,de GER,GK,Manchester City,eng Premier League,30,9,0,0,0.0
+1990,Eneko Ortiz,es ESP,DF,Alavés,es La Liga,20,1,0,0,0.0
+1991,Asier Osambela,es ESP,MF,Osasuna,es La Liga,19,1,0,0,0.0
+1992,Ben Osborn,eng ENG,"DF,MF",Sheffield Utd,eng Premier League,28,24,0,2,0.2
+1993,Gabriel Osho,ng NGA,DF,Luton Town,eng Premier League,24,21,2,0,1.1
+1994,Victor Osimhen,ng NGA,FW,Napoli,it Serie A,24,25,15,3,15.4
+1995,Milutin Osmajić,me MNE,MF,Cádiz,es La Liga,24,1,0,0,0.1
+1996,Patrick Osterhage,de GER,MF,Bochum,de Bundesliga,23,24,2,1,1.4
+1997,William Osula,dk DEN,FW,Sheffield Utd,eng Premier League,19,21,0,0,1.6
+1998,Dango Ouattara,bf BFA,"FW,DF",Bournemouth,eng Premier League,21,30,1,2,2.6
+1999,Kassoum Ouattara,fr FRA,"DF,FW",Monaco,fr Ligue 1,18,14,1,0,1.3
+2000,Remi Oudin,fr FRA,"MF,FW",Lecce,it Serie A,26,31,3,2,1.8
+2001,Alexandre Oukidja,dz ALG,GK,Metz,fr Ligue 1,35,34,0,0,0.0
+2002,Azzedine Ounahi,ma MAR,MF,Marseille,fr Ligue 1,23,21,2,0,1.0
+2003,Adam Ounas,dz ALG,FW,Lille,fr Ligue 1,26,17,1,0,0.6
+2004,Patrick Ouotro,ci CIV,FW,Strasbourg,fr Ligue 1,17,1,0,0,0.0
+2005,Aiham Ousou,sy SYR,DF,Cádiz,es La Liga,23,6,0,0,0.2
+2006,Jesús Owono,gq EQG,GK,Alavés,es La Liga,22,4,0,0,0.0
+2007,Mikel Oyarzabal,es ESP,"FW,MF",Real Sociedad,es La Liga,26,33,9,3,9.1
+2008,Anthony Oyono,ga GAB,DF,Frosinone,it Serie A,22,16,0,1,0.1
+2009,Salih Özcan,tr TUR,MF,Dortmund,de Bundesliga,25,23,0,0,0.2
+2010,Cenk Özkacar,tr TUR,DF,Valencia,es La Liga,22,23,0,0,0.3
+2011,David Ozoh,eng ENG,"MF,DF",Crystal Palace,eng Premier League,18,9,0,0,0.0
+2012,Jon Pacheco,es ESP,DF,Real Sociedad,es La Liga,22,23,1,1,1.1
+2013,Willian Pacho,ec ECU,DF,Eint Frankfurt,de Bundesliga,21,33,0,3,1.2
+2014,Gonçalo Paciência,pt POR,"FW,MF",Bochum,de Bundesliga,28,19,3,1,3.0
+2015,Simone Pafundi,it ITA,MF,Udinese,it Serie A,17,1,0,0,0.0
+2016,Riccardo Pagano,it ITA,"MF,DF",Roma,it Serie A,18,4,0,0,0.1
+2017,Pablo Pagis,fr FRA,MF,Lorient,fr Ligue 1,20,3,0,0,0.1
+2018,Exequiel Palacios,ar ARG,MF,Leverkusen,de Bundesliga,24,24,4,4,3.3
+2019,Isaac Palazón Camacho,es ESP,"MF,FW",Rayo Vallecano,es La Liga,28,37,4,1,5.9
+2020,João Palhinha,pt POR,MF,Fulham,eng Premier League,28,33,4,1,3.3
+2021,Nicolas Pallois,fr FRA,DF,Nantes,fr Ligue 1,35,23,0,1,0.1
+2022,Cole Palmer,eng ENG,"FW,MF",Chelsea,eng Premier League,21,33,22,11,18.2
+2023,Cole Palmer,eng ENG,MF,Manchester City,eng Premier League,21,1,0,0,0.0
+2024,Emerson Palmieri,it ITA,DF,West Ham,eng Premier League,28,36,1,2,1.5
+2025,Joaquín Panichelli,ar ARG,"FW,MF",Alavés,es La Liga,20,8,0,0,0.6
+2026,Miloš Pantović,rs SRB,MF,Union Berlin,de Bundesliga,27,1,1,0,0.8
+2027,Antonios Papadopoulos,de GER,DF,Dortmund,de Bundesliga,23,2,0,0,0.0
+2028,Christos Papadopoulos,gr GRE,FW,Genoa,it Serie A,18,1,0,0,0.0
+2029,Sokratis Papastathopoulos,gr GRE,DF,Betis,es La Liga,35,15,0,0,0.3
+2030,Merveille Papela,de GER,"MF,DF",Mainz 05,de Bundesliga,22,11,0,0,0.3
+2031,Leart Paqarada,xk KVX,DF,Köln,de Bundesliga,28,17,0,0,0.4
+2032,Lucas Paquetá,br BRA,"FW,MF",West Ham,eng Premier League,25,31,4,6,5.4
+2033,Victor Parada,es ESP,"FW,MF",Alavés,es La Liga,21,2,0,0,0.0
+2034,Aitor Paredes,es ESP,DF,Athletic Club,es La Liga,23,34,1,0,1.2
+2035,Kevin Paredes,us USA,"FW,MF",Wolfsburg,de Bundesliga,20,28,3,0,3.0
+2036,Leandro Paredes,ar ARG,MF,Roma,it Serie A,29,34,3,5,3.3
+2037,Daniel Parejo,es ESP,MF,Villarreal,es La Liga,34,33,3,5,2.9
+2038,Fabiano Parisi,it ITA,DF,Fiorentina,it Serie A,22,21,0,1,0.9
+2039,Ben Parkinson,eng ENG,FW,Newcastle Utd,eng Premier League,18,1,0,0,0.0
+2040,Thomas Partey,gh GHA,"MF,DF",Arsenal,eng Premier League,30,14,0,0,0.4
+2041,Mario Pašalić,hr CRO,MF,Atalanta,it Serie A,28,34,6,6,7.1
+2042,Triantafyllos Pasaridīs,gr GRE,DF,Salernitana,it Serie A,27,8,0,0,0.0
+2043,Pascu,es ESP,FW,Villarreal,es La Liga,20,1,0,0,0.0
+2044,Felix Passlack,de GER,DF,Bochum,de Bundesliga,25,15,2,2,0.9
+2045,Patric,es ESP,DF,Lazio,it Serie A,30,20,2,0,1.4
+2046,Rui Patrício,pt POR,GK,Roma,it Serie A,35,23,0,0,0.0
+2047,Nathan Patterson,sct SCO,DF,Everton,eng Premier League,21,20,0,2,0.3
+2048,Gabriel Paulista,br BRA,DF,Atlético Madrid,es La Liga,32,5,0,0,0.2
+2049,Gabriel Paulista,br BRA,DF,Valencia,es La Liga,32,18,0,0,0.4
+2050,Benjamin Pavard,fr FRA,DF,Inter,it Serie A,27,23,0,2,0.7
+2051,Jiří Pavlenka,cz CZE,GK,Werder Bremen,de Bundesliga,31,7,0,0,0.0
+2052,Aleksandar Pavlovic,de GER,MF,Bayern Munich,de Bundesliga,19,19,2,2,1.2
+2053,Leonardo Pavoletti,it ITA,FW,Cagliari,it Serie A,34,19,4,1,2.6
+2054,Martín Payero,ar ARG,MF,Udinese,it Serie A,24,29,2,2,1.5
+2055,Nicolás Paz,ar ARG,"MF,FW",Real Madrid,es La Liga,18,4,0,0,0.1
+2056,Myles Peart-Harris,eng ENG,"DF,MF",Brentford,eng Premier League,20,3,0,0,0.0
+2057,Sydie Peck,eng ENG,MF,Sheffield Utd,eng Premier League,18,1,0,0,0.0
+2058,Mads Pedersen,dk DEN,DF,Augsburg,de Bundesliga,26,27,1,1,0.8
+2059,Marcus Pedersen,no NOR,DF,Sassuolo,it Serie A,23,28,0,2,0.1
+2060,Alfonso Pedraza,es ESP,DF,Villarreal,es La Liga,27,19,1,3,0.6
+2061,Pedri,es ESP,"MF,FW",Barcelona,es La Liga,20,24,4,2,3.1
+2062,Pedro,es ESP,"FW,MF",Lazio,it Serie A,36,33,1,1,1.5
+2063,Adrià Pedrosa,es ESP,DF,Sevilla,es La Liga,25,31,1,4,0.7
+2064,Jordan Pefok,us USA,FW,Gladbach,de Bundesliga,27,25,5,3,6.5
+2065,Jordan Pefok,us USA,FW,Union Berlin,de Bundesliga,27,1,0,0,0.0
+2066,Dženan Pejčinović,de GER,FW,Wolfsburg,de Bundesliga,18,4,0,0,0.1
+2067,Pejiño,es ESP,FW,Las Palmas,es La Liga,27,17,2,0,1.3
+2068,Pietro Pellegri,it ITA,FW,Torino,it Serie A,22,24,1,1,1.0
+2069,Lorenzo Pellegrini,it ITA,MF,Roma,it Serie A,27,29,8,3,4.8
+2070,Luca Pellegrini,it ITA,DF,Lazio,it Serie A,24,19,1,0,0.2
+2071,Marco Pellegrino,,DF,Salernitana,it Serie A,,10,0,0,0.0
+2072,Marco Pellegrino,,DF,Milan,it Serie A,,1,0,0,0.0
+2073,Facundo Pellistri,uy URU,"FW,MF",Manchester Utd,eng Premier League,21,9,0,1,0.7
+2074,Facundo Pellistri,uy URU,"MF,FW",Granada,es La Liga,21,15,2,1,2.5
+2075,Andy Pelmard,fr FRA,DF,Clermont Foot,fr Ligue 1,23,34,0,0,0.3
+2076,Aurélien Pelon,fr FRA,DF,Lorient,fr Ligue 1,19,1,0,0,0.0
+2077,Faris Pemi Moumbagna,cm CMR,FW,Marseille,fr Ligue 1,23,13,3,1,1.7
+2078,Iñaki Peña,es ESP,GK,Barcelona,es La Liga,24,10,0,0,0.0
+2079,Marcos Peña,es ESP,MF,Almería,es La Liga,18,7,0,0,0.2
+2080,Rubén Peña,es ESP,"DF,FW",Osasuna,es La Liga,32,29,0,2,0.9
+2081,Pepín,gq EQG,"MF,FW",Monza,it Serie A,26,10,0,0,0.2
+2082,Alberto Perea,es ESP,"MF,FW",Granada,es La Liga,32,2,0,0,0.0
+2083,Andreas Pereira,br BRA,MF,Fulham,eng Premier League,27,37,3,7,4.6
+2084,Danilo Pereira,pt POR,DF,Paris S-G,fr Ligue 1,31,26,0,0,1.4
+2085,Mathias Pereira Lage,pt POR,"FW,MF",Brest,fr Ligue 1,26,30,3,2,3.5
+2086,Pedro Pereira,pt POR,DF,Monza,it Serie A,25,23,0,2,0.2
+2087,Daniel Peretz,il ISR,GK,Bayern Munich,de Bundesliga,23,1,0,0,0.0
+2088,Roberto Pereyra,ar ARG,"FW,MF",Udinese,it Serie A,32,27,4,3,3.5
+2089,Ayoze Pérez,es ESP,FW,Betis,es La Liga,30,31,9,1,7.4
+2090,Carles Pérez,es ESP,"MF,DF",Celta Vigo,es La Liga,25,16,1,1,1.2
+2091,Francisco Perez,es ESP,"MF,FW",Valencia,es La Liga,20,32,1,4,1.1
+2092,Kike Pérez,es ESP,"MF,FW",Rayo Vallecano,es La Liga,26,24,1,0,1.9
+2093,Nehuén Pérez,ar ARG,DF,Udinese,it Serie A,23,36,0,0,1.3
+2094,Matteo Perez Vinlöf,se SWE,FW,Bayern Munich,de Bundesliga,17,1,0,0,0.0
+2095,Simone Perilli,it ITA,GK,Hellas Verona,it Serie A,28,1,0,0,0.0
+2096,Mattia Perin,it ITA,GK,Juventus,it Serie A,30,3,0,0,0.0
+2097,Samuele Perisan,it ITA,GK,Empoli,it Serie A,25,1,0,0,0.0
+2098,Ivan Perišić,hr CRO,FW,Tottenham,eng Premier League,34,5,0,1,0.1
+2099,Romain Perraud,fr FRA,"DF,FW",Nice,fr Ligue 1,25,19,0,1,0.0
+2100,Lucas Perrin,fr FRA,DF,Strasbourg,fr Ligue 1,24,31,0,1,0.6
+2101,Máximo Perrone,ar ARG,MF,Las Palmas,es La Liga,20,29,0,0,0.2
+2102,Pavao Pervan,at AUT,GK,Wolfsburg,de Bundesliga,35,9,0,0,0.0
+2103,Matteo Pessina,it ITA,MF,Monza,it Serie A,26,37,6,3,6.3
+2104,Andrea Petagna,it ITA,FW,Cagliari,it Serie A,28,18,1,1,1.6
+2105,Denis Petrić,rs SRB,GK,Nantes,fr Ligue 1,35,1,0,0,0.0
+2106,Njegoš Petrović,rs SRB,"MF,FW",Granada,es La Liga,24,10,0,0,0.0
+2107,Đorđe Petrović,rs SRB,GK,Chelsea,eng Premier League,23,23,0,0,0.0
+2108,Jens Petter Hauge,no NOR,"MF,FW",Eint Frankfurt,de Bundesliga,23,10,0,0,0.1
+2109,Germán Pezzella,ar ARG,DF,Betis,es La Liga,32,32,1,0,2.0
+2110,Giuseppe Pezzella,it ITA,DF,Empoli,it Serie A,25,19,0,0,0.2
+2111,Luca Pfeiffer,de GER,"FW,MF",Darmstadt 98,de Bundesliga,26,24,1,4,4.6
+2112,Patric Pfeiffer,de GER,DF,Augsburg,de Bundesliga,23,11,0,1,0.5
+2113,Maximilian Philipp,de GER,"FW,MF",Freiburg,de Bundesliga,29,17,1,0,0.5
+2114,Kalvin Phillips,eng ENG,MF,West Ham,eng Premier League,27,8,0,0,0.1
+2115,Kalvin Phillips,eng ENG,MF,Manchester City,eng Premier League,27,4,0,0,0.1
+2116,Jaden Philogene Bidace,eng ENG,FW,Aston Villa,eng Premier League,21,1,0,0,0.0
+2117,Kamil Piątkowski,pl POL,DF,Granada,es La Liga,23,9,0,0,0.8
+2118,Roberto Piccoli,it ITA,FW,Empoli,it Serie A,22,2,0,0,0.1
+2119,Roberto Piccoli,it ITA,FW,Lecce,it Serie A,22,35,5,0,6.4
+2120,Florian Pick,de GER,"MF,FW",Heidenheim,de Bundesliga,27,22,0,1,0.3
+2121,Jordan Pickford,eng ENG,GK,Everton,eng Premier League,29,38,0,0,0.0
+2122,Amos Pieper,de GER,DF,Werder Bremen,de Bundesliga,25,7,0,0,0.5
+2123,Marvin Pieringer,de GER,"MF,FW",Heidenheim,de Bundesliga,23,31,3,3,2.3
+2124,Santiago Pierotti,ar ARG,"MF,FW",Lecce,it Serie A,22,11,0,2,0.5
+2125,Niccolò Pierozzi,it ITA,DF,Salernitana,it Serie A,21,12,1,0,0.2
+2126,Ronaël Pierre-Gabriel,fr FRA,DF,Nantes,fr Ligue 1,25,12,0,0,0.3
+2127,Andrea Pinamonti,it ITA,FW,Sassuolo,it Serie A,24,38,11,1,8.9
+2128,Ethan Pinnock,jm JAM,DF,Brentford,eng Premier League,30,29,2,0,2.0
+2129,Yeremi Pino,es ESP,"MF,FW",Villarreal,es La Liga,20,7,0,0,1.4
+2130,Carlo Pinsoglio,it ITA,GK,Juventus,it Serie A,33,1,0,0,0.0
+2131,Lorenzo Pirola,it ITA,DF,Salernitana,it Serie A,21,27,1,0,0.9
+2132,Niccolò Pisilli,it ITA,MF,Roma,it Serie A,18,1,0,0,0.0
+2133,Alassane Pléa,fr FRA,"FW,MF",Gladbach,de Bundesliga,30,27,7,4,7.0
+2134,Tommaso Pobega,it ITA,MF,Milan,it Serie A,24,11,0,0,0.2
+2135,Paul Pogba,fr FRA,MF,Juventus,it Serie A,30,2,0,0,0.0
+2136,Ole Pohlmann,de GER,MF,Dortmund,de Bundesliga,22,2,0,0,0.1
+2137,Matteo Politano,it ITA,FW,Napoli,it Serie A,29,37,8,7,7.1
+2138,Sebastian Polter,de GER,FW,Darmstadt 98,de Bundesliga,32,9,0,1,1.0
+2139,Julien Ponceau,fr FRA,MF,Lorient,fr Ligue 1,22,32,3,2,3.3
+2140,Marin Pongračić,hr CRO,DF,Lecce,it Serie A,25,36,0,0,1.2
+2141,Nick Pope,eng ENG,GK,Newcastle Utd,eng Premier League,31,15,0,0,0.0
+2142,Pedro Porro,es ESP,DF,Tottenham,eng Premier League,23,35,3,7,2.9
+2143,Portu,es ESP,FW,Getafe,es La Liga,31,3,0,0,0.2
+2144,Portu,es ESP,"MF,FW",Girona,es La Liga,31,33,7,5,3.4
+2145,Stefan Posch,at AUT,DF,Bologna,it Serie A,26,31,1,2,1.2
+2146,Yussuf Poulsen,dk DEN,FW,RB Leipzig,de Bundesliga,29,28,5,2,5.7
+2147,José Pozo,es ESP,MF,Rayo Vallecano,es La Liga,27,2,0,0,0.0
+2148,Alejandro Pozo Pozo,es ESP,"DF,MF",Almería,es La Liga,24,21,0,0,0.4
+2149,Beñat Prados,es ESP,"MF,DF",Athletic Club,es La Liga,22,26,0,0,0.5
+2150,Matteo Prati,it ITA,MF,Cagliari,it Serie A,19,26,1,1,2.0
+2151,Abdón Prats,es ESP,"FW,MF",Mallorca,es La Liga,30,34,6,1,3.2
+2152,Sanjin Prcić,ba BIH,MF,Strasbourg,fr Ligue 1,29,3,0,0,0.0
+2153,Grischa Prömel,de GER,MF,Hoffenheim,de Bundesliga,28,28,4,5,3.8
+2154,Ivan Provedel,it ITA,GK,Lazio,it Serie A,29,30,0,0,0.0
+2155,Marc Pubill,es ESP,DF,Almería,es La Liga,20,23,1,3,0.7
+2156,Gustavo Puerta,co COL,"DF,MF",Leverkusen,de Bundesliga,20,7,0,0,0.1
+2157,Antonio Puertas,es ESP,"MF,FW",Granada,es La Liga,31,27,0,2,3.2
+2158,Arnau Puigmal,es ESP,"FW,DF",Almería,es La Liga,22,11,0,0,0.0
+2159,Christian Pulisic,us USA,"FW,MF",Milan,it Serie A,24,36,12,8,8.0
+2160,George Pușcaș,ro ROU,FW,Genoa,it Serie A,27,8,0,0,2.1
+2161,Jarell Quansah,eng ENG,DF,Liverpool,eng Premier League,20,17,2,0,1.0
+2162,Domingos Quina,pt POR,MF,Udinese,it Serie A,23,2,0,0,0.0
+2163,Adrien Rabiot,fr FRA,MF,Juventus,it Serie A,28,31,5,3,3.5
+2164,Uroš Račić,rs SRB,MF,Sassuolo,it Serie A,25,22,1,1,0.8
+2165,Nemanja Radonjić,rs SRB,"MF,FW",Torino,it Serie A,27,10,3,0,1.7
+2166,Nemanja Radonjić,rs SRB,"MF,DF",Mallorca,es La Liga,27,11,0,0,1.6
+2167,Aleksandar Radovanović,rs SRB,DF,Almería,es La Liga,29,9,0,0,0.0
+2168,Ionuț Radu,ro ROU,GK,Bournemouth,eng Premier League,26,2,0,0,0.0
+2169,Boris Radunović,rs SRB,GK,Cagliari,it Serie A,27,7,0,0,0.0
+2170,Hamza Rafia,tn TUN,MF,Lecce,it Serie A,24,28,1,0,0.8
+2171,Abdellah Raihani,ma MAR,FW,Atlético Madrid,es La Liga,19,1,0,0,0.0
+2172,Antonio Raillo,es ESP,DF,Mallorca,es La Liga,31,26,3,2,1.4
+2173,Luca Raimund,de GER,"FW,MF",Stuttgart,de Bundesliga,18,3,0,0,0.9
+2174,Predrag Rajković,rs SRB,GK,Mallorca,es La Liga,27,36,0,0,0.0
+2175,Jesurun Rak Sakyi,eng ENG,"MF,FW",Crystal Palace,eng Premier League,20,6,0,0,0.4
+2176,Ivan Rakitić,hr CRO,MF,Sevilla,es La Liga,35,18,2,1,1.3
+2177,Ylber Ramadani,al ALB,MF,Lecce,it Serie A,27,34,1,0,1.0
+2178,Largie Ramazani,be BEL,"FW,MF",Almería,es La Liga,22,29,3,5,4.7
+2179,Benito Ramírez,es ESP,"FW,MF",Las Palmas,es La Liga,28,20,1,1,0.4
+2180,Sandro Ramírez,es ESP,FW,Las Palmas,es La Liga,28,27,1,3,3.7
+2181,Chris Ramos,es ESP,"FW,MF",Cádiz,es La Liga,26,37,5,1,10.1
+2182,Gonçalo Ramos,pt POR,FW,Paris S-G,fr Ligue 1,22,29,11,1,10.9
+2183,Sergio Ramos,es ESP,DF,Sevilla,es La Liga,37,28,3,0,1.9
+2184,Aaron Ramsdale,eng ENG,GK,Arsenal,eng Premier League,25,6,0,0,0.0
+2185,Aaron Ramsey,eng ENG,"MF,FW",Burnley,eng Premier League,20,14,0,0,0.3
+2186,Jacob Ramsey,eng ENG,"FW,MF",Aston Villa,eng Premier League,22,16,1,1,2.2
+2187,Luca Ranieri,it ITA,DF,Fiorentina,it Serie A,24,26,2,1,0.9
+2188,Filippo Ranocchia,it ITA,"MF,DF",Empoli,it Serie A,22,9,0,0,0.2
+2189,Grant Ranos,am ARM,"MF,FW",Gladbach,de Bundesliga,20,9,0,0,0.3
+2190,Raphinha,br BRA,"FW,MF",Barcelona,es La Liga,26,28,6,9,7.4
+2191,Nicolai Rapp,de GER,DF,Werder Bremen,de Bundesliga,26,2,0,0,0.0
+2192,Elba Rashani,xk KVX,"MF,FW",Clermont Foot,fr Ligue 1,30,24,2,0,2.1
+2193,Marcus Rashford,eng ENG,FW,Manchester Utd,eng Premier League,25,33,7,2,7.4
+2194,Giacomo Raspadori,it ITA,"FW,MF",Napoli,it Serie A,23,37,5,3,5.9
+2195,Andrei Ratiu,ro ROU,"DF,MF",Rayo Vallecano,es La Liga,25,12,0,0,0.3
+2196,Raúl,es ESP,FW,Osasuna,es La Liga,22,35,6,1,4.9
+2197,David Raum,de GER,DF,RB Leipzig,de Bundesliga,25,31,2,8,0.8
+2198,Federico Ravaglia,it ITA,GK,Bologna,it Serie A,23,6,0,0,0.0
+2199,David Raya,es ESP,GK,Arsenal,eng Premier League,27,32,0,0,0.0
+2200,Tim Ream,us USA,DF,Fulham,eng Premier League,35,18,1,0,1.0
+2201,Abderrahman Rebbach,dz ALG,"FW,MF",Alavés,es La Liga,24,23,1,0,0.8
+2202,Nathan Redmond,eng ENG,"FW,MF",Burnley,eng Premier League,29,12,0,0,0.0
+2203,Harrison Reed,eng ENG,MF,Fulham,eng Premier League,28,27,0,2,0.3
+2204,Sergio Reguilón,es ESP,DF,Manchester Utd,eng Premier League,26,9,0,0,0.2
+2205,Sergio Reguilón,es ESP,DF,Brentford,eng Premier League,26,16,0,4,0.8
+2206,Bobby Reid,jm JAM,FW,Fulham,eng Premier League,30,33,6,2,4.6
+2207,Tijjani Reijnders,nl NED,MF,Milan,it Serie A,25,36,3,3,3.2
+2208,Pepe Reina,es ESP,GK,Villarreal,es La Liga,40,2,0,0,0.0
+2209,Reinier,br BRA,"MF,FW",Frosinone,it Serie A,21,22,2,2,1.3
+2210,Rocco Reitz,de GER,MF,Gladbach,de Bundesliga,21,34,6,3,3.7
+2211,Álex Remiro,es ESP,GK,Real Sociedad,es La Liga,28,37,0,0,0.0
+2212,Guillaume Restes,fr FRA,GK,Toulouse,fr Ligue 1,18,34,0,0,0.0
+2213,Mateo Retegui,it ITA,FW,Genoa,it Serie A,24,29,7,2,5.8
+2214,Marco Reus,de GER,"MF,FW",Dortmund,de Bundesliga,34,26,6,8,6.5
+2215,Elvis Rexhbeçaj,xk KVX,MF,Augsburg,de Bundesliga,25,25,2,0,1.7
+2216,Gio Reyna,us USA,"FW,MF",Nott'ham Forest,eng Premier League,20,9,0,1,0.3
+2217,Gio Reyna,us USA,"MF,FW",Dortmund,de Bundesliga,20,11,0,0,0.8
+2218,Chadi Riad,ma MAR,DF,Betis,es La Liga,20,26,0,0,0.7
+2219,Alexsandro Ribeiro,br BRA,DF,Lille,fr Ligue 1,23,29,0,0,2.0
+2220,Rodrigo Ribeiro,pt POR,"MF,FW",Nott'ham Forest,eng Premier League,18,4,0,0,0.0
+2221,Samuele Ricci,it ITA,MF,Torino,it Serie A,21,32,1,2,1.3
+2222,Declan Rice,eng ENG,MF,Arsenal,eng Premier League,24,38,7,8,3.3
+2223,Chris Richards,us USA,"DF,MF",Crystal Palace,eng Premier League,23,26,1,1,0.6
+2224,Amir Richardson,ma MAR,MF,Reims,fr Ligue 1,21,28,3,1,1.6
+2225,Richarlison,br BRA,FW,Tottenham,eng Premier League,26,28,11,4,9.6
+2226,Marco Richter,de GER,"MF,FW",Mainz 05,de Bundesliga,25,20,1,0,1.9
+2227,Diego Rico,es ESP,DF,Getafe,es La Liga,30,32,0,7,0.3
+2228,Clemens Riedel,de GER,DF,Darmstadt 98,de Bundesliga,20,14,0,0,0.3
+2229,Fabian Rieder,ch SUI,MF,Rennes,fr Ligue 1,21,15,1,0,0.3
+2230,Jaïro Riedewald,nl NED,"MF,FW",Crystal Palace,eng Premier League,26,9,0,0,0.0
+2231,Manuel Riemann,de GER,GK,Bochum,de Bundesliga,34,33,0,0,0.0
+2232,Luis Rioja,es ESP,"FW,MF",Alavés,es La Liga,29,37,5,4,6.1
+2233,Rémy Riou,fr FRA,GK,Lyon,fr Ligue 1,35,3,0,0,0.0
+2234,Rodrigo Riquelme,es ESP,"DF,MF",Atlético Madrid,es La Liga,23,34,3,5,2.7
+2235,Alberto Risco,es ESP,MF,Getafe,es La Liga,17,4,0,0,0.1
+2236,Mihailo Ristić,rs SRB,"DF,MF",Celta Vigo,es La Liga,27,12,0,0,0.3
+2237,Matt Ritchie,sct SCO,"FW,MF",Newcastle Utd,eng Premier League,33,13,1,0,1.0
+2238,Gorka Rivera Alonso,es ESP,DF,Getafe,es La Liga,18,1,0,0,0.0
+2239,Sergi Roberto,es ESP,"MF,DF",Barcelona,es La Liga,31,14,3,2,1.7
+2240,Lucas Robertone,ar ARG,MF,Almería,es La Liga,26,33,0,5,1.0
+2241,Connor Roberts,wls WAL,DF,Burnley,eng Premier League,27,14,0,1,0.0
+2242,Andrew Robertson,sct SCO,DF,Liverpool,eng Premier League,29,23,3,2,1.9
+2243,Antonee Robinson,us USA,DF,Fulham,eng Premier League,25,37,0,6,0.7
+2244,Jack Robinson,eng ENG,DF,Sheffield Utd,eng Premier League,29,34,1,1,1.2
+2245,Marc Roca,es ESP,MF,Betis,es La Liga,26,26,2,2,1.1
+2246,Sebastian Rode,de GER,MF,Eint Frankfurt,de Bundesliga,32,8,0,0,0.0
+2247,Sergio Rodelas,es ESP,"FW,DF",Granada,es La Liga,18,3,0,1,0.0
+2248,Rodri,es ESP,MF,Manchester City,eng Premier League,27,34,8,9,4.1
+2249,Rodri,es ESP,"FW,MF",Betis,es La Liga,23,29,0,0,1.1
+2250,Álvaro Rodríguez,uy URU,FW,Real Madrid,es La Liga,19,1,0,0,0.0
+2251,Óscar Rodríguez Arnaiz,es ESP,"MF,FW",Getafe,es La Liga,25,24,2,1,1.5
+2252,Damián Rodríguez,es ESP,MF,Celta Vigo,es La Liga,20,5,0,2,0.0
+2253,Dani Rodríguez,es ESP,MF,Mallorca,es La Liga,35,36,2,4,1.4
+2254,Guido Rodríguez,ar ARG,MF,Betis,es La Liga,29,24,2,0,0.7
+2255,Jay Rodriguez,eng ENG,FW,Burnley,eng Premier League,34,21,2,1,3.5
+2256,Kirian Rodríguez,es ESP,MF,Las Palmas,es La Liga,27,37,6,2,2.1
+2257,Miguel Rodríguez,es ESP,MF,Celta Vigo,es La Liga,20,15,0,0,0.2
+2258,Ricardo Rodríguez,ch SUI,DF,Torino,it Serie A,30,35,1,2,0.3
+2259,Rodrygo,br BRA,FW,Real Madrid,es La Liga,22,34,10,5,11.7
+2260,Mads Roerslev,dk DEN,DF,Brentford,eng Premier League,24,34,1,2,0.9
+2261,Rogério,br BRA,DF,Wolfsburg,de Bundesliga,25,13,1,0,0.3
+2262,Morgan Rogers,eng ENG,"MF,FW",Aston Villa,eng Premier League,21,11,3,1,1.4
+2263,Merlin Röhl,de GER,"MF,FW",Freiburg,de Bundesliga,21,24,2,4,2.0
+2264,Alessio Romagnoli,it ITA,DF,Lazio,it Serie A,28,29,0,0,0.6
+2265,Simone Romagnoli,it ITA,DF,Frosinone,it Serie A,33,33,1,1,1.2
+2266,Carlos Romero,es ESP,DF,Villarreal,es La Liga,21,7,0,0,0.4
+2267,Cristian Romero,ar ARG,DF,Tottenham,eng Premier League,25,33,5,0,3.5
+2268,Isaac Romero,es ESP,FW,Sevilla,es La Liga,23,14,4,4,7.3
+2269,Luka Romero,ar ARG,"FW,MF",Milan,it Serie A,18,4,0,0,0.1
+2270,Luka Romero,ar ARG,FW,Almería,es La Liga,18,13,3,0,1.3
+2271,Oriol Romeu,es ESP,MF,Barcelona,es La Liga,31,28,0,1,0.7
+2272,Valentin Rongier,fr FRA,MF,Marseille,fr Ligue 1,28,10,0,0,0.6
+2273,Frank Ronstadt,de GER,"DF,MF",Darmstadt 98,de Bundesliga,26,4,0,0,0.1
+2274,Marten de Roon,nl NED,"MF,DF",Atalanta,it Serie A,32,30,0,5,0.6
+2275,Unai Ropero,es ESP,MF,Alavés,es La Liga,21,1,0,0,0.0
+2276,Vitor Roque,br BRA,FW,Barcelona,es La Liga,18,14,2,0,2.5
+2277,Pablo Rosario,nl NED,"MF,DF",Nice,fr Ligue 1,26,30,0,0,1.2
+2278,Valentin Rosier,fr FRA,"DF,MF",Nice,fr Ligue 1,26,3,0,0,0.0
+2279,Francesco Rossi,it ITA,GK,Atalanta,it Serie A,32,1,0,0,0.0
+2280,Joe Rothwell,eng ENG,MF,Bournemouth,eng Premier League,28,11,0,0,0.1
+2281,Anthony Rouault,fr FRA,DF,Stuttgart,de Bundesliga,22,22,0,2,0.1
+2282,Jérôme Roussillon,fr FRA,DF,Union Berlin,de Bundesliga,30,23,0,1,0.3
+2283,Nicolò Rovella,it ITA,MF,Lazio,it Serie A,21,23,0,2,0.6
+2284,Amir Rrahmani,xk KVX,DF,Napoli,it Serie A,29,30,3,0,2.2
+2285,Ruan,br BRA,DF,Sassuolo,it Serie A,24,26,0,0,0.5
+2286,Pelly Ruddock Mpanzu,cd COD,MF,Luton Town,eng Premier League,30,27,0,0,0.6
+2287,Antonio Rüdiger,de GER,DF,Real Madrid,es La Liga,30,33,1,0,1.5
+2288,Fabian Rüdlin,de GER,MF,Freiburg,de Bundesliga,26,1,0,0,0.0
+2289,Javier Rueda Garcia,es ESP,"MF,DF",Celta Vigo,es La Liga,21,1,0,0,0.0
+2290,Daniele Rugani,it ITA,DF,Juventus,it Serie A,29,17,2,0,1.6
+2291,Matteo Ruggeri,it ITA,DF,Atalanta,it Serie A,21,34,0,4,0.5
+2292,Mário Rui,pt POR,DF,Napoli,it Serie A,32,21,0,2,0.1
+2293,Aitor Ruibal,es ESP,"DF,FW",Betis,es La Liga,27,18,2,1,0.8
+2294,Fabián Ruiz Peña,es ESP,MF,Paris S-G,fr Ligue 1,27,21,1,3,2.0
+2295,Sergio Ruiz,es ESP,MF,Granada,es La Liga,28,35,0,4,0.7
+2296,Julian Ryerson,no NOR,DF,Dortmund,de Bundesliga,25,21,4,1,1.8
+2297,Frederik Rønnow,dk DEN,GK,Union Berlin,de Bundesliga,30,33,0,0,0.1
+2298,José Sá,pt POR,GK,Wolves,eng Premier League,30,35,0,1,0.0
+2299,Youssouf Sabaly,sn SEN,DF,Betis,es La Liga,30,12,0,1,0.1
+2300,Emmanuel Sabbi,us USA,"FW,MF",Le Havre,fr Ligue 1,25,30,5,1,4.1
+2301,Stefano Sabelli,it ITA,DF,Genoa,it Serie A,30,32,0,1,0.8
+2302,Marcel Sabitzer,at AUT,MF,Dortmund,de Bundesliga,29,25,4,3,3.6
+2303,Falaye Sacko,ml MLI,DF,Montpellier,fr Ligue 1,28,19,0,1,0.0
+2304,Dominic Sadi,eng ENG,FW,Bournemouth,eng Premier League,19,1,0,0,0.0
+2305,Umar Sadiq,ng NGA,FW,Real Sociedad,es La Liga,26,26,3,1,3.6
+2306,Alexis Saelemaekers,be BEL,"FW,MF",Bologna,it Serie A,24,30,4,2,2.6
+2307,Pablo Saenz,es ESP,MF,Granada,es La Liga,22,1,0,0,0.0
+2308,Modibo Sagnan,ml MLI,DF,Montpellier,fr Ligue 1,24,13,2,0,1.2
+2309,Wesley Saïd,fr FRA,"FW,MF",Lens,fr Ligue 1,28,27,7,1,5.7
+2310,Théo Sainte-Luce,fr FRA,DF,Montpellier,fr Ligue 1,24,6,0,0,0.1
+2311,Bukayo Saka,eng ENG,FW,Arsenal,eng Premier League,21,35,16,9,15.5
+2312,Mamadou Sakho,fr FRA,DF,Montpellier,fr Ligue 1,33,1,0,0,0.0
+2313,Ibrahim Salah,ma MAR,"FW,MF",Rennes,fr Ligue 1,21,23,4,1,3.1
+2314,Mohamed Salah,eg EGY,FW,Liverpool,eng Premier League,31,32,18,10,21.2
+2315,Amine Salama,fr FRA,FW,Reims,fr Ligue 1,23,11,0,0,0.7
+2316,Kike Salas,es ESP,DF,Sevilla,es La Liga,21,23,3,0,0.8
+2317,William Saliba,fr FRA,DF,Arsenal,eng Premier League,22,38,2,1,1.6
+2318,Mohammed Salisu,gh GHA,DF,Monaco,fr Ligue 1,24,12,0,1,0.2
+2319,Roland Sallai,hu HUN,"MF,FW",Freiburg,de Bundesliga,26,27,3,2,7.9
+2320,Yoann Salmier,gf GUF,DF,Le Havre,fr Ligue 1,30,20,1,1,1.1
+2321,Salvi,es ESP,MF,Rayo Vallecano,es La Liga,32,1,0,0,0.0
+2322,Lazar Samardzic,rs SRB,MF,Udinese,it Serie A,21,34,6,2,3.5
+2323,Diadie Samassékou,ml MLI,MF,Cádiz,es La Liga,27,4,0,0,0.0
+2324,Diadie Samassékou,ml MLI,MF,Hoffenheim,de Bundesliga,27,1,0,0,0.0
+2325,Mama Samba Baldé,gw GNB,"FW,MF",Lyon,fr Ligue 1,27,20,2,3,3.4
+2326,Brice Samba,fr FRA,GK,Lens,fr Ligue 1,29,33,0,0,0.0
+2327,Albert Sambi Lokonga,be BEL,MF,Luton Town,eng Premier League,23,17,1,3,0.6
+2328,Junior Sambia,fr FRA,"DF,MF",Salernitana,it Serie A,26,18,1,2,0.5
+2329,Fede San Emeterio,es ESP,MF,Cádiz,es La Liga,26,4,1,0,0.1
+2330,Antonio Sanabria,py PAR,"FW,MF",Torino,it Serie A,27,35,5,0,9.3
+2331,Oihan Sancet,es ESP,MF,Athletic Club,es La Liga,23,30,4,5,6.3
+2332,Renato Sanches,pt POR,MF,Roma,it Serie A,25,7,1,0,0.1
+2333,Ricard Sánchez,es ESP,DF,Granada,es La Liga,23,33,3,0,1.0
+2334,Alexis Sánchez,cl CHI,"FW,MF",Inter,it Serie A,34,23,2,5,3.2
+2335,Antonio Sánchez,es ESP,MF,Mallorca,es La Liga,26,29,3,1,2.5
+2336,Davinson Sánchez,co COL,DF,Tottenham,eng Premier League,27,1,0,0,0.1
+2337,Juanlu Sánchez,es ESP,DF,Sevilla,es La Liga,19,26,0,2,0.9
+2338,Manu Sánchez,es ESP,"DF,MF",Celta Vigo,es La Liga,22,26,0,5,0.5
+2339,Robert Sánchez,es ESP,GK,Chelsea,eng Premier League,25,16,0,0,0.0
+2340,Jadon Sancho,eng ENG,"FW,MF",Manchester Utd,eng Premier League,23,3,0,0,0.0
+2341,Jadon Sancho,eng ENG,"FW,MF",Dortmund,de Bundesliga,23,14,2,2,0.7
+2342,Alex Sandro,br BRA,DF,Juventus,it Serie A,32,16,1,0,0.4
+2343,Ibou Sané,sn SEN,"MF,FW",Metz,fr Ligue 1,18,9,1,0,0.7
+2344,Leroy Sané,de GER,FW,Bayern Munich,de Bundesliga,27,27,8,11,10.9
+2345,Sadibou Sané,sn SEN,DF,Metz,fr Ligue 1,19,14,0,0,0.4
+2346,Arouna Sangante,sn SEN,DF,Le Havre,fr Ligue 1,21,30,0,0,0.9
+2347,Ibrahim Sangaré,ci CIV,MF,Nott'ham Forest,eng Premier League,25,17,0,0,0.6
+2348,Morgan Sanson,fr FRA,MF,Nice,fr Ligue 1,28,29,2,3,3.3
+2349,Nicola Sansone,it ITA,"FW,MF",Lecce,it Serie A,31,25,2,2,2.8
+2350,Baptiste Santamaria,fr FRA,MF,Rennes,fr Ligue 1,28,30,0,1,1.9
+2351,Jesús Santiago,es ESP,MF,Getafe,es La Liga,19,14,1,0,0.6
+2352,Andrey Santos,br BRA,MF,Nott'ham Forest,eng Premier League,19,1,0,0,0.1
+2353,Andrey Santos,br BRA,MF,Strasbourg,fr Ligue 1,19,11,1,0,1.0
+2354,Tiago Santos,pt POR,DF,Lille,fr Ligue 1,21,29,1,2,1.4
+2355,Paco Sanz,es ESP,DF,Almería,es La Liga,18,1,0,0,0.0
+2356,Riccardo Saponara,it ITA,"FW,MF",Hellas Verona,it Serie A,31,12,0,0,0.1
+2357,Pablo Sarabia,es ESP,"MF,FW",Wolves,eng Premier League,31,30,4,7,5.5
+2358,Amin Sarr,se SWE,"FW,MF",Lyon,fr Ligue 1,22,3,0,0,0.3
+2359,Amin Sarr,se SWE,"FW,MF",Wolfsburg,de Bundesliga,22,14,0,0,0.6
+2360,Bouna Sarr,sn SEN,DF,Bayern Munich,de Bundesliga,31,2,0,0,0.2
+2361,Ismaila Sarr,sn SEN,"FW,MF",Marseille,fr Ligue 1,25,23,3,4,3.2
+2362,Mamadou Sarr,fr FRA,DF,Lyon,fr Ligue 1,17,1,0,0,0.0
+2363,Martin Satriano,uy URU,FW,Brest,fr Ligue 1,22,33,4,4,6.1
+2364,Téji Savanier,fr FRA,MF,Montpellier,fr Ligue 1,31,32,9,6,9.1
+2365,Stefan Savić,me MNE,DF,Atlético Madrid,es La Liga,32,23,0,0,0.3
+2366,Sávio,br BRA,"FW,MF",Girona,es La Liga,19,37,9,10,6.1
+2367,Zanos Savva,cy CYP,"DF,MF",Torino,it Serie A,17,2,1,0,0.2
+2368,Saba Sazonov,ge GEO,DF,Torino,it Serie A,21,12,0,0,0.2
+2369,Joe Scally,us USA,DF,Gladbach,de Bundesliga,20,31,1,4,0.6
+2370,Giorgio Scalvini,it ITA,DF,Atalanta,it Serie A,19,33,1,3,1.4
+2371,Gianluca Scamacca,it ITA,FW,Atalanta,it Serie A,24,29,12,6,6.5
+2372,Dane Scarlett,eng ENG,FW,Tottenham,eng Premier League,19,4,0,0,0.0
+2373,Kevin Schade,de GER,"FW,MF",Brentford,eng Premier League,21,11,2,1,1.2
+2374,András Schäfer,hu HUN,MF,Union Berlin,de Bundesliga,24,20,1,2,1.8
+2375,Fabian Schär,ch SUI,DF,Newcastle Utd,eng Premier League,31,36,4,1,2.5
+2376,Patrik Schick,cz CZE,FW,Leverkusen,de Bundesliga,27,20,7,0,6.0
+2377,Stefan Schimmer,de GER,"MF,FW",Heidenheim,de Bundesliga,29,16,0,1,0.6
+2378,Xaver Schlager,at AUT,MF,RB Leipzig,de Bundesliga,25,29,0,5,1.1
+2379,Keven Schlotterbeck,de GER,DF,Bochum,de Bundesliga,26,27,5,1,2.0
+2380,Nico Schlotterbeck,de GER,DF,Dortmund,de Bundesliga,23,33,2,1,3.0
+2381,Jeffrey Schlupp,gh GHA,"FW,MF",Crystal Palace,eng Premier League,30,29,2,2,1.8
+2382,Romano Schmid,at AUT,"MF,FW",Werder Bremen,de Bundesliga,23,33,4,6,5.2
+2383,Kenneth Schmidt,de GER,DF,Freiburg,de Bundesliga,21,5,0,0,0.0
+2384,Niklas Schmidt,de GER,MF,Toulouse,fr Ligue 1,25,22,1,1,1.2
+2385,Benno Schmitz,de GER,DF,Köln,de Bundesliga,28,22,0,1,0.2
+2386,Fabian Schnellhardt,de GER,MF,Darmstadt 98,de Bundesliga,29,10,0,0,0.2
+2387,Jan Schöppner,de GER,MF,Heidenheim,de Bundesliga,24,26,2,2,1.1
+2388,Marcel Schuhen,de GER,GK,Darmstadt 98,de Bundesliga,30,31,0,0,0.0
+2389,Perr Schuurs,nl NED,DF,Torino,it Serie A,23,9,1,0,0.7
+2390,Marvin Schwäbe,de GER,GK,Köln,de Bundesliga,28,34,0,0,0.0
+2391,Alexander Schwolow,de GER,GK,Union Berlin,de Bundesliga,31,1,0,0,0.0
+2392,Alex Scott,eng ENG,MF,Bournemouth,eng Premier League,19,23,1,1,0.7
+2393,Simone Scuffet,it ITA,GK,Cagliari,it Serie A,27,31,0,0,0.0
+2394,Jérémy Sebas,mq MTQ,"FW,MF",Strasbourg,fr Ligue 1,20,14,2,0,1.0
+2395,Demba Seck,sn SEN,MF,Torino,it Serie A,22,9,0,0,0.3
+2396,Demba Seck,sn SEN,"FW,MF",Frosinone,it Serie A,22,11,0,0,1.1
+2397,Aleksandar Sedlar,rs SRB,DF,Alavés,es La Liga,31,11,1,0,0.3
+2398,Alidu Seidu,gh GHA,DF,Rennes,fr Ligue 1,23,11,0,0,0.2
+2399,Alidu Seidu,gh GHA,DF,Clermont Foot,fr Ligue 1,23,14,0,1,0.1
+2400,Nicolas Seiwald,at AUT,MF,RB Leipzig,de Bundesliga,22,21,0,2,0.0
+2401,Nikola Sekulov,it ITA,FW,Juventus,it Serie A,21,1,0,0,0.0
+2402,Davie Selke,de GER,FW,Köln,de Bundesliga,28,19,6,0,4.8
+2403,Matz Sels,be BEL,GK,Nott'ham Forest,eng Premier League,31,16,0,0,0.0
+2404,Matz Sels,be BEL,GK,Strasbourg,fr Ligue 1,31,19,0,0,0.0
+2405,Nélson Semedo,pt POR,"DF,MF",Wolves,eng Premier League,29,36,0,1,1.3
+2406,Vivaldo Semedo,pt POR,FW,Udinese,it Serie A,18,1,0,0,0.0
+2407,Antoine Semenyo,gh GHA,FW,Bournemouth,eng Premier League,23,33,8,2,4.6
+2408,Marvin Senaya,tg TOG,"DF,MF",Strasbourg,fr Ligue 1,22,32,1,1,1.2
+2409,Marcos Senesi,ar ARG,DF,Bournemouth,eng Premier League,26,31,4,5,2.0
+2410,Stefano Sensi,it ITA,MF,Inter,it Serie A,27,4,0,1,0.1
+2411,Suat Serdar,de GER,MF,Hellas Verona,it Serie A,26,25,0,2,1.0
+2412,Benjamin Šeško,si SVN,FW,RB Leipzig,de Bundesliga,20,31,14,2,7.7
+2413,Kevin Sessa,de GER,"MF,FW",Heidenheim,de Bundesliga,23,30,3,0,2.9
+2414,Aaron Seydel,de GER,FW,Darmstadt 98,de Bundesliga,27,16,1,0,1.0
+2415,Andres Sfait,ro ROU,"DF,MF",Salernitana,it Serie A,18,2,0,0,0.0
+2416,Stephan El Shaarawy,it ITA,"FW,DF",Roma,it Serie A,30,33,3,4,2.5
+2417,Luke Shaw,eng ENG,DF,Manchester Utd,eng Premier League,28,12,0,0,0.0
+2418,James Shea,eng ENG,GK,Luton Town,eng Premier League,32,1,0,0,0.0
+2419,Eldor Shomurodov,uz UZB,"FW,MF",Cagliari,it Serie A,28,22,3,3,3.5
+2420,Steven Shpendi,al ALB,"FW,MF",Empoli,it Serie A,20,12,0,1,0.4
+2421,Sofiane Sidi Ali,fr FRA,MF,Marseille,fr Ligue 1,28,2,0,0,0.0
+2422,Vincent Sierro,ch SUI,MF,Toulouse,fr Ligue 1,27,30,6,2,5.9
+2423,Tim Siersleben,de GER,DF,Heidenheim,de Bundesliga,23,14,0,0,0.2
+2424,Kiliann Sildillia,fr FRA,DF,Freiburg,de Bundesliga,21,27,0,1,0.6
+2425,André Silva,pt POR,FW,Real Sociedad,es La Liga,27,19,3,0,3.3
+2426,Bernardo Silva,pt POR,"MF,FW",Manchester City,eng Premier League,28,33,6,9,3.7
+2427,Caio Henrique Oliveira Silva,br BRA,DF,Monaco,fr Ligue 1,26,9,0,5,0.2
+2428,Fábio Silva,pt POR,FW,Wolves,eng Premier League,21,8,0,0,1.0
+2429,Rui Silva,pt POR,GK,Betis,es La Liga,29,28,0,0,0.0
+2430,Thiago Silva,br BRA,DF,Chelsea,eng Premier League,38,31,3,1,0.8
+2431,Marco Silvestri,it ITA,GK,Udinese,it Serie A,32,17,0,0,0.0
+2432,Mohamed Simakan,fr FRA,DF,RB Leipzig,de Bundesliga,23,32,2,3,3.9
+2433,Giovanni Simeone,ar ARG,FW,Napoli,it Serie A,28,28,1,0,3.4
+2434,Giuliano Simeone,ar ARG,FW,Alavés,es La Liga,20,14,1,2,2.4
+2435,Jan-Carlo Simic,rs SRB,DF,Milan,it Serie A,18,4,1,0,0.6
+2436,Moses Simon,ng NGA,"FW,MF",Nantes,fr Ligue 1,28,22,3,5,4.1
+2437,Unai Simón,es ESP,GK,Athletic Club,es La Liga,26,36,0,0,0.0
+2438,Xavi Simons,nl NED,MF,RB Leipzig,de Bundesliga,20,32,8,11,8.3
+2439,Wilfried Singo,ci CIV,DF,Monaco,fr Ligue 1,22,25,1,1,0.8
+2440,Luis Sinisterra,co COL,"FW,MF",Bournemouth,eng Premier League,24,20,2,2,2.5
+2441,Daley Sinkgraven,nl NED,DF,Las Palmas,es La Liga,28,10,0,0,0.0
+2442,Jailson Siqueira,br BRA,"DF,MF",Celta Vigo,es La Liga,27,14,0,1,0.2
+2443,Ayanda Sishuba,be BEL,"MF,FW",Lens,fr Ligue 1,18,7,0,0,0.9
+2444,Ibrahima Sissoko,ml MLI,MF,Strasbourg,fr Ligue 1,25,27,0,1,1.0
+2445,Moussa Sissoko,fr FRA,MF,Nantes,fr Ligue 1,33,26,0,0,1.3
+2446,Antonio Sivera,es ESP,GK,Alavés,es La Liga,26,34,0,0,0.0
+2447,Tim Skarke,de GER,"FW,DF",Darmstadt 98,de Bundesliga,26,30,8,0,3.6
+2448,Ellyes Skhiri,tn TUN,MF,Eint Frankfurt,de Bundesliga,28,27,2,2,2.3
+2449,Oliver Skipp,eng ENG,"MF,DF",Tottenham,eng Premier League,22,21,0,0,0.7
+2450,Leo Skiri Østigård,no NOR,DF,Napoli,it Serie A,23,25,1,0,0.6
+2451,Łukasz Skorupski,pl POL,GK,Bologna,it Serie A,32,32,0,0,0.0
+2452,Robert Skov,dk DEN,"DF,FW",Hoffenheim,de Bundesliga,27,25,3,4,1.8
+2453,Milan Škriniar,sk SVK,DF,Paris S-G,fr Ligue 1,28,24,0,0,0.2
+2454,Naatan Skyttä,fi FIN,"MF,FW",Toulouse,fr Ligue 1,21,8,0,0,0.5
+2455,Chris Smalling,eng ENG,DF,Roma,it Serie A,33,8,0,0,0.0
+2456,Adam Smith,eng ENG,DF,Bournemouth,eng Premier League,32,28,0,2,0.1
+2457,Emile Smith Rowe,eng ENG,MF,Arsenal,eng Premier League,23,13,0,1,2.0
+2458,Hrvoje Smolčić,hr CRO,DF,Eint Frankfurt,de Bundesliga,22,11,1,0,1.0
+2459,Cédric Soares,pt POR,DF,Arsenal,eng Premier League,31,3,0,0,0.0
+2460,Danilo Soares,br BRA,DF,Bochum,de Bundesliga,31,5,0,0,0.0
+2461,Eduard Sobol,ua UKR,DF,Strasbourg,fr Ligue 1,28,3,0,0,0.0
+2462,Rubén Sobrino,es ESP,"MF,FW",Cádiz,es La Liga,31,32,0,1,1.8
+2463,Andrea Sodero,it ITA,MF,Empoli,it Serie A,18,1,0,0,0.0
+2464,Emran Soglo,eng ENG,"MF,DF",Marseille,fr Ligue 1,18,3,1,1,0.1
+2465,Alex Sola,es ESP,"FW,MF",Alavés,es La Liga,24,29,0,3,1.6
+2466,Alex Sola,es ESP,"DF,MF",Real Sociedad,es La Liga,24,2,0,0,0.0
+2467,Dominic Solanke,eng ENG,FW,Bournemouth,eng Premier League,25,38,19,3,19.6
+2468,Ola Solbakken,no NOR,FW,Roma,it Serie A,24,1,0,0,0.0
+2469,Carlos Soler,es ESP,"MF,DF",Paris S-G,fr Ligue 1,26,24,2,2,1.5
+2470,Jhon Solis,co COL,MF,Girona,es La Liga,18,18,0,0,1.0
+2471,Manor Solomon,il ISR,FW,Tottenham,eng Premier League,24,5,0,2,0.4
+2472,Daniele Sommariva,it ITA,GK,Genoa,it Serie A,26,1,0,0,0.0
+2473,Yann Sommer,ch SUI,GK,Inter,it Serie A,34,34,0,0,0.0
+2474,Brandon Soppy,fr FRA,DF,Torino,it Serie A,21,5,0,0,0.0
+2475,David Soria,es ESP,GK,Getafe,es La Liga,30,38,0,0,0.0
+2476,Alberto Soro,es ESP,MF,Granada,es La Liga,24,1,0,0,0.0
+2477,Alessandro Sorrentino,it ITA,GK,Monza,it Serie A,21,7,0,0,0.0
+2478,Borna Sosa,hr CRO,"FW,DF",Stuttgart,de Bundesliga,25,2,0,0,0.0
+2479,Hugo Sotelo,es ESP,MF,Celta Vigo,es La Liga,19,17,0,1,0.3
+2480,Florian Sotoca,fr FRA,"MF,FW",Lens,fr Ligue 1,32,32,7,6,9.1
+2481,Riccardo Sottil,it ITA,FW,Fiorentina,it Serie A,24,22,2,3,2.6
+2482,Tomáš Souček,cz CZE,MF,West Ham,eng Premier League,28,37,7,2,6.7
+2483,Matìas Soulé,ar ARG,"FW,MF",Frosinone,it Serie A,20,36,11,3,10.5
+2484,Boubakary Soumaré,fr FRA,MF,Sevilla,es La Liga,24,28,0,1,0.0
+2485,Issa Soumaré,sn SEN,"FW,MF",Le Havre,fr Ligue 1,22,7,0,0,0.4
+2486,Vinicius Souza,br BRA,MF,Sheffield Utd,eng Premier League,24,36,1,0,0.6
+2487,Djibril Sow,ch SUI,MF,Sevilla,es La Liga,26,24,1,1,1.5
+2488,Saidou Sow,gn GUI,DF,Strasbourg,fr Ligue 1,21,10,0,1,0.3
+2489,Çağlar Söyüncü,tr TUR,DF,Atlético Madrid,es La Liga,27,6,0,0,0.0
+2490,Djed Spence,eng ENG,DF,Genoa,it Serie A,22,16,0,0,0.2
+2491,Stijn Spierings,nl NED,MF,Toulouse,fr Ligue 1,27,22,0,1,0.4
+2492,Stijn Spierings,nl NED,MF,Lens,fr Ligue 1,27,4,0,0,0.0
+2493,Leonardo Spinazzola,it ITA,DF,Roma,it Serie A,30,24,1,2,0.2
+2494,Marco Sportiello,it ITA,GK,Milan,it Serie A,31,7,0,0,0.0
+2495,Anton Stach,de GER,MF,Hoffenheim,de Bundesliga,24,31,2,3,1.7
+2496,Anton Stach,de GER,MF,Mainz 05,de Bundesliga,24,2,0,0,0.2
+2497,Jens Stage,dk DEN,MF,Werder Bremen,de Bundesliga,26,30,3,1,4.4
+2498,Benjamin Stambouli,fr FRA,MF,Reims,fr Ligue 1,32,7,0,1,0.1
+2499,Josip Stanišić,hr CRO,DF,Leverkusen,de Bundesliga,23,20,3,1,0.8
+2500,Carl Starfelt,se SWE,DF,Celta Vigo,es La Liga,28,27,1,0,1.4
+2501,Niklas Stark,de GER,DF,Werder Bremen,de Bundesliga,28,17,2,0,0.2
+2502,Jason Steele,eng ENG,GK,Brighton,eng Premier League,32,17,0,0,0.0
+2503,Pascal Stenzel,de GER,DF,Stuttgart,de Bundesliga,27,23,0,5,0.3
+2504,Leonidas Stergiou,ch SUI,DF,Stuttgart,de Bundesliga,21,15,1,0,0.4
+2505,Raheem Sterling,eng ENG,"FW,MF",Chelsea,eng Premier League,28,31,8,4,6.5
+2506,Trivante Stewart,jm JAM,"FW,MF",Salernitana,it Serie A,23,4,0,0,0.1
+2507,Angelo Stiller,de GER,MF,Hoffenheim,de Bundesliga,22,1,0,0,0.1
+2508,Angelo Stiller,de GER,MF,Stuttgart,de Bundesliga,22,31,1,5,1.6
+2509,Kevin Stöger,at AUT,MF,Bochum,de Bundesliga,29,32,7,10,6.2
+2510,Filip Stojilković,ch SUI,"FW,MF",Darmstadt 98,de Bundesliga,23,6,0,0,0.2
+2511,John Stones,eng ENG,"DF,MF",Manchester City,eng Premier League,29,16,1,0,1.0
+2512,Thomas Strakosha,al ALB,GK,Brentford,eng Premier League,28,2,0,0,0.0
+2513,Jørgen Strand Larsen,no NOR,FW,Celta Vigo,es La Liga,23,37,13,3,14.5
+2514,Gabriel Strefezza,br BRA,FW,Lecce,it Serie A,26,19,1,0,2.5
+2515,Kevin Strootman,nl NED,MF,Genoa,it Serie A,33,27,0,2,0.1
+2516,Cristhian Stuani,uy URU,FW,Girona,es La Liga,36,31,9,3,9.6
+2517,Álex Suárez,es ESP,DF,Las Palmas,es La Liga,30,32,2,0,1.2
+2518,Damián Suárez,uy URU,DF,Getafe,es La Liga,35,16,0,2,0.3
+2519,Denis Suárez,es ESP,"MF,FW",Villarreal,es La Liga,29,4,0,0,0.1
+2520,Gabriel Suazo,cl CHI,DF,Toulouse,fr Ligue 1,25,31,0,4,0.7
+2521,Isaac Success,ng NGA,"FW,MF",Udinese,it Serie A,27,27,1,1,2.7
+2522,Niklas Süle,de GER,DF,Dortmund,de Bundesliga,27,23,1,0,0.4
+2523,Ibrahim Sulemana,gh GHA,MF,Cagliari,it Serie A,20,21,2,0,0.8
+2524,Tomáš Suslov,sk SVK,"MF,FW",Hellas Verona,it Serie A,21,32,3,5,3.5
+2525,Suso,es ESP,"MF,FW",Sevilla,es La Liga,29,29,1,4,1.4
+2526,Mattias Svanberg,se SWE,MF,Wolfsburg,de Bundesliga,24,25,1,3,3.0
+2527,Max Svensson,es ESP,FW,Osasuna,es La Liga,,1,0,0,0.0
+2528,Mile Svilar,rs SRB,GK,Roma,it Serie A,23,15,0,0,0.0
+2529,Williot Swedberg,se SWE,"FW,MF",Celta Vigo,es La Liga,19,15,5,0,2.3
+2530,Karol Świderski,pl POL,"FW,MF",Hellas Verona,it Serie A,26,15,2,0,1.7
+2531,Abakar Sylla,ci CIV,DF,Strasbourg,fr Ligue 1,20,22,2,0,1.6
+2532,Dembo Sylla,gn GUI,DF,Lorient,fr Ligue 1,20,1,0,0,0.1
+2533,Issiaga Sylla,gn GUI,"DF,FW",Montpellier,fr Ligue 1,29,19,1,2,1.4
+2534,Mamadou Sylla,sn SEN,"FW,MF",Alavés,es La Liga,29,2,0,0,0.0
+2535,Attila Szalai,hu HUN,DF,Hoffenheim,de Bundesliga,25,4,0,0,0.0
+2536,Attila Szalai,hu HUN,DF,Freiburg,de Bundesliga,25,3,0,0,0.0
+2537,Wojciech Szczęsny,pl POL,GK,Juventus,it Serie A,33,35,0,0,0.0
+2538,Dominik Szoboszlai,hu HUN,MF,Liverpool,eng Premier League,22,33,3,2,3.7
+2539,Przemysław Szymiński,pl POL,MF,Frosinone,it Serie A,29,1,0,0,0.0
+2540,Alexander Sørloth,no NOR,FW,Villarreal,es La Liga,27,34,23,6,12.3
+2541,Musa Al-Taamari,jo JOR,FW,Montpellier,fr Ligue 1,26,27,5,2,3.6
+2542,Nicolás Tagliafico,ar ARG,DF,Lyon,fr Ligue 1,30,25,3,1,2.6
+2543,Jonathan Tah,de GER,DF,Leverkusen,de Bundesliga,27,31,4,1,2.1
+2544,Montassar Talbi,tn TUN,DF,Lorient,fr Ligue 1,25,25,0,0,0.6
+2545,Yassin Tallal,es ESP,FW,Getafe,es La Liga,18,1,0,0,0.0
+2546,Adrien Tameze,cm CMR,"DF,MF",Torino,it Serie A,29,29,0,2,0.7
+2547,Renato Tapia,pe PER,"MF,DF",Celta Vigo,es La Liga,28,21,0,0,1.0
+2548,Edmond Tapsoba,bf BFA,DF,Leverkusen,de Bundesliga,24,28,0,1,1.0
+2549,Matt Targett,eng ENG,DF,Newcastle Utd,eng Premier League,27,3,0,0,0.0
+2550,Oussama Targhalline,ma MAR,MF,Le Havre,fr Ligue 1,21,14,0,0,0.2
+2551,James Tarkowski,eng ENG,DF,Everton,eng Premier League,30,38,1,1,2.6
+2552,César Tárrega,es ESP,DF,Valencia,es La Liga,21,1,0,0,0.0
+2553,Jimi Tauriainen,eng ENG,FW,Chelsea,eng Premier League,19,1,0,0,0.0
+2554,Nuno Tavares,pt POR,DF,Nott'ham Forest,eng Premier League,23,8,0,0,0.2
+2555,Marcus Tavernier,eng ENG,FW,Bournemouth,eng Premier League,24,30,3,4,3.9
+2556,Elayis Tavsan,nl NED,"MF,FW",Hellas Verona,it Serie A,22,3,0,0,0.1
+2557,Charlie Taylor,eng ENG,DF,Burnley,eng Premier League,29,28,1,1,0.2
+2558,Marciano Tchami,gw GNB,"FW,MF",Almería,es La Liga,19,6,0,0,0.0
+2559,Loum Tchaouna,fr FRA,"FW,MF",Salernitana,it Serie A,19,33,4,3,2.6
+2560,Jackson Tchatchoua,cm CMR,DF,Hellas Verona,it Serie A,21,26,0,2,0.0
+2561,Enzo Tchato,cm CMR,DF,Montpellier,fr Ligue 1,20,17,0,0,0.3
+2562,Aurélien Tchouaméni,fr FRA,"MF,DF",Real Madrid,es La Liga,23,27,3,1,1.3
+2563,Mathys Tel,fr FRA,"FW,MF",Bayern Munich,de Bundesliga,18,30,7,5,3.7
+2564,Nathan Tella,ng NGA,"DF,MF",Leverkusen,de Bundesliga,24,24,5,2,3.5
+2565,Nahuel Tenaglia,ar ARG,DF,Alavés,es La Liga,27,25,1,0,0.6
+2566,Arnau Tenas,es ESP,GK,Paris S-G,fr Ligue 1,22,6,0,1,0.0
+2567,Marc-André ter Stegen,de GER,GK,Barcelona,es La Liga,31,28,0,0,0.0
+2568,Filippo Terracciano,it ITA,DF,Hellas Verona,it Serie A,20,18,0,1,0.3
+2569,Filippo Terracciano,it ITA,"DF,FW",Milan,it Serie A,20,3,0,0,0.0
+2570,Pietro Terracciano,it ITA,GK,Fiorentina,it Serie A,33,33,0,0,0.0
+2571,Ramón Terrats,es ESP,"MF,DF",Villarreal,es La Liga,22,19,0,2,0.4
+2572,Martin Terrier,fr FRA,"FW,MF",Rennes,fr Ligue 1,26,24,7,3,5.2
+2573,Kenny Tete,nl NED,DF,Fulham,eng Premier League,27,14,1,0,0.9
+2574,Benjamin Tetteh,gh GHA,"FW,MF",Metz,fr Ligue 1,26,12,0,0,0.3
+2575,Teddy Teuma,mt MLT,MF,Reims,fr Ligue 1,29,28,6,3,3.1
+2576,Florian Thauvin,fr FRA,FW,Udinese,it Serie A,30,29,5,3,4.7
+2577,Arthur Theate,be BEL,DF,Rennes,fr Ligue 1,23,28,2,0,1.9
+2578,Norman Theuerkauf,de GER,"MF,DF",Heidenheim,de Bundesliga,36,25,0,1,0.4
+2579,Malick Thiaw,de GER,DF,Milan,it Serie A,21,21,0,1,0.6
+2580,Jan Thielmann,de GER,"FW,DF",Köln,de Bundesliga,21,22,1,0,2.3
+2581,Denis Thomalla,de GER,"MF,FW",Heidenheim,de Bundesliga,30,21,0,0,0.3
+2582,Luke Thomas,eng ENG,DF,Sheffield Utd,eng Premier League,22,12,0,0,0.5
+2583,Adrien Thomasson,fr FRA,MF,Lens,fr Ligue 1,29,29,1,2,3.8
+2584,Morten Thorsby,no NOR,MF,Genoa,it Serie A,27,24,2,2,1.8
+2585,Kristian Thorstvedt,no NOR,MF,Sassuolo,it Serie A,24,34,6,1,4.4
+2586,Khéphren Thuram,fr FRA,MF,Nice,fr Ligue 1,22,27,1,1,3.4
+2587,Marcus Thuram,fr FRA,FW,Inter,it Serie A,25,35,13,7,14.3
+2588,Cheikh Tidiane Sabaly,sn SEN,"FW,MF",Metz,fr Ligue 1,24,29,3,1,2.7
+2589,Youri Tielemans,be BEL,"MF,FW",Aston Villa,eng Premier League,26,32,2,6,1.3
+2590,Kieran Tierney,sct SCO,DF,Real Sociedad,es La Liga,26,20,0,2,0.2
+2591,Phillip Tietz,de GER,FW,Augsburg,de Bundesliga,26,34,8,4,8.2
+2592,Steffen Tigges,de GER,FW,Köln,de Bundesliga,25,25,3,0,2.6
+2593,Antonio Tikvić,hr CRO,DF,Udinese,it Serie A,19,1,0,0,0.0
+2594,Jurriën Timber,nl NED,DF,Arsenal,eng Premier League,22,2,0,0,0.0
+2595,Jean-Clair Todibo,fr FRA,DF,Nice,fr Ligue 1,23,30,0,2,0.6
+2596,Harry Toffolo,eng ENG,DF,Nott'ham Forest,eng Premier League,27,23,1,3,1.6
+2597,Umut Tohumcu,de GER,MF,Hoffenheim,de Bundesliga,18,20,0,2,0.5
+2598,Corentin Tolisso,fr FRA,MF,Lyon,fr Ligue 1,28,25,2,1,3.2
+2599,Jeremy Toljan,de GER,DF,Sassuolo,it Serie A,28,25,0,5,0.6
+2600,Rafael Tolói,it ITA,DF,Atalanta,it Serie A,32,18,0,0,0.1
+2601,Raúl de Tomás,es ESP,FW,Rayo Vallecano,es La Liga,28,25,1,2,3.4
+2602,Tiago Tomás,pt POR,"FW,MF",Wolfsburg,de Bundesliga,21,26,1,1,2.7
+2603,Takehiro Tomiyasu,jp JPN,DF,Arsenal,eng Premier League,24,22,2,1,1.5
+2604,James Tomkins,eng ENG,DF,Crystal Palace,eng Premier League,34,4,0,0,0.0
+2605,Fikayo Tomori,eng ENG,DF,Milan,it Serie A,25,26,4,0,3.7
+2606,Sandro Tonali,it ITA,MF,Newcastle Utd,eng Premier League,23,8,1,0,0.7
+2607,Ivan Toney,eng ENG,FW,Brentford,eng Premier League,27,17,4,2,6.0
+2608,Pablo Torre,es ESP,"MF,FW",Girona,es La Liga,20,26,0,2,0.8
+2609,Raúl Torrente,es ESP,DF,Granada,es La Liga,21,17,0,0,0.2
+2610,Ferrán Torres,es ESP,FW,Barcelona,es La Liga,23,29,7,2,5.5
+2611,Óliver Torres,es ESP,MF,Sevilla,es La Liga,28,27,0,1,0.5
+2612,Pau Torres,es ESP,DF,Aston Villa,eng Premier League,26,29,2,0,1.0
+2613,Lucas Torró,es ESP,MF,Osasuna,es La Liga,29,28,1,0,1.5
+2614,Fabio Torsiello,it ITA,"FW,DF",Darmstadt 98,de Bundesliga,18,10,0,0,0.3
+2615,Ahmed Touba,dz ALG,DF,Lecce,it Serie A,25,6,0,0,0.0
+2616,Abdoulaye Touré,gn GUI,MF,Le Havre,fr Ligue 1,29,30,2,0,3.0
+2617,Souleymane Touré,fr FRA,DF,Lorient,fr Ligue 1,20,24,1,1,1.7
+2618,Lucas Tousart,fr FRA,MF,Union Berlin,de Bundesliga,26,23,0,0,1.5
+2619,Andros Townsend,eng ENG,"MF,FW",Luton Town,eng Premier League,32,27,1,3,1.2
+2620,James Trafford,eng ENG,GK,Burnley,eng Premier League,20,28,0,0,0.0
+2621,Adama Traoré,es ESP,"FW,MF",Fulham,eng Premier League,27,17,2,3,1.5
+2622,Bénie Traoré,ci CIV,"FW,MF",Sheffield Utd,eng Premier League,20,8,0,0,0.3
+2623,Bénie Traoré,ci CIV,"FW,MF",Nantes,fr Ligue 1,20,14,0,1,0.7
+2624,Bertrand Traoré,bf BFA,"DF,FW",Aston Villa,eng Premier League,27,2,0,0,0.0
+2625,Bertrand Traoré,bf BFA,MF,Villarreal,es La Liga,27,11,1,0,0.9
+2626,Boubacar Traoré,ml MLI,MF,Wolves,eng Premier League,21,24,0,0,0.3
+2627,Chaka Traorè,ci CIV,FW,Milan,it Serie A,18,2,1,0,0.1
+2628,Daouda Traoré,fr FRA,MF,Nice,fr Ligue 1,17,1,0,0,0.1
+2629,Hamari Traoré,ml MLI,DF,Real Sociedad,es La Liga,31,31,0,2,0.5
+2630,Ismaël Traoré,ci CIV,DF,Metz,fr Ligue 1,36,26,2,0,0.8
+2631,Omar Traoré,de GER,DF,Heidenheim,de Bundesliga,25,31,0,2,0.3
+2632,Kevin Trapp,de GER,GK,Eint Frankfurt,de Bundesliga,33,32,0,0,0.0
+2633,Mark Travers,ie IRL,GK,Bournemouth,eng Premier League,24,4,0,0,0.0
+2634,Óscar Trejo,ar ARG,"FW,MF",Rayo Vallecano,es La Liga,35,31,0,0,0.9
+2635,Mike Trésor,be BEL,"FW,MF",Burnley,eng Premier League,24,16,0,0,0.5
+2636,Manu Trigueros,es ESP,MF,Villarreal,es La Liga,31,14,0,0,0.5
+2637,Christopher Trimmel,at AUT,DF,Union Berlin,de Bundesliga,36,26,0,2,0.6
+2638,Kieran Trippier,eng ENG,DF,Newcastle Utd,eng Premier League,32,28,1,10,0.7
+2639,Leandro Trossard,be BEL,"FW,MF",Arsenal,eng Premier League,28,34,12,1,7.9
+2640,Adrien Truffert,fr FRA,DF,Rennes,fr Ligue 1,21,30,1,2,1.7
+2641,Auston Trusty,us USA,DF,Sheffield Utd,eng Premier League,24,32,0,0,0.4
+2642,Kostas Tsimikas,gr GRE,DF,Liverpool,eng Premier League,27,13,0,3,0.1
+2643,Viktor Tsyhankov,ua UKR,"MF,FW",Girona,es La Liga,25,30,8,7,6.2
+2644,Stefano Turati,it ITA,GK,Frosinone,it Serie A,21,31,0,0,0.0
+2645,Matt Turner,us USA,GK,Nott'ham Forest,eng Premier League,29,17,0,0,0.0
+2646,Beñat Turrientes,es ESP,MF,Real Sociedad,es La Liga,21,29,0,1,1.2
+2647,Tuta,br BRA,DF,Eint Frankfurt,de Bundesliga,24,30,1,2,1.4
+2648,Destiny Udogie,it ITA,DF,Tottenham,eng Premier League,20,28,2,3,2.4
+2649,Matthieu Udol,fr FRA,DF,Metz,fr Ligue 1,27,30,3,3,1.4
+2650,Manuel Ugarte Ribeiro,uy URU,MF,Paris S-G,fr Ligue 1,22,25,0,2,0.6
+2651,Lesley Ugochukwu,fr FRA,MF,Chelsea,eng Premier League,19,12,0,0,0.0
+2652,Lukas Ullrich,de GER,"DF,FW",Gladbach,de Bundesliga,19,4,0,0,0.0
+2653,Sven Ulreich,de GER,GK,Bayern Munich,de Bundesliga,34,11,0,0,0.0
+2654,Samuel Umtiti,fr FRA,DF,Lille,fr Ligue 1,29,6,0,0,0.0
+2655,Enes Ünal,tr TUR,"FW,MF",Bournemouth,eng Premier League,26,16,2,2,2.9
+2656,Enes Ünal,tr TUR,"FW,MF",Getafe,es La Liga,26,3,0,1,0.1
+2657,Deniz Undav,de GER,"FW,MF",Stuttgart,de Bundesliga,27,30,18,10,15.0
+2658,Dayot Upamecano,fr FRA,DF,Bayern Munich,de Bundesliga,24,25,1,0,1.7
+2659,Kacper Urbanski,pl POL,"MF,FW",Bologna,it Serie A,18,22,0,1,1.1
+2660,Mark Uth,de GER,"MF,FW",Köln,de Bundesliga,31,11,0,1,2.0
+2661,Myrto Uzuni,al ALB,FW,Granada,es La Liga,28,34,11,1,12.9
+2662,Josha Vagnoman,de GER,DF,Stuttgart,de Bundesliga,22,18,2,2,1.3
+2663,Óscar Valentín,es ESP,MF,Rayo Vallecano,es La Liga,28,34,1,0,1.7
+2664,Emanuele Valeri,it ITA,DF,Frosinone,it Serie A,24,16,0,1,0.9
+2665,Martin Valjent,sk SVK,DF,Mallorca,es La Liga,27,28,0,1,0.3
+2666,Jesús Vallejo,es ESP,DF,Granada,es La Liga,26,3,0,0,0.0
+2667,Álvaro Vallés,es ESP,GK,Las Palmas,es La Liga,26,37,0,0,0.0
+2668,Federico Valverde,uy URU,MF,Real Madrid,es La Liga,25,37,2,7,3.5
+2669,Kévin Van Den Kerkhof,dz ALG,"FW,MF",Metz,fr Ligue 1,27,29,1,2,1.5
+2670,Siebe Van Der Heyden,be BEL,DF,Mallorca,es La Liga,25,6,0,0,0.2
+2671,Virgil van Dijk,nl NED,DF,Liverpool,eng Premier League,32,36,2,2,2.8
+2672,Vanderson,br BRA,DF,Monaco,fr Ligue 1,22,20,3,1,2.1
+2673,Raphaël Varane,fr FRA,DF,Manchester Utd,eng Premier League,30,22,1,0,1.3
+2674,Ruben Vargas,ch SUI,"MF,FW",Augsburg,de Bundesliga,24,31,4,5,3.9
+2675,Johan Vásquez,mx MEX,DF,Genoa,it Serie A,24,37,1,1,1.9
+2676,José Luis García Vayá,es ESP,MF,Valencia,es La Liga,24,37,7,1,7.3
+2677,Borja Vázquez,es ESP,FW,Cádiz,es La Liga,18,1,0,0,0.0
+2678,Jesus Vazquez,es ESP,"DF,MF",Valencia,es La Liga,20,20,1,0,1.2
+2679,Kevin Vázquez,es ESP,DF,Celta Vigo,es La Liga,30,12,0,0,0.0
+2680,Lucas Vázquez,es ESP,DF,Real Madrid,es La Liga,32,29,3,6,1.2
+2681,Matías Vecino,uy URU,MF,Lazio,it Serie A,31,31,6,1,3.7
+2682,Gabriel Veiga,es ESP,FW,Celta Vigo,es La Liga,21,1,0,0,0.0
+2683,Alejo Véliz,ar ARG,FW,Tottenham,eng Premier League,19,8,1,0,0.2
+2684,Alejo Véliz,ar ARG,FW,Sevilla,es La Liga,19,6,0,0,0.2
+2685,Miloš Veljković,rs SRB,DF,Werder Bremen,de Bundesliga,27,23,2,1,1.7
+2686,Joël Veltman,nl NED,DF,Brighton,eng Premier League,31,27,1,1,0.4
+2687,Micky van de Ven,nl NED,DF,Tottenham,eng Premier League,22,27,3,0,0.6
+2688,Lorenzo Venuti,it ITA,DF,Lecce,it Serie A,28,14,0,0,0.1
+2689,Bart Verbruggen,nl NED,GK,Brighton,eng Premier League,20,21,0,0,0.0
+2690,Simone Verdi,it ITA,FW,Torino,it Serie A,31,1,0,0,0.0
+2691,Jordan Veretout,fr FRA,MF,Marseille,fr Ligue 1,30,29,1,2,2.9
+2692,Arthur Vermeeren,be BEL,MF,Atlético Madrid,es La Liga,18,5,0,0,0.0
+2693,Yorbe Vertessen,be BEL,"FW,MF",Union Berlin,de Bundesliga,22,13,3,2,2.7
+2694,Mikel Vesga,es ESP,MF,Athletic Club,es La Liga,30,27,3,1,2.7
+2695,Guglielmo Vicario,it ITA,GK,Tottenham,eng Premier League,26,38,0,0,0.0
+2696,Carlos Vicente,es ESP,FW,Alavés,es La Liga,24,18,2,4,2.3
+2697,Nacho Vidal,es ESP,"DF,FW",Osasuna,es La Liga,28,7,1,0,0.3
+2698,Nacho Vidal,es ESP,DF,Mallorca,es La Liga,28,8,0,0,1.0
+2699,Fabio Vieira,pt POR,"MF,FW",Arsenal,eng Premier League,23,11,1,2,1.3
+2700,Fran Vieites,es ESP,GK,Betis,es La Liga,24,4,0,0,0.0
+2701,Jonathan Viera,es ESP,"MF,FW",Las Palmas,es La Liga,33,9,2,1,2.3
+2702,Jonathan Viera,es ESP,MF,Almería,es La Liga,33,12,0,3,1.3
+2703,Emanuel Vignato,it ITA,"MF,FW",Salernitana,it Serie A,22,9,0,1,0.0
+2704,Samuele Vignato,it ITA,"MF,FW",Monza,it Serie A,19,10,1,0,1.7
+2705,Oscar Vilhelmsson,se SWE,"FW,MF",Darmstadt 98,de Bundesliga,19,26,4,1,4.1
+2706,Toni Villa,es ESP,FW,Girona,es La Liga,28,2,0,0,0.0
+2707,Asier Villalibre,es ESP,FW,Athletic Club,es La Liga,25,18,2,1,1.7
+2708,Gonzalo Villar,es ESP,MF,Granada,es La Liga,25,35,1,3,1.9
+2709,Iván Villar,es ESP,GK,Celta Vigo,es La Liga,26,12,0,0,0.0
+2710,Matías Viña,uy URU,DF,Sassuolo,it Serie A,25,15,0,3,0.3
+2711,Rúben Vinagre,pt POR,"DF,FW",Hellas Verona,it Serie A,24,12,0,0,0.0
+2712,Carlos Vinícius,br BRA,FW,Fulham,eng Premier League,28,13,2,0,1.6
+2713,Nicolas Viola,it ITA,"MF,FW",Cagliari,it Serie A,33,26,5,2,3.4
+2714,Alan Virginius,fr FRA,FW,Lille,fr Ligue 1,20,2,0,0,0.0
+2715,Alan Virginius,fr FRA,FW,Clermont Foot,fr Ligue 1,20,14,0,2,1.3
+2716,Ricardo Visus,es ESP,DF,Betis,es La Liga,22,3,0,0,0.0
+2717,Mattia Viti,it ITA,DF,Sassuolo,it Serie A,21,15,1,0,1.0
+2718,Vitinha,pt POR,"FW,MF",Genoa,it Serie A,23,9,2,0,1.1
+2719,Vitinha,pt POR,FW,Marseille,fr Ligue 1,23,18,3,2,5.1
+2720,Vitinha,pt POR,MF,Paris S-G,fr Ligue 1,23,28,7,4,3.1
+2721,Vitinho,br BRA,"DF,MF",Burnley,eng Premier League,24,32,0,2,1.6
+2722,Daniel Vivian,es ESP,DF,Athletic Club,es La Liga,24,33,0,0,0.6
+2723,Odisseas Vlachodimos,gr GRE,GK,Nott'ham Forest,eng Premier League,29,5,0,0,0.0
+2724,Dušan Vlahović,rs SRB,FW,Juventus,it Serie A,23,33,16,4,16.6
+2725,Nikola Vlašić,hr CRO,"MF,FW",Torino,it Serie A,25,33,3,2,2.4
+2726,Alessandro Vogliacco,it ITA,DF,Genoa,it Serie A,24,20,0,1,0.4
+2727,Kevin Vogt,de GER,DF,Hoffenheim,de Bundesliga,31,16,0,0,0.7
+2728,Kevin Vogt,de GER,DF,Union Berlin,de Bundesliga,31,16,0,0,0.0
+2729,Mërgim Vojvoda,xk KVX,DF,Torino,it Serie A,28,28,0,3,0.4
+2730,Kevin Volland,de GER,"FW,MF",Union Berlin,de Bundesliga,31,26,3,4,5.3
+2731,Cristian Volpato,it ITA,"MF,FW",Sassuolo,it Serie A,19,22,1,0,0.5
+2732,Aster Vranckx,be BEL,MF,Wolfsburg,de Bundesliga,20,24,0,0,0.1
+2733,Stefan de Vrij,nl NED,DF,Inter,it Serie A,31,25,1,0,0.6
+2734,Elye Wahi,fr FRA,FW,Montpellier,fr Ligue 1,20,1,0,0,0.0
+2735,Elye Wahi,fr FRA,FW,Lens,fr Ligue 1,20,27,9,3,11.5
+2736,Walace,br BRA,MF,Udinese,it Serie A,28,37,2,0,0.8
+2737,Luca Waldschmidt,de GER,"MF,FW",Köln,de Bundesliga,27,22,3,0,2.9
+2738,Kyle Walker,eng ENG,DF,Manchester City,eng Premier League,33,32,0,4,0.4
+2739,Sebastian Walukiewicz,pl POL,DF,Empoli,it Serie A,23,27,0,0,0.1
+2740,Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,eng Premier League,25,22,0,2,0.1
+2741,Joel Ward,eng ENG,DF,Crystal Palace,eng Premier League,33,26,0,1,0.9
+2742,James Ward-Prowse,eng ENG,MF,West Ham,eng Premier League,28,37,7,7,6.0
+2743,Lewis Warrington,eng ENG,FW,Everton,eng Premier League,20,1,0,0,0.0
+2744,Deivid Washington,br BRA,"DF,FW",Chelsea,eng Premier League,18,2,0,0,0.5
+2745,Kjell-Arik Wätjen,de GER,"MF,FW",Dortmund,de Bundesliga,17,2,0,1,0.0
+2746,Ollie Watkins,eng ENG,FW,Aston Villa,eng Premier League,27,37,19,13,16.8
+2747,Timothy Weah,us USA,"DF,FW",Juventus,it Serie A,23,30,0,1,1.5
+2748,Adam Webster,eng ENG,DF,Brighton,eng Premier League,28,15,0,0,0.4
+2749,Wout Weghorst,nl NED,FW,Hoffenheim,de Bundesliga,30,28,7,3,7.2
+2750,Julian Weigl,de GER,MF,Gladbach,de Bundesliga,27,31,2,3,2.4
+2751,Nelson Weiper,de GER,"FW,MF",Mainz 05,de Bundesliga,18,5,0,0,0.5
+2752,Mitchell Weiser,de GER,"DF,MF",Werder Bremen,de Bundesliga,29,30,3,7,3.8
+2753,Noah Weißhaupt,de GER,"DF,FW",Freiburg,de Bundesliga,21,24,1,2,0.4
+2754,Shon Weissman,il ISR,"FW,DF",Salernitana,it Serie A,27,11,1,0,1.0
+2755,Shon Weissman,il ISR,FW,Granada,es La Liga,27,5,0,0,0.0
+2756,Danny Welbeck,eng ENG,"FW,MF",Brighton,eng Premier League,32,29,5,1,5.3
+2757,Timo Werner,de GER,FW,Tottenham,eng Premier League,27,13,2,3,3.7
+2758,Timo Werner,de GER,"FW,MF",RB Leipzig,de Bundesliga,27,8,2,0,2.4
+2759,Adam Wharton,eng ENG,MF,Crystal Palace,eng Premier League,19,16,0,3,0.3
+2760,Ethan Wheatley,eng ENG,FW,Manchester Utd,eng Premier League,17,3,0,0,0.0
+2761,Ben White,eng ENG,DF,Arsenal,eng Premier League,25,37,4,4,1.2
+2762,Joe White,eng ENG,MF,Newcastle Utd,eng Premier League,20,4,0,0,0.0
+2763,Silvan Widmer,ch SUI,DF,Mainz 05,de Bundesliga,30,20,1,3,1.4
+2764,Mateusz Wieteska,pl POL,DF,Cagliari,it Serie A,26,19,0,1,0.3
+2765,Mateusz Wieteska,pl POL,DF,Clermont Foot,fr Ligue 1,26,2,1,0,0.1
+2766,Iñaki Williams,gh GHA,FW,Athletic Club,es La Liga,29,34,12,3,9.4
+2767,Neco Williams,wls WAL,DF,Nott'ham Forest,eng Premier League,22,26,0,1,0.8
+2768,Nico Williams,es ESP,FW,Athletic Club,es La Liga,21,31,5,11,6.0
+2769,Willian,br BRA,FW,Fulham,eng Premier League,34,31,4,2,5.1
+2770,Joe Willock,eng ENG,MF,Newcastle Utd,eng Premier League,23,9,1,0,0.8
+2771,Callum Wilson,eng ENG,FW,Newcastle Utd,eng Premier League,31,20,9,1,8.8
+2772,Harry Wilson,wls WAL,FW,Fulham,eng Premier League,26,35,4,6,3.4
+2773,Josh Wilson-Esbrand,eng ENG,"DF,MF",Reims,fr Ligue 1,20,11,1,1,0.1
+2774,Patrick Wimmer,at AUT,"FW,MF",Wolfsburg,de Bundesliga,22,14,2,0,1.4
+2775,Jonas Wind,dk DEN,FW,Wolfsburg,de Bundesliga,24,34,11,7,9.4
+2776,Florian Wirtz,de GER,MF,Leverkusen,de Bundesliga,20,32,11,11,8.9
+2777,Yoane Wissa,cd COD,FW,Brentford,eng Premier League,26,34,12,3,10.6
+2778,Axel Witsel,be BEL,DF,Atlético Madrid,es La Liga,34,35,2,0,1.0
+2779,Maximilian Wittek,de GER,"DF,FW",Bochum,de Bundesliga,27,21,3,1,1.3
+2780,Maximilian Wöber,at AUT,DF,Gladbach,de Bundesliga,25,25,2,3,1.3
+2781,Marius Wolf,de GER,DF,Dortmund,de Bundesliga,28,22,0,1,0.6
+2782,Nick Woltemade,de GER,"FW,MF",Werder Bremen,de Bundesliga,21,30,2,0,2.4
+2783,Jeong Woo-yeong,kr KOR,"MF,FW",Stuttgart,de Bundesliga,23,26,2,3,1.8
+2784,Chris Wood,nz NZL,FW,Nott'ham Forest,eng Premier League,31,31,14,1,11.9
+2785,Cauley Woodrow,eng ENG,"FW,MF",Luton Town,eng Premier League,28,24,1,1,1.4
+2786,Christopher Wooh,cm CMR,DF,Rennes,fr Ligue 1,21,18,1,0,1.3
+2787,Joe Worrall,eng ENG,DF,Nott'ham Forest,eng Premier League,26,7,0,0,0.1
+2788,Xeber,es ESP,"FW,MF",Alavés,es La Liga,26,10,0,0,0.4
+2789,Granit Xhaka,ch SUI,MF,Leverkusen,de Bundesliga,30,33,3,0,1.8
+2790,Antal Yaakobishvili,hu HUN,DF,Girona,es La Liga,19,1,0,0,0.0
+2791,Lamine Yamal,es ESP,FW,Barcelona,es La Liga,16,37,5,5,5.2
+2792,Roman Yaremchuk,ua UKR,FW,Valencia,es La Liga,27,25,3,0,4.6
+2793,Yehor Yarmoliuk,ua UKR,MF,Brentford,eng Premier League,19,27,0,0,1.0
+2794,Ryan Yates,eng ENG,MF,Nott'ham Forest,eng Premier League,25,35,1,1,2.6
+2795,Yusuf Yazıcı,tr TUR,"MF,FW",Lille,fr Ligue 1,26,27,5,2,5.4
+2796,Kelvin Yeboah,it ITA,FW,Montpellier,fr Ligue 1,23,13,0,0,0.5
+2797,Bertuğ Yıldırım,tr TUR,FW,Rennes,fr Ligue 1,21,21,0,1,1.4
+2798,Kenan Yıldız,tr TUR,"FW,MF",Juventus,it Serie A,18,27,2,0,1.6
+2799,Darlin Yongwa,cm CMR,DF,Lorient,fr Ligue 1,22,22,1,1,0.7
+2800,Leny Yoro,fr FRA,DF,Lille,fr Ligue 1,17,32,2,0,1.5
+2801,Ashley Young,eng ENG,"DF,MF",Everton,eng Premier League,38,31,0,0,0.6
+2802,Etienne Youte Kinkoue,fr FRA,DF,Le Havre,fr Ligue 1,21,22,0,0,0.4
+2803,Illia Zabarnyi,ua UKR,DF,Bournemouth,eng Premier League,20,37,1,0,1.1
+2804,Mattia Zaccagni,it ITA,"FW,MF",Lazio,it Serie A,28,28,6,1,4.7
+2805,Dan-Axel Zagadou,fr FRA,DF,Stuttgart,de Bundesliga,24,19,1,0,1.0
+2806,Yoram Zague,fr FRA,DF,Paris S-G,fr Ligue 1,17,5,1,0,0.3
+2807,Warren Zaïre-Emery,fr FRA,"MF,DF",Paris S-G,fr Ligue 1,17,26,2,3,1.4
+2808,Denis Zakaria,ch SUI,"MF,DF",Monaco,fr Ligue 1,26,25,4,0,1.4
+2809,Arsen Zakharyan,ru RUS,"MF,FW",Real Sociedad,es La Liga,20,29,1,2,2.4
+2810,Joseba Zaldúa,es ESP,DF,Cádiz,es La Liga,31,13,0,0,0.0
+2811,Nicola Zalewski,pl POL,"DF,FW",Roma,it Serie A,21,22,0,1,0.8
+2812,Andre-Frank Zambo Anguissa,cm CMR,MF,Napoli,it Serie A,27,34,0,2,3.4
+2813,Nicolò Zaniolo,it ITA,"FW,MF",Aston Villa,eng Premier League,24,25,2,0,2.6
+2814,Alessandro Zanoli,it ITA,DF,Salernitana,it Serie A,22,17,0,2,0.2
+2815,Alessandro Zanoli,it ITA,"DF,FW",Napoli,it Serie A,22,4,0,0,0.0
+2816,Duván Zapata,co COL,FW,Torino,it Serie A,32,35,12,4,10.9
+2817,Duván Zapata,co COL,FW,Atalanta,it Serie A,32,2,1,0,0.4
+2818,Gabriele Zappa,it ITA,DF,Cagliari,it Serie A,23,38,1,3,1.5
+2819,Davide Zappacosta,it ITA,DF,Atalanta,it Serie A,31,31,2,1,2.2
+2820,Bryan Zaragoza,es ESP,"MF,FW",Granada,es La Liga,22,21,6,2,3.8
+2821,Bryan Zaragoza,es ESP,"FW,MF",Bayern Munich,de Bundesliga,22,7,0,0,0.5
+2822,Anass Zaroury,ma MAR,"FW,MF",Burnley,eng Premier League,22,6,0,0,0.2
+2823,Oier Zarraga,es ESP,MF,Udinese,it Serie A,24,15,2,0,0.6
+2824,Mehdi Zeffane,dz ALG,"DF,MF",Clermont Foot,fr Ligue 1,31,23,0,0,1.4
+2825,Jordan Zemura,zw ZIM,DF,Udinese,it Serie A,23,27,1,0,0.8
+2826,Robin Zentner,de GER,GK,Mainz 05,de Bundesliga,28,30,0,0,0.0
+2827,Alessio Zerbin,it ITA,"DF,FW",Monza,it Serie A,24,13,0,1,0.4
+2828,Alessio Zerbin,it ITA,"FW,DF",Napoli,it Serie A,24,7,0,0,0.2
+2829,Kevin Zeroli,it ITA,MF,Milan,it Serie A,18,3,0,0,0.0
+2830,Cedric Zesiger,ch SUI,DF,Wolfsburg,de Bundesliga,25,23,0,0,1.3
+2831,Michael Zetterer,de GER,GK,Werder Bremen,de Bundesliga,28,27,0,0,0.1
+2832,Nathan Zeze,fr FRA,DF,Nantes,fr Ligue 1,18,13,0,0,0.3
+2833,Edon Zhegrova,xk KVX,FW,Lille,fr Ligue 1,24,33,6,6,6.2
+2834,Piotr Zieliński,pl POL,MF,Napoli,it Serie A,29,28,3,2,2.6
+2835,David Zima,cz CZE,DF,Torino,it Serie A,22,5,0,0,0.0
+2836,Christoph Zimmermann,de GER,DF,Darmstadt 98,de Bundesliga,30,19,0,0,0.3
+2837,Oleksandr Zinchenko,ua UKR,DF,Arsenal,eng Premier League,26,27,1,2,0.6
+2838,Joshua Zirkzee,nl NED,FW,Bologna,it Serie A,22,34,11,4,9.0
+2839,Luc Zogbé,ci CIV,DF,Brest,fr Ligue 1,18,1,0,0,0.0
+2840,Simon Zoller,de GER,"FW,MF",Bochum,de Bundesliga,32,1,0,0,0.0
+2841,Nadir Zortea,it ITA,DF,Frosinone,it Serie A,24,14,1,5,0.4
+2842,Nadir Zortea,it ITA,DF,Atalanta,it Serie A,24,5,1,0,0.1
+2843,Kurt Zouma,fr FRA,DF,West Ham,eng Premier League,28,33,3,0,1.8
+2844,Igor Zubeldia,es ESP,DF,Real Sociedad,es La Liga,26,30,0,2,0.8
+2845,Martín Zubimendi,es ESP,MF,Real Sociedad,es La Liga,24,31,4,1,2.7
+2846,Szymon Żurkowski,pl POL,MF,Empoli,it Serie A,25,13,4,0,1.0
+2847,Lovro Zvonarek,hr CRO,"FW,MF",Bayern Munich,de Bundesliga,18,5,1,0,0.1
+2848,Martin Ødegaard,no NOR,MF,Arsenal,eng Premier League,24,35,8,10,7.4
+2849,Milan Đurić,ba BIH,FW,Hellas Verona,it Serie A,33,20,5,1,4.5
+2850,Milan Đurić,ba BIH,FW,Monza,it Serie A,33,17,4,1,3.0
+2851,Mateusz Łęgowski,pl POL,MF,Salernitana,it Serie A,20,29,0,0,0.2
