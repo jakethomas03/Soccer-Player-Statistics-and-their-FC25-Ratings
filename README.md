@@ -4,6 +4,9 @@
 Jake Thomas
 <br> 
 December 17, 2024
+<br>
+<br>
+![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20&style=for-the-badge )
 
 ## Introduction 
 EA Sports FC (formerly FIFA) is a soccer video game franchise who’s ratings of players hold a large weight amongst fans and football communities around the world. Statistics are a key indicator in a soccer players performance, and have a great deal to do with their ratings in EAFC. In EAFC, each player’s rating is based on their performance in the past few seasons, but mainly takes into account the season directly prior to the new game. This is why I have decided to analyze the players last season’s statistics in order to see their impact on the players FC25 ratings.
