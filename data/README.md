@@ -1,8 +1,11 @@
-# Data folder
+# Data Folder
+
+Source data: 
+
+https://fbref.com/en/comps/Big5/2023-2024/stats/players/2023-2024-Big-5-European-Leagues-Stats 
+https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats?select=male_players.csv
 
 ## Folders
-
-Source data: example.url
 
 ### raw
 
@@ -19,10 +22,8 @@ Data that is in the process of being cleaned, processed, and analyzed
 ---
 
 ## Data Dictionary
+[Project_Final_Report.pdf](https://github.com/user-attachments/files/18169644/Project_Final_Report.pdf)
 
-| Field         | Description                         | Sample Data |
-| ------------- | ----------------------------------- | ----------- |
-| customer_id   | Unique identifier for each customer | 12345       |
-| first_name    | First name of the customer          | John        |
-| last_name     | Last name of the customer           | Doe         |
-| purchase_date | Date when the purchase was made     | 2023-08-15  |
+
+
+
