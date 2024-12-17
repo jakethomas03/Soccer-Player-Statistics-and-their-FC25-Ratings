@@ -1,25 +1,16 @@
-# Data-Analytics-Template
+# 2023 – 2024 Soccer Player Statistics and Their FC25 Ratings 
+## Data-Wrangling-Project
 
-November 11, 2024
+Jake Thomas
+<br> 
+December 17, 2024
 
-This is repository will act as a template for reference when creating new data analytics
-projects.
+## Introduction 
+EA Sports FC (formerly FIFA) is a soccer video game franchise who’s ratings of players hold a large weight amongst fans and football communities around the world. Statistics are a key indicator in a soccer players performance, and have a great deal to do with their ratings in EAFC. In EAFC, each player’s rating is based on their performance in the past few seasons, but mainly takes into account the season directly prior to the new game. This is why I have decided to analyze the players last season’s statistics in order to see their impact on the players FC25 ratings.
 
----
+In this project, I have scraped FBref statistics and performance metrics to see if there is a correlation between the players 2023-24 statistics and the players FC25 ratings that I obtained from Kaggle, as well as find out which clubs and leagues have the highest average FC25 rating. 
 
-## To do list
+<br> 
 
-[ ] task 1  
-[x] task 2  
-~[ ] task 3~
-
----
-
-## Change log
-
-For large changes in project, scraping, added raw data, reran cleaning and analysis
-
-For large/non-personal projects: create CHANGELOG.md
-
-- 11/13/2024 jt added new items
-- 11/13/2024 jt deleted old items
+## For more details like data description, file specifics, analysis and visualizations, please see my report below:
+[Project_Final_Report.pdf](https://github.com/user-attachments/files/18169554/Project_Final_Report.pdf)
